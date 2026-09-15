@@ -1,0 +1,2802 @@
+[
+  {
+    "id": 1,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q1",
+    "question": "Apa urgensi penelitian kalian?",
+    "answer": "Urgensi penelitian ini terletak pada meningkatnya fenomena Generasi Z yang mencurahkan persoalan pribadi kepada AI, di mana berdasarkan riset Digital Resilience Indonesia (DiRI, 2026) sebanyak 59,4% responden Gen Z pernah curhat ke AI. Interaksi yang semakin intens ini berisiko berkembang menjadi ketergantungan emosional ketika AI menjadi sumber utama dukungan emosional, sementara penelitian mengenai hubungan kepribadian, kecenderungan curhat ke AI, dan intervensi psikologis untuk penggunaan AI yang sehat masih terbatas, khususnya di Indonesia.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 2,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q2",
+    "question": "Mengapa penelitian ini berfokus pada Generasi Z?",
+    "answer": "Generasi Z dipilih karena merupakan generasi digital native yang paling intens berinteraksi dengan teknologi AI. Data DiRI (2026) menunjukkan mayoritas dari mereka pernah menggunakan AI sebagai media curhat untuk berbagai persoalan hidup seperti pendidikan, percintaan, masa depan, kesehatan, dan keluarga, sehingga kelompok ini paling relevan untuk diteliti terkait risiko ketergantungan emosional terhadap AI.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 3,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q3",
+    "question": "Apa keterbaruan (novelty) dari penelitian ini?",
+    "answer": "Penelitian mengenai penggunaan AI pada Generasi Z sebelumnya masih didominasi kajian teknologi dan regulasi emosi (Sari dkk., 2026). Keterbaruan riset ini terletak pada integrasi antara analisis hubungan kepribadian Big-Five dengan kecenderungan curhat ke AI, sekaligus menguji efektivitas intervensi psikologis berbasis mindfulness (MBPP) untuk menurunkannya, yang belum banyak dikaji secara bersamaan, khususnya di konteks Indonesia.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 4,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q4",
+    "question": "Mengapa menggunakan pendekatan Big-Five Personality?",
+    "answer": "Big-Five Personality Model digunakan karena mampu menggambarkan variasi perilaku komunikasi, ekspresi emosi, dan kecenderungan individu dalam berinteraksi dengan AI (Arpaci dkk., 2025). Pendekatan ini membantu memahami mengapa sebagian individu lebih rentan menjadikan AI sebagai media curhat dibanding individu lain.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 5,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q5",
+    "question": "Mengapa memilih Mindfulness-Based Psychoeducation Programme (MBPP) sebagai bentuk intervensi?",
+    "answer": "MBPP dipilih karena mindfulness telah terbukti efektif dalam menurunkan berbagai bentuk ketergantungan dan gejala adiksi (Sancho dkk., 2018). Pendekatan psikoedukasi berbasis mindfulness dianggap tepat untuk meningkatkan kesadaran diri partisipan sehingga dapat mengurangi ketergantungan curhat pada AI secara mandiri, bukan hanya secara instan/sesaat.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 6,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q6",
+    "question": "Apa itu ketergantungan curhat pada AI?",
+    "answer": "Ketergantungan curhat pada AI adalah kondisi ketika penggunaan AI sebagai ruang relasional untuk self-disclosure berkembang menjadi ketergantungan emosional, yaitu ketika chatbot AI menjadi sumber utama dukungan emosional individu, menggantikan peran dukungan sosial dari manusia.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 7,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q7",
+    "question": "Apa hubungan penelitian ini dengan tema PKM dan Asta Cita?",
+    "answer": "Penelitian ini selaras dengan tema PKM keenam, yaitu Penguatan Pendidikan, Sains, dan Teknologi, karena berfokus pada penguatan kapasitas psikologis Generasi Z sebagai fondasi pembelajaran dan adaptasi terhadap perkembangan AI. Penelitian ini juga mendukung Asta Cita poin keempat mengenai penguatan sumber daya manusia melalui peningkatan kualitas pendidikan serta penguasaan sains dan teknologi.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 8,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q8",
+    "question": "Apa perbedaan penelitian ini dengan penelitian-penelitian sebelumnya tentang penggunaan AI pada Gen Z?",
+    "answer": "Penelitian sebelumnya lebih banyak membahas aspek teknologi dan regulasi emosi AI (Sari dkk., 2026), sementara kajian mengenai hubungan kepribadian, kecenderungan curhat ke AI, dan pendekatan psikologis untuk penggunaan AI yang sehat masih terbatas (Papneja & Yadav, 2025). Penelitian ini mengisi kekosongan tersebut dengan menggabungkan analisis kuantitatif hubungan kepribadian dan uji efektivitas intervensi psikologis.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 9,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q9",
+    "question": "Mengapa pendekatan yang digunakan bersifat psikologis, bukan teknis (misalnya regulasi/kebijakan AI)?",
+    "answer": "Karena akar persoalan ketergantungan curhat pada AI bersifat relasional dan emosional, bukan semata teknis. Pemahaman terhadap dimensi kepribadian dan dinamika psikologis pengguna penting untuk merancang intervensi yang lebih tepat sasaran (Zhai, dkk., 2025) dibandingkan hanya mengandalkan regulasi teknologi.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 10,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q10",
+    "question": "Apa dasar teori yang mendukung munculnya ketergantungan emosional terhadap AI?",
+    "answer": "Chatbot AI dapat menjadi ruang relasional di mana self-disclosure dan dukungan emosional memperkuat keintiman serta ikatan emosional pengguna dengan AI. Pemanfaatan AI sebagai media curhat ini dipengaruhi oleh karakteristik psikologis, terutama kepribadian (Oh, dkk., 2026), yang menjadi dasar penelitian ini.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 11,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q11",
+    "question": "Apakah fenomena curhat ke AI ini benar-benar bermasalah, atau justru bentuk coping yang adaptif bagi Generasi Z?",
+    "answer": "Curhat ke AI tidak selalu bermasalah selama sifatnya suplementer terhadap dukungan sosial manusia. Yang menjadi persoalan dalam penelitian ini bukan penggunaannya semata, melainkan ketika AI bergeser menjadi sumber utama dukungan emosional dan menggantikan relasi manusia, sehingga fungsinya berubah dari coping adaptif menjadi ketergantungan emosional yang berisiko mengikis kapasitas regulasi emosi mandiri dan dukungan sosial nyata.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 12,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q12",
+    "question": "Bagaimana penelitian ini membedakan penggunaan AI yang sehat dengan yang sudah tergolong ketergantungan? Di mana letak batasannya?",
+    "answer": "Batasan tersebut diukur secara operasional melalui skor CAIDS-20, yang mengkategorikan tingkat ketergantungan curhat pada AI ke dalam kategori rendah, sedang, dan tinggi. Partisipan yang direkrut untuk intervensi MBPP dibatasi hanya pada kategori sedang-tinggi, sehingga secara konseptual batas antara penggunaan sehat dan ketergantungan ditentukan oleh derajat keterlibatan emosional dan sejauh mana AI menggantikan, bukan sekadar melengkapi, dukungan sosial manusia.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 13,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q13",
+    "question": "Mengapa penelitian ini hanya menggunakan kerangka Big-Five, padahal literatur juga menunjukkan faktor lain seperti kesepian dan self-esteem berperan penting?",
+    "answer": "Big-Five dipilih sebagai titik masuk karena sifatnya sebagai trait disposisional yang relatif stabil dan mendasari variasi perilaku individu, termasuk kecenderungan self-disclosure. Peneliti menyadari bahwa faktor afektif seperti kesepian turut berkontribusi (Fang & Bian, 2026), sehingga temuan korelasi yang lemah dalam penelitian ini justru menjadi dasar argumentasi bahwa ketergantungan curhat pada AI bersifat multifaktorial dan kepribadian hanyalah salah satu prediktor, bukan penjelas tunggal.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 14,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q14",
+    "question": "Bagaimana kalian mengantisipasi risiko generalisasi berlebihan atau stereotip terhadap Generasi Z sebagai generasi yang 'kecanduan AI'?",
+    "answer": "Penelitian ini tidak berangkat dari asumsi bahwa seluruh Generasi Z mengalami ketergantungan, melainkan mengidentifikasi kelompok berisiko melalui skrining berbasis instrumen tervalidasi (CAIDS-20) terhadap 440 responden. Dengan demikian, temuan diinterpretasikan sebagai gambaran sebagian kelompok berisiko, bukan generalisasi karakteristik seluruh generasi, sehingga stigma terhadap Gen Z secara keseluruhan dapat dihindari.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 15,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q15",
+    "question": "Apa perbedaan konsep ketergantungan curhat pada AI yang diteliti ini dengan konsep parasocial relationship atau AI companionship yang sudah lebih dulu dikaji dalam literatur?",
+    "answer": "Parasocial relationship umumnya menekankan ilusi kedekatan satu arah terhadap figur publik atau media, sedangkan AI companionship lebih menyoroti aspek relasional interaktif jangka panjang dengan agen AI. Ketergantungan curhat pada AI dalam penelitian ini lebih spesifik menyoroti fungsi AI sebagai ruang self-disclosure dan sumber utama dukungan emosional, sehingga fokusnya pada pergeseran fungsi dukungan sosial, bukan sekadar kualitas relasi atau ilusi kedekatan itu sendiri.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 16,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q16",
+    "question": "Mengapa intervensi yang dipilih adalah mindfulness (MBPP), bukan pendekatan lain seperti cognitive behavioral therapy (CBT) atau pelatihan keterampilan sosial?",
+    "answer": "Mindfulness dipilih karena berfokus pada penguatan kesadaran diri (self-awareness) sebagai fondasi regulasi emosi internal, yang secara teoritis relevan dengan akar masalah ketergantungan, yakni minimnya kesadaran individu dalam memilah kebutuhan emosionalnya. CBT lebih menyasar restrukturisasi kognitif atas pola pikir maladaptif, sementara pelatihan keterampilan sosial berfokus pada kompetensi interpersonal; keduanya relevan namun tidak secara langsung membangun kesadaran diri sebagai mekanisme perubahan sebagaimana mindfulness, dan durasi program PKM yang terbatas juga lebih memungkinkan format psikoedukasi mindfulness yang ringkas.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 17,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q17",
+    "question": "Apa risiko etis meneliti topik kesehatan mental yang sensitif ini, dan bagaimana penelitian ini mengantisipasinya sejak tahap perumusan masalah?",
+    "answer": "Risiko etis meliputi kemungkinan partisipan mengungkap pengalaman emosional yang rentan (kesepian, tekanan psikologis) sehingga berpotensi memicu distres. Sejak tahap perumusan masalah, penelitian ini dirancang menggunakan instrumen skrining tervalidasi untuk mengidentifikasi partisipan secara tepat sasaran, serta proses pengambilan data kualitatif yang bersifat sukarela dan rahasia, sebagai landasan bagi prosedur informed consent dan kerahasiaan data pada tahap pelaksanaan.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 18,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q18",
+    "question": "Bagaimana urgensi penelitian ini dapat dipertanggungjawabkan secara ilmiah, mengingat data DiRI (2026) yang dirujuk merupakan riset lembaga eksternal, bukan data primer tim peneliti?",
+    "answer": "Data DiRI (2026) digunakan sebagai basis argumentasi awal untuk menunjukkan skala fenomena curhat ke AI pada Gen Z secara nasional, sementara validitasnya sebagai dasar urgensi diperkuat oleh temuan skrining tim peneliti sendiri terhadap 440 responden yang menunjukkan pola serupa. Dengan demikian, data eksternal berfungsi sebagai justifikasi awal, sedangkan data primer penelitian menjadi bukti empiris yang menguatkan urgensi tersebut secara mandiri.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 19,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q19",
+    "question": "Jika hasil akhir menunjukkan korelasi kepribadian-ketergantungan AI hanya lemah, apakah premis dasar penelitian di bab pendahuluan masih relevan?",
+    "answer": "Premis dasar tetap relevan karena tujuan penelitian bukan untuk membuktikan kepribadian sebagai satu-satunya prediktor, melainkan untuk memetakan hubungannya sebagai salah satu faktor psikologis yang relevan. Kekuatan korelasi yang lemah justru memperkaya kontribusi teoretis penelitian dengan menegaskan sifat multifaktorial ketergantungan curhat pada AI, sehingga tetap konsisten dengan urgensi awal yang menyoroti keterbatasan kajian pada aspek psikologis penggunaan AI.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 20,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q20",
+    "question": "Apakah penelitian ini mempertimbangkan kemungkinan bahwa hubungan kepribadian dan ketergantungan AI bersifat dua arah (bidirectional), bukan hanya kepribadian memengaruhi ketergantungan?",
+    "answer": "Penelitian ini menyadari keterbatasan tersebut, karena desain korelasional cross-sectional pada tahap skrining tidak memungkinkan penarikan kesimpulan kausal maupun arah hubungan. Interpretasi hubungan negatif antara kepribadian dan ketergantungan curhat pada AI karenanya dimaknai sebagai asosiasi, bukan sebab-akibat searah, dan kemungkinan hubungan timbal balik ini menjadi salah satu arah penelitian lanjutan yang direkomendasikan.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 21,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q21",
+    "question": "Apa landasan teori yang mendasari asumsi bahwa AI dapat berfungsi sebagai partner self-disclosure bagi penggunanya?",
+    "answer": "Penelitian ini merujuk pada Social Penetration Theory (Altman & Taylor, 1973) yang menjelaskan bahwa keintiman relasional terbentuk melalui proses pengungkapan diri (self-disclosure) yang bertahap, dari topik dangkal menuju topik yang lebih mendalam. Prinsip ini digunakan untuk memahami bagaimana pengguna dapat membangun kedekatan psikologis dengan AI meskipun AI bukan entitas sosial yang memiliki kesadaran.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 22,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q22",
+    "question": "Bagaimana Compensatory Internet Use Theory menjelaskan motif Generasi Z menjadikan AI sebagai media curhat?",
+    "answer": "Compensatory Internet Use Theory (Kardefelt-Winther, 2014) menjelaskan bahwa penggunaan teknologi digital secara intensif kerap muncul sebagai strategi kompensasi atas kebutuhan psikologis yang tidak terpenuhi di dunia nyata, seperti kebutuhan akan penerimaan atau ruang aman untuk berekspresi. Kerangka ini mendasari asumsi bahwa curhat kepada AI dapat berfungsi sebagai bentuk coping kompensatoris pada Generasi Z.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 23,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q23",
+    "question": "Apa relevansi Attachment Theory dengan potensi ketergantungan emosional terhadap AI?",
+    "answer": "Attachment Theory (Bowlby, 1969) menekankan bahwa individu cenderung mencari figur yang dianggap responsif dan dapat diandalkan sebagai secure base saat mengalami distres emosional. Penelitian ini berasumsi bahwa AI yang selalu tersedia dan tidak menghakimi berpotensi diposisikan sebagai figur kelekatan pengganti, sehingga teori ini relevan untuk menjelaskan munculnya ketergantungan emosional terhadap AI.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 24,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q24",
+    "question": "Bagaimana teori dukungan sosial mendasari kekhawatiran bahwa AI dapat menggantikan peran manusia?",
+    "answer": "Cohen dan Wills (1985) melalui buffering hypothesis menjelaskan bahwa dukungan sosial dari manusia berfungsi meredam dampak negatif stres terhadap kesehatan mental. Penelitian ini berasumsi bahwa apabila fungsi dukungan tersebut bergeser sepenuhnya kepada AI, kapasitas buffering yang bersifat relasional dan resiprokal dari manusia berisiko tergantikan oleh interaksi yang cenderung satu arah.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 25,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q25",
+    "question": "Apa dasar teori yang menjelaskan mengapa kesadaran diri (mindfulness) dipandang mampu mencegah ketergantungan pada AI?",
+    "answer": "Kabat-Zinn (1994) mendefinisikan mindfulness sebagai kesadaran yang muncul melalui perhatian penuh secara sengaja terhadap pengalaman saat ini tanpa menghakimi. Kerangka ini mendasari argumentasi bahwa peningkatan kesadaran diri dapat membantu individu mengenali kebutuhan emosionalnya secara mandiri, sehingga mengurangi kecenderungan bergantung pada AI sebagai satu-satunya saluran pelepasan emosi.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 26,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q26",
+    "question": "Apa landasan teori komunikasi yang menjelaskan mengapa individu bersedia melakukan self-disclosure kepada AI?",
+    "answer": "Fenomena ini dapat dijelaskan melalui Social Penetration Theory (Altman & Taylor, 1973) yang dibangun dari konsep self-disclosure Jourard (1971). Teori ini menyatakan bahwa keintiman relasi berkembang melalui pengungkapan diri yang meluas dari sisi keluasan (breadth) maupun kedalaman (depth) topik, serta bersifat resiprokal. Ketika AI dipersepsikan sebagai ruang yang aman dan tidak menghakimi, biaya psikologis (cost) dari self-disclosure menjadi lebih rendah sehingga individu lebih cepat 'menembus lapisan' pengungkapan diri kepada AI, meskipun relasi tersebut bersifat non-manusiawi.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 27,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q27",
+    "question": "Apa dasar teoretis yang menjelaskan mengapa individu menggunakan AI sebagai bentuk pelarian atau kompensasi emosional?",
+    "answer": "Penelitian ini merujuk pada Compensatory Internet Use Theory (Kardefelt-Winther, 2014) yang menjelaskan bahwa penggunaan teknologi secara berlebihan sering kali merupakan reaksi terhadap kondisi hidup yang menekan (stressor), di mana internet atau AI digunakan sebagai strategi coping untuk meredakan emosi negatif akibat kebutuhan yang tidak terpenuhi di dunia nyata. Kerangka ini mendasari argumen bahwa ketergantungan curhat pada AI berpotensi muncul ketika individu tidak memiliki sumber dukungan emosional lain yang memadai.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 28,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q28",
+    "question": "Mengapa penelitian ini merujuk pada model Big-Five versi Costa dan McCrae, bukan model leksikal Goldberg?",
+    "answer": "Model Costa dan McCrae (1992) dipilih karena merupakan Five-Factor Model yang paling banyak digunakan dan tervalidasi lintas budaya, dengan instrumen turunan seperti NEO-PI-R yang telah teruji reliabilitas dan validitasnya secara luas (McCrae & Costa, 2003). Meskipun model leksikal Goldberg (1993) juga valid, pendekatan Costa dan McCrae lebih banyak diadopsi dalam penelitian psikologi terapan karena kestabilan struktur lima faktornya pada berbagai populasi, sehingga dianggap lebih sesuai untuk mengukur trait disposisional yang mendasari perilaku curhat ke AI pada penelitian ini.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 29,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q29",
+    "question": "Mengapa penelitian ini tidak berangkat dari perspektif AI ethics atau tata kelola teknologi, melainkan psikologi kepribadian?",
+    "answer": "Floridi dan Cowls (2019) menjelaskan bahwa kajian AI ethics umumnya berfokus pada tata kelola algoritma dan dampak sosial teknologi secara makro. Penelitian ini memilih perspektif psikologi kepribadian karena berfokus pada faktor individual yang memengaruhi kerentanan pengguna, sehingga lebih relevan untuk merancang intervensi psikologis berbasis mindfulness dibandingkan pendekatan regulasi teknologi semata.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 30,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q30",
+    "question": "Apa dasar teori yang menjelaskan mengapa Generasi Z dianggap paling rentan dibanding generasi lain terhadap ketergantungan pada AI?",
+    "answer": "Twenge (2017) dalam kajiannya mengenai iGen menjelaskan bahwa Generasi Z tumbuh dengan paparan teknologi digital sejak usia dini (digital natives), yang membentuk pola interaksi sosial berbeda dibanding generasi sebelumnya, termasuk kecenderungan lebih tinggi memanfaatkan platform digital untuk kebutuhan emosional. Kerangka ini mendasari fokus penelitian pada Generasi Z sebagai kelompok yang secara psikologis dan perkembangan lebih rentan.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 31,
+    "sheet": "Dapel",
+    "category": "Dasar Penelitian",
+    "pic": "Rafli & Alfa",
+    "code": "Q31",
+    "question": "Apa dasar teori yang membedakan penggunaan AI sebagai alat bantu (tool use) dengan penggunaan AI sebagai figur relasional?",
+    "answer": "Nass dan Moon (2000) melalui paradigma Computers Are Social Actors (CASA) menjelaskan bahwa manusia secara otomatis dapat memperlakukan komputer atau AI dengan kaidah sosial layaknya interaksi antarmanusia. Perbedaan antara penggunaan AI sebagai tool dan sebagai figur relasional dalam penelitian ini didasarkan pada sejauh mana interaksi tersebut melibatkan self-disclosure emosional, bukan sekadar pemanfaatan fungsional semata.",
+    "badge_color": {
+      "bg": "rgba(99, 102, 241, 0.15)",
+      "border": "#6366f1",
+      "text": "#818cf8"
+    }
+  },
+  {
+    "id": 32,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q1",
+    "question": "Bagaimana hubungan antara dimensi kepribadian Big-Five dan ketergantungan curhat pada AI?",
+    "answer": "Hasil uji korelasi Spearman menunjukkan bahwa seluruh lima dimensi kepribadian (Extraversion, Agreeableness, Conscientiousness, Emotional Stability, Intellect) berhubungan negatif secara signifikan dengan ketergantungan curhat pada AI. Artinya, semakin tinggi skor kepribadian pada dimensi tersebut, semakin rendah kecenderungan ketergantungan curhat pada AI.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 33,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q2",
+    "question": "Dimensi kepribadian mana yang memiliki hubungan paling kuat dengan ketergantungan curhat AI?",
+    "answer": "Emotional Stability memiliki hubungan paling kuat di antara kelima dimensi (rs = -0,202; p < 0,001), meskipun secara keseluruhan kekuatan hubungan kelima dimensi tergolong lemah hingga sangat lemah.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 34,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q3",
+    "question": "Mengapa kekuatan korelasi antara kepribadian dan ketergantungan AI tergolong lemah?",
+    "answer": "Karena kepribadian bukan satu-satunya faktor yang membentuk ketergantungan pada AI. Faktor afektif seperti kesepian dan kebutuhan akan kedekatan justru lebih berperan dalam membentuk kelekatan emosional terhadap chatbot AI (Fang & Bian, 2026), sehingga ketergantungan bersifat multifaktorial.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 35,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q4",
+    "question": "Bagaimana efektivitas MBPP dalam menurunkan ketergantungan curhat pada AI?",
+    "answer": "Hasil paired-samples t-test menunjukkan penurunan signifikan skor CAIDS dari tes awal (M=72,29) ke tes akhir (M=50,79), dengan t(13)=3,268; p=0,006, dan ukuran efek besar (Cohen's d=0,87). Ini membuktikan bahwa MBPP efektif menurunkan ketergantungan curhat pada AI.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 36,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q5",
+    "question": "Berapa jumlah partisipan yang mengikuti intervensi MBPP dan bagaimana proses seleksinya?",
+    "answer": "Sebanyak 14 partisipan dipilih dari 440 responden tahap skrining, khusus yang memiliki tingkat ketergantungan curhat pada AI dalam kategori sedang hingga tinggi berdasarkan hasil CAIDS-20.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 37,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q6",
+    "question": "Apa temuan kualitatif mengenai kondisi partisipan sebelum mengikuti MBPP?",
+    "answer": "Sebelum MBPP, partisipan beralih ke AI karena merasa kesepian, tidak memiliki teman bercerita, menganggap AI tidak menghakimi dan mudah diakses, bahkan sengaja menghindari curhat ke orang terdekat agar tidak membebani mereka. Topik yang paling sering dicurahkan adalah persoalan akademik, pertemanan, keluarga, dan refleksi diri.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 38,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q7",
+    "question": "Apa perubahan yang ditemukan setelah partisipan mengikuti MBPP?",
+    "answer": "Ditemukan penurunan frekuensi dan intensitas curhat kepada AI. Partisipan mulai mencari informasi secara mandiri atau terbuka kepada orang terdekat, serta mampu memisahkan masalah yang perlu bantuan eksternal dari yang dapat diselesaikan sendiri.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 39,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q8",
+    "question": "Strategi regulasi emosi apa yang paling banyak digunakan partisipan setelah MBPP?",
+    "answer": "Teknik mindful breathing paling banyak digunakan untuk meredakan tekanan dan emosi negatif. Partisipan juga membiasakan diri memberi jeda sebelum bertindak sehingga mengurangi perilaku impulsif.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 40,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q9",
+    "question": "Apa makna psikologis di balik penurunan ketergantungan curhat pada AI setelah MBPP?",
+    "answer": "Perubahan ini menunjukkan pergeseran sumber regulasi emosi, dari yang sebelumnya bergantung pada AI (eksternal) menjadi bergantung pada kesadaran dan refleksi diri sendiri (internal), bukan sekadar bentuk menghindar.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 41,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q10",
+    "question": "Apa keterbatasan hasil penelitian ini?",
+    "answer": "Desain penelitian bersifat pra-eksperimental (within-subject one-group pretest-posttest) tanpa kelompok kontrol dan random assignment, serta jumlah partisipan intervensi yang relatif kecil (14 orang), sehingga generalisasi hasil perlu dilakukan secara hati-hati.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 42,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q11",
+    "question": "Mengapa desain penelitian tidak menggunakan kelompok kontrol?",
+    "answer": "Penelitian menggunakan desain pra-eksperimental (within-subject) di mana setiap partisipan menjadi pembanding bagi dirinya sendiri melalui pengukuran sebelum dan sesudah intervensi, mengingat keterbatasan sumber daya dan waktu pelaksanaan program PKM.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 43,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q12",
+    "question": "Apa implikasi temuan penelitian ini terhadap pemahaman dinamika psikologis Gen Z?",
+    "answer": "Temuan ini menunjukkan bahwa penggunaan AI yang intens sebagai media curhat berkaitan dengan kesepian dan isolasi sosial pada Generasi Z (Papagianni & Spatoula, 2025), namun kesadaran diri dan regulasi emosi yang diperkuat lewat mindfulness dapat menggeser pola ketergantungan tersebut menjadi kemampuan mengelola emosi secara mandiri.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 44,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q13",
+    "question": "Effect size Cohen's d sebesar 0,87 tergolong besar, namun jumlah partisipan hanya 14 orang. Apakah hasil ini cukup robust secara statistik?",
+    "answer": "Peneliti menyadari bahwa ukuran sampel yang kecil membatasi power statistik dan presisi estimasi, meskipun paired-samples t-test tetap menunjukkan signifikansi (p=0,006) dengan effect size besar. Hasil ini menunjukkan indikasi efektivitas yang kuat pada partisipan yang diteliti, namun robustisitasnya secara populasi lebih luas perlu dikonfirmasi melalui replikasi dengan jumlah sampel yang lebih besar dan idealnya disertai perhitungan power analysis a priori.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 45,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q14",
+    "question": "Bagaimana kalian menyingkirkan kemungkinan bahwa penurunan skor CAIDS disebabkan oleh regression to the mean atau efek maturasi, bukan murni karena MBPP?",
+    "answer": "Kemungkinan tersebut memang menjadi ancaman validitas internal yang melekat pada desain pra-eksperimental tanpa kelompok kontrol. Partisipan direkrut berdasarkan skor sedang-tinggi yang stabil pada tahap skrining, bukan skor ekstrem sesaat, sehingga risiko regression to the mean dapat diminimalkan meski tidak sepenuhnya dieliminasi; triangulasi dengan temuan kualitatif yang secara konsisten melaporkan perubahan perilaku turut memperkuat bahwa penurunan skor bukan sekadar artefak statistik.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 46,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q15",
+    "question": "Mengapa tidak dilakukan pengukuran tindak lanjut (follow-up) untuk melihat apakah efek penurunan ketergantungan pada AI ini bertahan dalam jangka panjang?",
+    "answer": "Keterbatasan waktu dan sumber daya program PKM menjadi kendala utama pelaksanaan follow-up measurement. Peneliti mengakui hal ini sebagai keterbatasan penelitian dan merekomendasikan pengukuran tindak lanjut (misalnya satu hingga tiga bulan pascaintervensi) pada penelitian selanjutnya untuk menguji daya tahan (sustainability) efek MBPP, mengingat perubahan perilaku regulasi emosi idealnya dievaluasi dalam rentang waktu yang lebih panjang.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 47,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q16",
+    "question": "Bagaimana potensi bias testing effect, mengingat instrumen pretest dan posttest yang digunakan sama persis (CAIDS-20)?",
+    "answer": "Testing effect memang menjadi ancaman validitas internal yang melekat pada desain within-subject dengan instrumen identik. Namun, rentang waktu antar-pengukuran yang mencakup seluruh rangkaian empat pertemuan intervensi, serta besarnya penurunan skor yang konsisten dengan temuan kualitatif tentang perubahan perilaku nyata, mengindikasikan bahwa perubahan skor lebih mencerminkan efek substantif intervensi ketimbang sekadar familiaritas terhadap item pengukuran.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 48,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q17",
+    "question": "Apakah ada kemungkinan social desirability bias, di mana partisipan melaporkan penurunan ketergantungan pada AI karena merasa 'diharapkan' berubah setelah mengikuti program?",
+    "answer": "Kemungkinan ini disadari sebagai keterbatasan inheren pada studi intervensi berbasis self-report. Untuk memitigasinya, temuan kuantitatif dari CAIDS-20 dilengkapi dengan data kualitatif dari wawancara semi-terstruktur dan analisis logbook reflektif yang diisi partisipan secara berkelanjutan, sehingga konsistensi laporan antarwaktu dan antarmetode digunakan sebagai bentuk triangulasi untuk mengurangi risiko bias keinginan sosial.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 49,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q18",
+    "question": "Nilai korelasi Spearman untuk Emotional Stability hanya rs=-0,202. Apakah kekuatan hubungan yang lemah ini memiliki makna praktis meski signifikan secara statistik?",
+    "answer": "Secara statistik signifikan karena didukung ukuran sampel skrining yang besar (440 responden), namun secara praktis kekuatan hubungan yang lemah menunjukkan bahwa Emotional Stability hanya menjelaskan sebagian kecil variansi ketergantungan curhat pada AI. Makna praktisnya terletak pada arah hubungan yang konsisten pada seluruh dimensi kepribadian, yang mengonfirmasi peran kepribadian sebagai salah satu faktor risiko, meski bukan prediktor dominan dibanding faktor afektif lain seperti kesepian.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 50,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q19",
+    "question": "Bagaimana kalian menjelaskan konsistensi antara temuan kuantitatif yang menunjukkan korelasi lemah dengan temuan kualitatif yang menggambarkan perubahan signifikan setelah MBPP? Bukankah keduanya mengukur hal yang berbeda?",
+    "answer": "Kedua temuan tersebut memang menjawab pertanyaan penelitian yang berbeda: korelasi lemah menjawab pertanyaan seberapa besar kepribadian menjelaskan variasi ketergantungan pada tahap skrining, sedangkan temuan kualitatif menjawab bagaimana proses perubahan terjadi setelah intervensi mindfulness diberikan. Keduanya saling melengkapi dalam desain sequential explanatory, di mana hasil kuantitatif menunjukkan perlunya intervensi di luar aspek kepribadian, dan hasil kualitatif menjelaskan mekanisme perubahan itu terjadi melalui penguatan regulasi emosi internal.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 51,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q20",
+    "question": "Wawancara mendalam hanya dilakukan pada 5 dari 14 partisipan intervensi. Apakah temuan tematik dari subsampel ini cukup representatif untuk mendukung klaim keberhasilan MBPP secara keseluruhan?",
+    "answer": "Lima partisipan wawancara dipilih dengan mempertimbangkan saturasi data, bukan untuk mewakili seluruh 14 partisipan secara statistik. Klaim keberhasilan MBPP secara keseluruhan didasarkan pada hasil kuantitatif paired-samples t-test terhadap seluruh 14 partisipan, sementara data kualitatif dari 5 partisipan berfungsi memperkaya pemahaman mekanisme dan proses psikologis di balik perubahan tersebut, bukan sebagai bukti utama efektivitas secara kuantitatif.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 52,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q21",
+    "question": "Apakah ada kemungkinan variabel pengganggu (confounding), seperti tingkat stres akademik atau peristiwa hidup partisipan selama periode intervensi, yang turut memengaruhi penurunan skor CAIDS?",
+    "answer": "Kemungkinan tersebut tidak dapat sepenuhnya dikendalikan mengingat desain penelitian tanpa kelompok kontrol dan durasi intervensi yang bersinggungan dengan aktivitas keseharian partisipan. Peneliti mengakui hal ini sebagai keterbatasan penelitian dan merekomendasikan desain eksperimental dengan kelompok kontrol pada penelitian lanjutan untuk mengisolasi efek murni MBPP dari faktor-faktor situasional yang tidak terkontrol tersebut.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 53,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q22",
+    "question": "Bagaimana temuan bahwa partisipan sengaja menghindari curhat ke orang terdekat agar 'tidak membebani' dapat dijelaskan secara teoritis, dan apa implikasinya terhadap desain intervensi?",
+    "answer": "Temuan ini mengindikasikan adanya persepsi social burden yang membuat AI dipersepsikan sebagai ruang curhat yang lebih aman karena dianggap tidak menghakimi dan tidak membebani orang lain. Implikasinya, intervensi MBPP tidak cukup hanya menurunkan frekuensi curhat ke AI, tetapi juga perlu menguatkan keyakinan partisipan bahwa mencari dukungan sosial manusia adalah hal yang wajar, sehingga pergeseran perilaku diarahkan pada keseimbangan, bukan sekadar penghindaran terhadap AI.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 54,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q23",
+    "question": "Bagaimana teori regulasi emosi menjelaskan mekanisme penurunan skor CAIDS setelah mengikuti MBPP?",
+    "answer": "Gross (1998) melalui process model of emotion regulation menjelaskan bahwa strategi regulasi emosi dapat diterapkan pada berbagai tahap proses emosi, termasuk reappraisal kognitif sejak dini. Penurunan skor CAIDS pascaintervensi mengindikasikan pergeseran strategi partisipan dari penghindaran, yaitu meredakan distres lewat curhat ke AI, menuju regulasi berbasis kesadaran yang lebih adaptif.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 55,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q24",
+    "question": "Bagaimana temuan bahwa Emotional Stability memiliki korelasi paling kuat dapat dijelaskan melalui Five Factor Model?",
+    "answer": "Costa dan McCrae (1992) dalam Five Factor Model menjelaskan bahwa dimensi yang berkebalikan dengan neuroticism, yaitu emotional stability, mencerminkan kemampuan individu meregulasi afek negatif dan menoleransi tekanan psikologis. Individu dengan emotional stability rendah cenderung lebih rentan mencari pelampiasan emosi segera, termasuk melalui AI, sehingga secara teoretis korelasinya dengan ketergantungan curhat pada AI paling kuat dibanding dimensi kepribadian lainnya.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 56,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q25",
+    "question": "Bagaimana Self-Determination Theory menjelaskan pergeseran sumber regulasi emosi partisipan dari AI menjadi diri sendiri setelah MBPP?",
+    "answer": "Deci dan Ryan (2000) dalam Self-Determination Theory menjelaskan bahwa perilaku yang diregulasi secara otonom, bukan bergantung pada faktor eksternal, berkaitan dengan terpenuhinya kebutuhan psikologis dasar berupa kompetensi dan otonomi. Temuan bahwa partisipan mulai mengandalkan refleksi diri alih-alih AI mengindikasikan penguatan regulasi otonom yang sejalan dengan kerangka teori tersebut.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 57,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q27",
+    "question": "Bagaimana konsep decentering dalam mindfulness menjelaskan berkurangnya ketergantungan curhat pada AI setelah intervensi?",
+    "answer": "Bishop dkk. (2004) mengoperasionalkan mindfulness sebagai kombinasi antara regulasi perhatian dan orientasi penerimaan terhadap pengalaman, yang memungkinkan individu memandang pikiran dan emosinya secara decentered atau tidak melebur di dalamnya. Kemampuan ini membantu partisipan menilai kebutuhan emosionalnya secara lebih objektif sebelum secara otomatis mencari validasi dari AI.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 58,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q28",
+    "question": "Bagaimana temuan bahwa partisipan menghindari membebani orang terdekat dapat dijelaskan melalui teori interpersonal?",
+    "answer": "Joiner (2005) dalam Interpersonal Theory memperkenalkan konsep perceived burdensomeness, yaitu persepsi individu bahwa keberadaan atau permasalahannya membebani orang lain. Meski konteks penelitian ini bukan risiko bunuh diri, konsep tersebut relevan untuk menjelaskan mengapa partisipan memilih AI, yang dianggap tidak memiliki beban emosional, dibanding manusia sebagai tempat curhat.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 59,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q29",
+    "question": "Bagaimana penurunan skor CAIDS setelah MBPP dapat dijelaskan melalui teori mindfulness Kabat-Zinn?",
+    "answer": "Kabat-Zinn (1990; 2013) mendefinisikan mindfulness sebagai kesadaran yang muncul melalui perhatian secara sengaja, pada momen kini, dan tanpa menghakimi. Latihan mindfulness dalam MBPP memperkuat kapasitas partisipan untuk mengenali dan mengelola pengalaman emosionalnya secara internal, sejalan dengan temuan meta-analisis Grossman dkk. (2004) bahwa intervensi berbasis mindfulness secara konsisten menurunkan tekanan emosional (emotional distress). Penurunan skor CAIDS pascaintervensi dengan demikian mencerminkan peningkatan kapasitas regulasi emosi internal yang menggantikan kebutuhan akan sumber regulasi eksternal seperti AI.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 60,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q30",
+    "question": "Bagaimana temuan bahwa Emotional Stability memiliki hubungan paling kuat dengan ketergantungan AI dijelaskan dari perspektif teori kepribadian?",
+    "answer": "Dalam kerangka Five-Factor Theory (McCrae & Costa, 2003), individu dengan Emotional Stability rendah (neuroticism tinggi) cenderung lebih rentan mengalami afek negatif dan kesulitan regulasi emosi mandiri, sehingga lebih membutuhkan sumber dukungan eksternal untuk meredakan tekanan psikologisnya. Hal ini konsisten dengan temuan bahwa individu dengan skor Emotional Stability rendah lebih cenderung menjadikan AI sebagai sarana pelampiasan emosi, karena minimnya kapasitas regulasi diri yang menjadi ciri utama dimensi ini.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 61,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q31",
+    "question": "Bagaimana temuan bahwa partisipan menganggap AI 'tidak menghakimi' sebelum mengikuti MBPP dapat dijelaskan secara teoritis?",
+    "answer": "Persepsi AI sebagai ruang yang tidak menghakimi menurunkan perceived cost dalam proses self-disclosure sebagaimana dijelaskan Social Penetration Theory (Altman & Taylor, 1973), sehingga individu lebih mudah membuka diri dibanding kepada manusia yang berpotensi menilai atau menghakimi. Selain itu, dari perspektif Compensatory Internet Use Theory (Kardefelt-Winther, 2014), kondisi ini menunjukkan bahwa AI berfungsi sebagai strategi kompensasi atas kebutuhan emosional yang dianggap tidak dapat terpenuhi secara aman melalui relasi sosial manusia.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 62,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q32",
+    "question": "Bagaimana nilai Cohen's d sebesar 0,87 dimaknai berdasarkan pedoman interpretasi effect size?",
+    "answer": "Cohen (1988) mengklasifikasikan effect size d=0,2 sebagai kecil, d=0,5 sebagai sedang, dan d=0,8 ke atas sebagai besar. Nilai d=0,87 pada penelitian ini karenanya tergolong efek besar, menunjukkan bahwa perbedaan skor CAIDS sebelum dan sesudah MBPP secara praktis substansial, bukan sekadar signifikan secara statistik.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 63,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q33",
+    "question": "Bagaimana kekuatan korelasi Spearman rs=-0,202 pada Emotional Stability dimaknai berdasarkan pedoman interpretasi korelasi?",
+    "answer": "Berdasarkan pedoman Cohen (1988), nilai korelasi 0,10-0,29 tergolong lemah, 0,30-0,49 tergolong sedang, dan di atas 0,50 tergolong kuat. Nilai rs=-0,202 pada Emotional Stability karenanya tergolong korelasi lemah, mengonfirmasi bahwa meski signifikan secara statistik, kepribadian hanya menjelaskan sebagian kecil variansi ketergantungan curhat pada AI.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 64,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q34",
+    "question": "Bagaimana pola bahwa seluruh lima dimensi Big-Five berkorelasi negatif dengan ketergantungan AI dijelaskan melalui teori kepribadian sebagai faktor protektif?",
+    "answer": "Kotov dkk. (2010) dalam meta-analisis mengenai kepribadian dan psikopatologi menjelaskan bahwa trait kepribadian adaptif seperti conscientiousness dan emotional stability berfungsi sebagai faktor protektif terhadap perilaku maladaptif. Pola korelasi negatif yang konsisten pada seluruh dimensi Big-Five dalam penelitian ini sejalan dengan peran protektif tersebut terhadap kecenderungan ketergantungan curhat pada AI.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 65,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q35",
+    "question": "Bagaimana temuan kualitatif mengenai topik curhat seperti akademik, pertemanan, dan keluarga dapat dikaitkan dengan tahap perkembangan psikososial Generasi Z?",
+    "answer": "Arnett (2000) dalam teori emerging adulthood menjelaskan bahwa individu pada rentang usia 18-25 tahun tengah mengeksplorasi identitas pada berbagai domain kehidupan, termasuk pendidikan, relasi, dan karier, yang sering memunculkan ketidakpastian emosional. Topik-topik curhat yang ditemukan dalam penelitian ini konsisten dengan tantangan psikososial khas tahap perkembangan tersebut.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 66,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q36",
+    "question": "Bagaimana pergeseran dari mencari validasi eksternal menuju refleksi internal pascaMBPP dapat dijelaskan melalui teori locus of control?",
+    "answer": "Rotter (1966) dalam teori locus of control menjelaskan bahwa individu dengan internal locus of control cenderung meyakini hasil hidupnya dipengaruhi oleh tindakan dan usahanya sendiri, berbeda dengan external locus of control yang bergantung pada faktor di luar dirinya. Pergeseran partisipan dari bergantung pada AI menuju refleksi diri mengindikasikan penguatan orientasi locus of control internal setelah mengikuti MBPP.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 67,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q37",
+    "question": "Bagaimana teknik mindful breathing yang paling banyak digunakan partisipan dapat dijelaskan secara neuropsikologis?",
+    "answer": "Tang, Hölzel, dan Posner (2015) dalam kajian neurosains mindfulness menjelaskan bahwa latihan pernapasan sadar berkaitan dengan penguatan regulasi aktivitas prefrontal cortex terhadap amygdala, yang berperan dalam meredakan respons emosional reaktif. Hal ini mendukung efektivitas mindful breathing sebagai strategi regulasi emosi yang paling banyak dipilih partisipan pascaintervensi.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 68,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q38",
+    "question": "Bagaimana penurunan frekuensi curhat ke AI pascaMBPP dapat dijelaskan melalui Media Equation Theory?",
+    "answer": "Reeves dan Nass (1996) dalam Media Equation Theory menjelaskan bahwa manusia cenderung memperlakukan media atau teknologi seolah entitas sosial nyata. Penurunan intensitas interaksi curhat ke AI pascaintervensi mengindikasikan melemahnya kecenderungan memperlakukan AI sebagai figur sosial pengganti, seiring meningkatnya kesadaran partisipan bahwa dukungan emosional idealnya bersumber dari relasi manusia yang resiprokal.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 69,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q39",
+    "question": "Bagaimana temuan bahwa partisipan mulai membuka diri kepada orang terdekat pascaintervensi dijelaskan melalui teori dukungan sosial?",
+    "answer": "House (1981) mengklasifikasikan dukungan sosial ke dalam empat bentuk, yaitu dukungan emosional, instrumental, informasional, dan penilaian. Kembalinya partisipan mencari dukungan dari orang terdekat pascaMBPP mengindikasikan pulihnya akses terhadap keempat bentuk dukungan sosial tersebut, yang secara teoretis lebih komprehensif dibanding dukungan yang dapat diberikan oleh AI.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 70,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q40",
+    "question": "Mengapa hasil penelitian tidak turut melaporkan analisis regresi untuk mengontrol pengaruh variabel lain terhadap ketergantungan curhat pada AI?",
+    "answer": "Tabachnick dan Fidell (2019) menjelaskan bahwa analisis regresi memerlukan asumsi tertentu seperti linearitas dan distribusi residual yang mendekati normal. Karena data ketergantungan curhat pada AI dan dimensi kepribadian dalam penelitian ini tidak memenuhi asumsi normalitas, korelasi Spearman dipilih sebagai analisis utama pada tahap skrining, sementara analisis regresi berganda untuk mengontrol variabel lain seperti kesepian direkomendasikan sebagai arah penelitian lanjutan dengan desain dan ukuran sampel yang lebih memadai.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 71,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q41",
+    "question": "Mengapa hasil penelitian tidak menguji perbedaan ketergantungan curhat pada AI berdasarkan variabel demografis seperti jenis kelamin?",
+    "answer": "Field (2013) menjelaskan bahwa pengujian perbedaan antarkelompok demografis memerlukan ukuran sampel yang memadai pada setiap kelompok agar daya statistik tetap terjaga. Fokus penelitian ini adalah memetakan hubungan kepribadian secara keseluruhan dan menguji efektivitas intervensi, bukan membandingkan subkelompok demografis, sehingga analisis tersebut tidak dilaporkan secara khusus namun dapat menjadi arah eksplorasi lanjutan.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 72,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q42",
+    "question": "Mengapa efektivitas MBPP diuji dengan paired-samples t-test, bukan ANCOVA yang mengontrol skor pretest sebagai kovariat?",
+    "answer": "Dimitrov dan Rumrill (2003) menjelaskan bahwa ANCOVA umumnya digunakan pada desain dengan kelompok kontrol untuk mengontrol perbedaan skor awal antarkelompok. Karena penelitian ini menggunakan desain within-subject tanpa kelompok pembanding, paired-samples t-test dianggap sebagai analisis yang lebih sesuai untuk membandingkan skor sebelum dan sesudah intervensi pada kelompok yang sama.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 73,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q43",
+    "question": "Mengapa hasil penelitian hanya melaporkan nilai p dan effect size, tanpa menyertakan confidence interval untuk estimasi perubahan skor CAIDS?",
+    "answer": "Cumming (2014) menekankan pentingnya confidence interval untuk melengkapi p-value dalam menggambarkan presisi estimasi efek. Peneliti mengakui bahwa pelaporan confidence interval akan memperkuat interpretasi hasil paired-samples t-test, dan merekomendasikan pelaporan tersebut secara lebih lengkap pada publikasi maupun penelitian lanjutan dengan ukuran sampel yang lebih besar.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 74,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q44",
+    "question": "Karena tidak ada kelompok kontrol, bagaimana hasil penelitian ini dibandingkan dengan temuan pada populasi tanpa intervensi?",
+    "answer": "Borenstein dkk. (2021) menjelaskan bahwa tanpa kelompok kontrol, interpretasi hasil idealnya dilengkapi dengan perbandingan terhadap temuan studi sejenis pada populasi serupa sebagai bentuk pembanding tidak langsung. Peneliti membandingkan pola perubahan pada penelitian ini secara kualitatif dengan efektivitas intervensi berbasis mindfulness pada studi terdahulu (Sancho dkk., 2018), meski diakui perbandingan tersebut tidak menggantikan fungsi kelompok kontrol acak dalam desain eksperimental.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 75,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q45",
+    "question": "Mengapa tema kualitatif tidak dianalisis secara terpisah antara partisipan dengan penurunan skor CAIDS besar dan kecil?",
+    "answer": "Braun dan Clarke (2006) menekankan bahwa analisis tematik pada penelitian ini bertujuan memetakan pola bersama (shared themes) dari seluruh partisipan wawancara untuk memahami mekanisme perubahan secara umum. Pemisahan tema berdasarkan besar-kecilnya penurunan skor memerlukan jumlah partisipan wawancara yang lebih besar agar pola pada tiap subkelompok tetap bermakna, sehingga hal ini menjadi arah analisis lanjutan yang direkomendasikan.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 76,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q46",
+    "question": "Mengapa reliabilitas antarpengkode (inter-rater reliability) dalam analisis tematik tidak dilaporkan secara numerik, misalnya dengan koefisien Cohen's kappa?",
+    "answer": "Braun dan Clarke (2006, 2019) menjelaskan bahwa dalam pendekatan analisis tematik reflektif, konsistensi coding lebih ditekankan melalui proses refleksif dan diskusi mendalam antarpeneliti dibanding ukuran statistik seperti kappa, yang lebih relevan pada pendekatan tematik yang bersifat codebook. Penelitian ini menjaga konsistensi interpretasi melalui tinjauan berlapis dan triangulasi dengan data logbook, bukan melalui perhitungan kappa formal.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 77,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q47",
+    "question": "Apakah efektivitas MBPP diuji perbedaannya berdasarkan teknik regulasi emosi yang paling banyak digunakan partisipan, misalnya mindful breathing dibanding teknik lain?",
+    "answer": "Analisis tersebut belum dilakukan karena jumlah partisipan intervensi yang kecil (14 orang) tidak mencukupi untuk dibagi lebih lanjut berdasarkan preferensi teknik regulasi emosi tanpa mengorbankan daya statistik. Prevalensi penggunaan mindful breathing dilaporkan sebagai temuan deskriptif kualitatif, sementara pengujian perbedaan efektivitas antarteknik secara kuantitatif direkomendasikan pada penelitian lanjutan dengan sampel yang lebih besar.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 78,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q48",
+    "question": "Mengapa penelitian ini tidak menguji apakah regulasi emosi berperan sebagai mediator antara MBPP dan penurunan skor CAIDS?",
+    "answer": "Hayes (2018) menjelaskan bahwa analisis mediasi memerlukan ukuran sampel yang relatif besar agar estimasi jalur tidak langsung (indirect effect) stabil secara statistik. Ukuran sampel intervensi yang kecil (14 orang) dalam penelitian ini tidak memenuhi syarat tersebut, sehingga peran regulasi emosi sebagai mekanisme perubahan hanya dijelaskan secara deskriptif melalui temuan kualitatif, bukan diuji secara statistik melalui model mediasi formal.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 79,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q49",
+    "question": "Mengapa penelitian ini tidak menganalisis hubungan antara jumlah sesi yang diikuti partisipan dengan besarnya penurunan skor CAIDS (analisis dose-response)?",
+    "answer": "Analisis dose-response memerlukan variasi jumlah sesi yang diikuti antarpartisipan untuk dapat dikorelasikan dengan besarnya perubahan skor. Karena seluruh 14 partisipan dalam penelitian ini mengikuti keempat sesi MBPP secara lengkap, tidak terdapat variasi jumlah sesi yang memungkinkan analisis dose-response, sehingga hal ini menjadi keterbatasan yang dapat diatasi pada penelitian lanjutan dengan variasi keikutsertaan sesi yang lebih beragam.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 80,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q50",
+    "question": "Mengapa hasil penelitian tidak menggunakan uji Wilcoxon signed-rank sebagai pembanding terhadap paired-samples t-test, mengingat ukuran sampel intervensi yang kecil?",
+    "answer": "Sama seperti pertimbangan pada tahap metode, ukuran sampel kecil tidak secara otomatis mengharuskan uji non-parametrik apabila asumsi normalitas terpenuhi. Karena hasil uji normalitas data eksperimen (14 partisipan) menunjukkan distribusi yang mendekati normal, paired-samples t-test dianggap sebagai analisis yang tepat, sehingga uji Wilcoxon signed-rank tidak dilaporkan sebagai analisis tambahan.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 81,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q51",
+    "question": "Mengapa hasil penelitian melaporkan Cohen's d, bukan Hedges' g yang dianggap lebih akurat untuk sampel kecil?",
+    "answer": "Hedges (1981) mengembangkan Hedges' g sebagai koreksi terhadap Cohen's d yang cenderung sedikit overestimate pada ukuran sampel kecil (n<20). Peneliti mengakui bahwa pelaporan Hedges' g akan memberikan estimasi effect size yang sedikit lebih konservatif dan presisi, sehingga hal ini menjadi catatan perbaikan untuk pelaporan hasil secara lebih lengkap pada publikasi maupun penelitian lanjutan.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 82,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q52",
+    "question": "Mengapa hasil korelasi Spearman antara lima dimensi kepribadian tidak dikoreksi menggunakan Bonferroni correction untuk mengatasi risiko inflasi kesalahan Tipe I akibat pengujian berganda?",
+    "answer": "Bonferroni correction memang lazim digunakan untuk mengontrol Familywise Error Rate pada pengujian hipotesis berganda (Field, 2013), namun koreksi ini juga meningkatkan risiko kesalahan Tipe II khususnya pada eksplorasi awal hubungan antarvariabel seperti tahap skrining ini. Kelima korelasi yang dilaporkan bersifat eksploratif untuk memetakan pola hubungan awal, sehingga peneliti mengakui bahwa penerapan koreksi Bonferroni atau pendekatan False Discovery Rate akan memperkuat kehati-hatian interpretasi pada penelitian lanjutan yang bertujuan konfirmatori.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 83,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q53",
+    "question": "Mengapa hasil penelitian tidak menyajikan trayektori perubahan skor CAIDS tiap individu partisipan (misalnya melalui grafik spaghetti plot), melainkan hanya rata-rata kelompok?",
+    "answer": "Penyajian rata-rata kelompok dipilih karena tujuan utama analisis kuantitatif adalah menguji signifikansi perubahan skor secara keseluruhan pada kelompok intervensi. Peneliti menyadari bahwa visualisasi individual seperti spaghetti plot dapat memperkaya pemahaman variasi respons antarpartisipan terhadap MBPP, termasuk mengidentifikasi partisipan yang responsnya kurang optimal, sehingga hal ini direkomendasikan sebagai pelengkap penyajian data pada publikasi mendatang.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 84,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q54",
+    "question": "Mengapa hasil penelitian tidak menganalisis moderasi dari variabel kepribadian terhadap efektivitas MBPP, misalnya apakah partisipan dengan Emotional Stability rendah memperoleh manfaat lebih besar?",
+    "answer": "Analisis moderasi memerlukan variasi skor kepribadian yang cukup luas pada kelompok intervensi serta ukuran sampel yang memadai agar interaksi antarvariabel dapat terdeteksi secara statistik (Hayes, 2018). Ukuran sampel intervensi yang hanya 14 orang membuat analisis tersebut berisiko tidak memiliki daya statistik yang cukup, sehingga peran kepribadian sebagai moderator efektivitas MBPP direkomendasikan sebagai arah penelitian lanjutan dengan sampel lebih besar.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 85,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q55",
+    "question": "Mengapa data logbook reflektif dianalisis secara tematik bersama data wawancara, bukan dianalisis terpisah menggunakan content analysis kuantitatif seperti penghitungan frekuensi kata kunci?",
+    "answer": "Content analysis kuantitatif lebih menekankan penghitungan frekuensi kemunculan kategori tertentu secara sistematis, sementara tujuan integrasi logbook dan wawancara pada penelitian ini adalah memahami kedalaman makna dan konteks pengalaman partisipan secara berkelanjutan (Braun & Clarke, 2006). Pendekatan tematik dipilih karena lebih sesuai untuk menangkap nuansa proses perubahan psikologis, dibanding sekadar menghitung kemunculan kata atau frasa tertentu.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 86,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q56",
+    "question": "Mengapa hasil penelitian tidak melaporkan analisis cluster untuk mengelompokkan partisipan berdasarkan pola respons yang berbeda terhadap MBPP?",
+    "answer": "Analisis cluster memerlukan jumlah observasi yang relatif banyak agar pengelompokan yang dihasilkan stabil dan bermakna secara statistik (Everitt dkk., 2011). Dengan hanya 14 partisipan intervensi, pembentukan cluster berisiko menghasilkan kelompok yang terlalu kecil dan tidak representatif, sehingga peneliti memilih menyajikan pola perubahan secara keseluruhan didukung temuan kualitatif untuk menangkap variasi respons individual secara naratif.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 87,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q57",
+    "question": "Mengapa penelitian ini tidak menggunakan pendekatan Bayesian statistics sebagai alternatif terhadap pendekatan frequentist (p-value) mengingat ukuran sampel yang kecil?",
+    "answer": "Pendekatan Bayesian memang menawarkan keunggulan dalam mengestimasi probabilitas hipotesis secara langsung dan lebih robust pada sampel kecil (Kruschke, 2015), namun penerapannya memerlukan penentuan prior distribution yang tepat serta keahlian analisis yang lebih khusus. Penelitian ini menggunakan pendekatan frequentist konvensional (paired-samples t-test, korelasi Spearman) karena lebih familiar dan sesuai dengan kerangka waktu serta sumber daya program PKM, sementara pendekatan Bayesian direkomendasikan sebagai analisis pelengkap pada penelitian lanjutan.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 88,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q58",
+    "question": "Bagaimana pola korelasi negatif pada seluruh dimensi Big-Five ini relevan dikaitkan dengan konsep vulnerability-stress model dalam psikologi kepribadian?",
+    "answer": "Zubin dan Spring (1977) dalam vulnerability-stress model menjelaskan bahwa trait kepribadian tertentu dapat berfungsi sebagai faktor kerentanan (vulnerability) yang berinteraksi dengan tekanan situasional dalam memunculkan perilaku maladaptif. Pola korelasi negatif yang konsisten pada seluruh dimensi Big-Five dalam penelitian ini sejalan dengan kerangka tersebut, di mana skor kepribadian yang rendah pada dimensi adaptif meningkatkan kerentanan individu terhadap ketergantungan curhat pada AI ketika dihadapkan pada tekanan emosional.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 89,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q59",
+    "question": "Bagaimana temuan bahwa partisipan mulai memisahkan masalah yang perlu bantuan eksternal dari yang dapat diselesaikan sendiri dapat dijelaskan melalui teori metakognisi?",
+    "answer": "Flavell (1979) mendefinisikan metakognisi sebagai kesadaran dan kontrol individu terhadap proses berpikirnya sendiri, termasuk kemampuan menilai kapan suatu masalah membutuhkan bantuan eksternal. Kemampuan partisipan memilah kebutuhan tersebut pascaMBPP mengindikasikan penguatan kapasitas metakognitif yang mendukung pengambilan keputusan emosional secara lebih mandiri dan tepat sasaran.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 90,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q60",
+    "question": "Bagaimana temuan efektivitas MBPP pada penelitian ini dapat dimaknai dalam konteks upaya preventif dibanding kuratif terhadap ketergantungan digital?",
+    "answer": "Caplan (1964) membedakan intervensi preventif primer, sekunder, dan tersier, di mana intervensi sekunder ditujukan pada kelompok yang telah menunjukkan tanda risiko namun belum berkembang menjadi gangguan klinis penuh. Penerapan MBPP pada partisipan kategori sedang-tinggi hasil skrining sejalan dengan logika pencegahan sekunder tersebut, sehingga temuan efektivitasnya lebih tepat dimaknai sebagai bukti awal keberhasilan pendekatan preventif dibanding sebagai terapi kuratif atas kondisi ketergantungan yang sudah parah.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 91,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q61",
+    "question": "Sejauh mana temuan bahwa partisipan menganggap AI mudah diakses berkontribusi terhadap pemahaman mengenai peran aksesibilitas teknologi dalam pembentukan ketergantungan?",
+    "answer": "Davis (1989) dalam Technology Acceptance Model menjelaskan bahwa persepsi kemudahan penggunaan (perceived ease of use) merupakan salah satu faktor utama yang mendorong intensitas pemanfaatan suatu teknologi. Temuan bahwa partisipan memilih AI karena mudah diakses kapan saja memperkuat relevansi faktor aksesibilitas ini sebagai salah satu pendorong terbentuknya pola ketergantungan curhat pada AI, di luar faktor kepribadian maupun afektif yang telah dibahas.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 92,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q62",
+    "question": "Bagaimana temuan penelitian ini relevan dikaitkan dengan konsep digital wellbeing?",
+    "answer": "Vanden Abeele (2021) mendefinisikan digital wellbeing sebagai keseimbangan optimal antara manfaat dan risiko penggunaan teknologi digital terhadap kesejahteraan psikologis penggunanya. Temuan penelitian ini, yang menunjukkan pergeseran dari ketergantungan pada AI menuju regulasi emosi mandiri pascaMBPP, dapat dimaknai sebagai salah satu bentuk upaya mengembalikan keseimbangan digital wellbeing tersebut pada Generasi Z.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 93,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q63",
+    "question": "Bagaimana hasil penelitian ini dapat diinterpretasikan dalam kerangka biopsikososial ketergantungan perilaku?",
+    "answer": "Engel (1977) dalam model biopsikososial menjelaskan bahwa suatu kondisi, termasuk perilaku bermasalah, dipengaruhi oleh interaksi faktor biologis, psikologis, dan sosial secara simultan. Penelitian ini secara khusus menyoroti aspek psikologis (kepribadian dan regulasi emosi) dan sosial (dukungan sosial manusia versus AI), sehingga hasilnya perlu dipahami sebagai bagian dari gambaran biopsikososial yang lebih luas, bukan penjelasan tunggal yang mencakup seluruh dimensi ketergantungan.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 94,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q64",
+    "question": "Bagaimana temuan bahwa penurunan ketergantungan tidak disertai penghentian total penggunaan AI dapat dimaknai secara teoretis?",
+    "answer": "Prochaska dan DiClemente (1983) dalam Transtheoretical Model of Change menjelaskan bahwa perubahan perilaku umumnya bersifat bertahap, bergerak dari peningkatan kesadaran menuju modifikasi perilaku yang lebih moderat, bukan penghentian total secara instan. Pola penurunan frekuensi dan intensitas curhat ke AI pascaMBPP, tanpa penghentian penggunaan AI sepenuhnya, konsisten dengan tahapan perubahan yang bersifat gradual tersebut.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 95,
+    "sheet": "Hapel",
+    "category": "Hasil Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q65",
+    "question": "Bagaimana konsistensi arah hubungan pada seluruh dimensi kepribadian memperkuat validitas konstruk CAIDS-20 sebagai instrumen pengukuran?",
+    "answer": "Cronbach dan Meehl (1955) menjelaskan bahwa validitas konstruk suatu instrumen dapat diperkuat apabila hasil pengukurannya menunjukkan pola hubungan yang konsisten dan sesuai dengan prediksi teoretis terhadap konstruk lain yang relevan. Konsistensi arah korelasi negatif CAIDS-20 dengan seluruh dimensi Big-Five, sebagaimana diprediksi secara teoretis, memberikan salah satu bentuk bukti validitas konstruk instrumen ini dalam mengukur ketergantungan curhat pada AI.",
+    "badge_color": {
+      "bg": "rgba(16, 185, 129, 0.15)",
+      "border": "#10b981",
+      "text": "#34d399"
+    }
+  },
+  {
+    "id": 96,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q1",
+    "question": "Mengapa penelitian ini menggunakan metode campuran (mixed methods) sequential explanatory?",
+    "answer": "Metode ini dipilih agar data kuantitatif yang dikumpulkan dan dianalisis terlebih dahulu dapat diperdalam maknanya melalui pendekatan kualitatif (Creswell & Creswell, 2018), sehingga hasil penelitian tidak hanya menunjukkan pola statistik tetapi juga menjelaskan dinamika psikologis di baliknya.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 97,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q2",
+    "question": "Apa itu CAIDS-20 dan mengapa digunakan?",
+    "answer": "CAIDS-20 (Conversational Artificial Intelligence Dependence Scale) dari Chen dkk. (2025) digunakan untuk mengukur tingkat ketergantungan curhat kepada AI. Instrumen ini telah diadaptasi ke Bahasa Indonesia melalui proses translasi, translasi balik, validasi isi oleh ahli, serta pretesting terhadap 210 responden.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 98,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q3",
+    "question": "Apa itu IPIP-BFM-50?",
+    "answer": "IPIP-BFM-50 (International Personality Item Pool – Big Five Markers 50 items) dari Akhtar dan Azwar (2019) adalah instrumen yang digunakan untuk mengukur lima dimensi kepribadian Big-Five (Extraversion, Agreeableness, Conscientiousness, Emotional Stability, Intellect) pada partisipan penelitian.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 99,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q4",
+    "question": "Berapa jumlah responden tahap skrining dan apakah jumlah tersebut representatif?",
+    "answer": "Sebanyak 440 responden mengikuti tahap skrining, jumlah tersebut termasuk kategori ukuran sampel yang baik menurut Comrey & Lee (1992), menggunakan teknik purposive sampling dengan kriteria Generasi Z yang aktif menggunakan AI dalam kehidupan sehari-hari.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 100,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q5",
+    "question": "Bagaimana teknik pengambilan sampel dalam penelitian ini?",
+    "answer": "Penelitian menggunakan teknik purposive sampling, yaitu memilih Generasi Z yang aktif menggunakan AI dalam kehidupan sehari-hari sesuai kriteria yang ditetapkan (Cohen & Swerdlik, 2018).",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 101,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q6",
+    "question": "Bagaimana tahapan pelaksanaan intervensi MBPP?",
+    "answer": "Intervensi dilaksanakan dalam empat pertemuan: 1) Menyapa Diri dan Menyadari Saat Ini (pengenalan mindfulness dan kesadaran diri), 2) Hadir Sepenuhnya, Berpikir Sebelum Bertindak (automatic pilot dan kesadaran aktivitas sehari-hari), 3) Berbelas Kasih dan Bersyukur pada Diri Sendiri (latihan welas asih dan kebersyukuran), dan 4) Refleksi dan Keberlanjutan (evaluasi, posttest, dan penutupan program).",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 102,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q7",
+    "question": "Mengapa menggunakan teknik wawancara semi-terstruktur?",
+    "answer": "Teknik ini memberi fleksibilitas bagi peneliti untuk mengajukan pertanyaan pendalaman (probing questions) guna mengeksplorasi respons partisipan secara lebih mendalam (Stewart & Cash, 2018), sambil tetap memiliki pertanyaan utama yang tersusun sistematis.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 103,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q8",
+    "question": "Berapa jumlah partisipan wawancara dan mengapa jumlah tersebut dianggap cukup?",
+    "answer": "Wawancara mendalam dilakukan terhadap lima partisipan dan dihentikan setelah informasi yang diperoleh menunjukkan saturasi data (Creswell & Creswell, 2018), sehingga jumlah tersebut dianggap sudah mewakili kebutuhan data kualitatif penelitian.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 104,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q9",
+    "question": "Apa fungsi analisis dokumen/logbook dalam penelitian ini?",
+    "answer": "Analisis dokumen berupa lembar refleksi/logbook praktik mandiri partisipan digunakan untuk memahami dinamika psikologis partisipan selama mengikuti program secara berulang dari waktu ke waktu (Stephens, Ottrey, & Matthews, 2026), sebagai data pendukung wawancara.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 105,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q10",
+    "question": "Bagaimana analisis data kuantitatif dilakukan?",
+    "answer": "Data skrining dianalisis dengan SPSS versi 26 melalui statistik deskriptif, uji normalitas, dan uji asumsi. Karena data tidak memenuhi asumsi parametrik, hubungan kepribadian dan ketergantungan curhat AI dianalisis dengan korelasi Spearman. Untuk tahap eksperimen, karena data berdistribusi normal, digunakan paired-samples t-test untuk membandingkan skor pre-test dan post-test.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 106,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q11",
+    "question": "Mengapa digunakan korelasi Spearman, bukan Pearson?",
+    "answer": "Karena hasil uji normalitas menunjukkan seluruh variabel (dimensi kepribadian dan ketergantungan curhat AI) tidak memenuhi asumsi distribusi normal (p < 0,05), sehingga korelasi non-parametrik Spearman lebih tepat digunakan (Gravetter dkk., 2021).",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 107,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q12",
+    "question": "Bagaimana analisis data kualitatif dilakukan?",
+    "answer": "Data kualitatif dari wawancara mendalam dan dokumen interaksi curhat dengan AI dianalisis menggunakan analisis tematik (Braun & Clarke, 2006), melalui tahapan pengodean awal, pengelompokan tema, dan interpretasi makna.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 108,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q13",
+    "question": "Bagaimana validitas dan reliabilitas data dijaga dalam penelitian ini?",
+    "answer": "Validitas dijaga melalui proses adaptasi instrumen (translasi, translasi balik, validasi ahli, pretesting 210 responden) serta triangulasi metode dengan menggabungkan data survei, wawancara mendalam, dan analisis dokumen/logbook untuk saling melengkapi dan mengonfirmasi temuan.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 109,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q14",
+    "question": "Bagaimana justifikasi ukuran sampel 14 orang untuk intervensi MBPP? Apakah dilakukan power analysis a priori untuk menentukan jumlah partisipan minimal?",
+    "answer": "Jumlah 14 partisipan ditentukan berdasarkan hasil skrining CAIDS-20 terhadap 440 responden yang secara alami menunjukkan kategori ketergantungan sedang-tinggi, bukan melalui power analysis a priori, mengingat keterbatasan waktu dan sumber daya program PKM. Peneliti mengakui hal ini sebagai keterbatasan metodologis dan merekomendasikan power analysis formal pada penelitian lanjutan untuk menentukan ukuran sampel yang optimal secara statistik.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 110,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q15",
+    "question": "Apa kriteria inklusi dan eksklusi partisipan intervensi secara rinci, khususnya terkait kondisi klinis seperti riwayat gangguan mental?",
+    "answer": "Kriteria inklusi utama adalah Generasi Z aktif menggunakan AI dengan skor CAIDS-20 pada kategori sedang hingga tinggi hasil skrining. Partisipan dengan indikasi kondisi klinis berat yang memerlukan penanganan profesional dirujuk ke layanan kesehatan mental yang sesuai dan tidak disertakan dalam program intervensi psikoedukasi ini, mengingat MBPP dirancang sebagai program psikoedukasi preventif, bukan terapi klinis untuk gangguan mental yang terdiagnosis.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 111,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q16",
+    "question": "Mengapa tidak digunakan desain waitlist control group untuk memperkuat inferensi kausal terhadap efektivitas MBPP?",
+    "answer": "Desain waitlist control tidak digunakan terutama karena keterbatasan waktu pelaksanaan program PKM yang berjangka pendek serta jumlah partisipan berisiko tinggi yang terbatas, sehingga membagi partisipan ke dalam kelompok kontrol akan semakin mengecilkan daya statistik. Peneliti mengakui hal ini sebagai keterbatasan desain dan merekomendasikan penggunaan waitlist control group pada replikasi penelitian dengan sumber daya yang lebih memadai.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 112,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q17",
+    "question": "Bagaimana validitas dan reliabilitas psikometrik CAIDS-20 versi adaptasi Bahasa Indonesia dibuktikan secara kuantitatif, misalnya melalui nilai Cronbach's alpha atau uji validitas konstruk?",
+    "answer": "Proses adaptasi CAIDS-20 mengikuti prosedur translasi, translasi balik (back-translation), dan validasi isi oleh ahli, kemudian diujicobakan (pretesting) pada 210 responden untuk memeriksa konsistensi internal dan pemahaman butir sebelum digunakan pada tahap skrining utama. Pengujian reliabilitas dan validitas konstruk secara statistik dilakukan sebagai bagian dari tahap pretesting tersebut sebagai dasar kelayakan instrumen digunakan pada sampel yang lebih besar.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 113,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q18",
+    "question": "Apa potensi bias self-report dalam mengukur konstruk psikologis seperti ketergantungan curhat pada AI, dan bagaimana penelitian ini memitigasinya?",
+    "answer": "Pengukuran self-report berisiko dipengaruhi oleh social desirability atau keterbatasan insight partisipan terhadap perilakunya sendiri. Penelitian ini memitigasi risiko tersebut melalui triangulasi metode, yaitu menggabungkan data survei (CAIDS-20), wawancara mendalam, dan analisis dokumen/logbook reflektif, sehingga temuan tidak hanya bergantung pada satu sumber data self-report semata.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 114,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q19",
+    "question": "Bagaimana etika penelitian dijaga mengingat topik ini menyentuh aspek kesehatan mental yang sensitif, termasuk prosedur informed consent dan penanganan partisipan yang mengalami distres selama wawancara?",
+    "answer": "Penelitian ini menerapkan prosedur informed consent sebelum pengambilan data, menjamin kerahasiaan identitas dan respons partisipan, serta memberikan kebebasan partisipan untuk berhenti kapan saja tanpa konsekuensi. Partisipan yang menunjukkan tanda distres emosional selama proses wawancara diarahkan untuk berkonsultasi dengan layanan konseling atau kesehatan mental yang tersedia sebagai bentuk perlindungan partisipan (duty of care).",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 115,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q20",
+    "question": "Dari 440 responden skrining hanya 14 yang mengikuti intervensi. Bagaimana penelitian menangani kemungkinan attrition bias atau karakteristik khusus dari mereka yang bersedia berpartisipasi?",
+    "answer": "Penurunan jumlah dari 440 menjadi 14 partisipan sebagian besar disebabkan oleh kriteria kategori ketergantungan sedang-tinggi yang memang hanya dipenuhi sebagian kecil responden, bukan semata karena attrition. Peneliti mengakui bahwa partisipan yang bersedia mengikuti program tatap muka mungkin memiliki karakteristik motivasi berbeda dibanding yang menolak, sehingga hal ini menjadi keterbatasan terkait representativitas partisipan intervensi yang perlu dipertimbangkan dalam generalisasi hasil.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 116,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q21",
+    "question": "Mengapa dipilih analisis tematik (Braun & Clarke, 2006), bukan pendekatan kualitatif lain seperti Interpretative Phenomenological Analysis (IPA) yang lebih dalam mengeksplorasi makna pengalaman subjektif?",
+    "answer": "Analisis tematik dipilih karena fleksibel diterapkan pada data gabungan dari wawancara dan dokumen/logbook, serta sesuai dengan tujuan penelitian untuk mengidentifikasi pola perubahan perilaku dan strategi regulasi emosi secara lintas partisipan. IPA lebih cocok untuk eksplorasi mendalam pengalaman subjektif seorang individu secara idiografis, sementara tujuan penelitian ini adalah memetakan tema bersama (shared themes) yang relevan untuk mengevaluasi efektivitas program secara kolektif.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 117,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q22",
+    "question": "Bagaimana penelitian menjamin objektivitas dan mengurangi bias subjektif peneliti dalam proses pengodean tematik data kualitatif?",
+    "answer": "Objektivitas dijaga melalui tahapan pengodean berlapis mengikuti kerangka Braun & Clarke (2006), mulai dari familiarisasi data, pembuatan kode awal, pengelompokan tema, hingga peninjauan ulang tema terhadap data mentah. Triangulasi antara data wawancara dan dokumen/logbook turut digunakan sebagai pemeriksaan silang (cross-check) untuk memastikan tema yang dihasilkan konsisten dan tidak semata bergantung pada interpretasi tunggal peneliti.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 118,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q23",
+    "question": "Mengapa uji normalitas menjadi penentu pemilihan statistik parametrik (t-test) untuk data eksperimen namun non-parametrik (Spearman) untuk data skrining, padahal keduanya berasal dari instrumen CAIDS-20 yang sama?",
+    "answer": "Perbedaan tersebut wajar terjadi karena karakteristik distribusi data dapat berbeda antar-subsampel: data skrining melibatkan 440 responden dengan variasi skor yang luas dan terbukti menyimpang dari distribusi normal, sedangkan data eksperimen hanya melibatkan 14 partisipan pilihan dengan skor awal terkonsentrasi pada kategori sedang-tinggi yang setelah diuji justru memenuhi asumsi normalitas. Pemilihan uji statistik karenanya didasarkan pada hasil uji asumsi pada masing-masing subsampel, bukan disamaratakan hanya karena instrumen yang digunakan sama.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 119,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q24",
+    "question": "Apa landasan filosofis yang mendasari pemilihan metode campuran sequential explanatory dalam penelitian ini?",
+    "answer": "Creswell dan Plano Clark (2011) menempatkan metode campuran pada paradigma pragmatisme, yang menekankan pemilihan metode berdasarkan kesesuaiannya dengan pertanyaan penelitian, bukan keterikatan pada satu paradigma epistemologis tunggal. Landasan ini mendasari keputusan menggabungkan data kuantitatif dan kualitatif secara berurutan dalam penelitian ini.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 120,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q25",
+    "question": "Standar apa yang menjadi rujukan dalam proses adaptasi lintas budaya instrumen CAIDS-20 ke Bahasa Indonesia?",
+    "answer": "Proses adaptasi mengacu pada pedoman International Test Commission (ITC, 2017) untuk penerjemahan dan adaptasi tes psikologis, yang mensyaratkan tahapan translasi, translasi balik, serta review oleh ahli guna menjaga ekuivalensi makna dan validitas isi instrumen pada konteks budaya dan bahasa yang berbeda dari versi aslinya.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 121,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q26",
+    "question": "Apa dasar teori statistik yang mendasari keputusan menggunakan uji non-parametrik pada data yang tidak berdistribusi normal?",
+    "answer": "Field (2013) menjelaskan bahwa uji parametrik mengasumsikan data berdistribusi normal dan memiliki variansi yang homogen. Ketika asumsi tersebut dilanggar, uji non-parametrik seperti korelasi Spearman lebih tepat digunakan karena bekerja berdasarkan peringkat data (rank), sehingga tidak bergantung pada asumsi distribusi tertentu.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 122,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q27",
+    "question": "Apa kerangka konseptual yang mendasari penerapan analisis tematik reflektif dalam penelitian ini?",
+    "answer": "Braun dan Clarke (2019) memperbarui pendekatan analisis tematik menjadi reflexive thematic analysis, yang menekankan peran aktif dan reflektif peneliti dalam menginterpretasi data alih-alih mencari satu kebenaran objektif tunggal. Kerangka ini mendasari proses pengodean dan pemaknaan tema pada data wawancara dan logbook partisipan.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 123,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q28",
+    "question": "Apa dasar teori triangulasi yang digunakan untuk memperkuat kredibilitas temuan kualitatif penelitian ini?",
+    "answer": "Denzin (1978) mengklasifikasikan triangulasi ke dalam beberapa jenis, salah satunya triangulasi metode yang menggabungkan lebih dari satu teknik pengumpulan data untuk saling mengonfirmasi temuan. Penelitian ini menerapkan triangulasi metode melalui kombinasi wawancara mendalam dan analisis dokumen/logbook guna memperkuat kredibilitas interpretasi tema.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 124,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q29",
+    "question": "Apa dasar teoretis pemilihan desain mixed methods sequential explanatory dalam penelitian ini?",
+    "answer": "Creswell & Creswell (2018) menjelaskan bahwa desain sequential explanatory memungkinkan peneliti mengumpulkan dan menganalisis data kuantitatif terlebih dahulu, kemudian menggunakan data kualitatif untuk menjelaskan dan memperdalam pola yang ditemukan. Desain ini dipilih karena sesuai dengan tujuan penelitian yang tidak hanya ingin mengetahui pola statistik hubungan kepribadian dan ketergantungan AI, tetapi juga memahami mekanisme psikologis perubahan setelah intervensi MBPP secara lebih kontekstual.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 125,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q30",
+    "question": "Apa dasar metodologis proses adaptasi lintas budaya instrumen CAIDS-20 ke Bahasa Indonesia?",
+    "answer": "Proses adaptasi mengikuti pedoman Beaton dkk. (2000) mengenai cross-cultural adaptation of self-report measures, yang mencakup tahapan translasi awal, sintesis, translasi balik (back-translation), tinjauan oleh panel ahli, dan uji coba lapangan (pretesting). Prosedur ini bertujuan menjaga ekuivalensi semantik, idiomatik, pengalaman, dan konseptual antara instrumen asli dan versi adaptasi, sehingga validitas isi CAIDS-20 versi Bahasa Indonesia dapat dipertanggungjawabkan secara metodologis.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 126,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q30",
+    "question": "Mengapa jumlah 440 responden tahap skrining dianggap memadai secara psikometri?",
+    "answer": "Menurut kaidah ukuran sampel Comrey & Lee (1992), jumlah responden pada kisaran 300-500 tergolong kategori 'baik' (good) untuk analisis psikometri seperti uji korelasi dan validasi instrumen. Jumlah 440 responden dalam penelitian ini berada pada rentang tersebut, sehingga dianggap memadai untuk menghasilkan estimasi hubungan antarvariabel yang stabil pada tahap skrining, meskipun jumlah tersebut tidak serta-merta menjamin representativitas penuh terhadap populasi Generasi Z secara nasional.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 127,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q31",
+    "question": "Mengapa penelitian ini tidak menggunakan desain eksperimen murni (true experimental design) dengan randomized controlled trial?",
+    "answer": "Shadish, Cook, dan Campbell (2002) menjelaskan bahwa randomized controlled trial memerlukan randomisasi partisipan ke kelompok kontrol dan eksperimen, yang membutuhkan jumlah partisipan besar dan sumber daya yang luas. Keterbatasan waktu serta jumlah partisipan berisiko tinggi (14 orang) pada program PKM membuat desain pra-eksperimental one-group pretest-posttest lebih feasible untuk dilaksanakan.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 128,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q32",
+    "question": "Mengapa penelitian ini memilih desain sequential explanatory dibanding desain concurrent triangulation dalam metode campuran?",
+    "answer": "Creswell dan Plano Clark (2011) menjelaskan bahwa desain concurrent triangulation mengumpulkan data kuantitatif dan kualitatif secara bersamaan untuk dibandingkan, sedangkan sequential explanatory mengumpulkan data kuantitatif terlebih dahulu baru kualitatif untuk memperdalam maknanya. Penelitian ini memilih sequential explanatory karena data kualitatif ditujukan menjelaskan mekanisme di balik pola kuantitatif yang telah ditemukan, bukan untuk membandingkan dua sumber data yang setara kedudukannya.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 129,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q33",
+    "question": "Mengapa penelitian ini tidak menggunakan desain longitudinal untuk mengukur ketergantungan curhat AI dari waktu ke waktu?",
+    "answer": "Menard (2002) menjelaskan bahwa desain longitudinal memerlukan pengukuran berulang dalam rentang waktu yang panjang, yang tidak sesuai dengan jangka waktu pelaksanaan program PKM yang terbatas. Penelitian ini karenanya menggunakan desain cross-sectional pada tahap skrining dan desain pra-eksperimental pretest-posttest pada tahap intervensi sebagai pendekatan yang lebih realistis dalam batasan waktu program.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 130,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q34",
+    "question": "Mengapa penelitian ini memilih desain within-subject dibanding between-subject pada tahap intervensi MBPP?",
+    "answer": "Field (2013) menjelaskan bahwa desain within-subject (repeated measures) memungkinkan setiap partisipan berfungsi sebagai pembanding bagi dirinya sendiri, sehingga mengurangi variabilitas antarindividu yang muncul apabila menggunakan desain between-subject dengan kelompok yang berbeda. Hal ini penting mengingat ukuran sampel intervensi yang kecil (14 orang), di mana pembagian ke dalam kelompok terpisah akan semakin mengecilkan daya statistik.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 131,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q35",
+    "question": "Mengapa penelitian ini tidak menggunakan pendekatan studi kasus untuk mengeksplorasi ketergantungan curhat pada AI secara lebih mendalam?",
+    "answer": "Yin (2018) menjelaskan bahwa studi kasus cocok digunakan untuk eksplorasi mendalam pada satu atau sedikit kasus dalam konteks nyata. Penelitian ini tidak memilih studi kasus karena tujuannya adalah memetakan pola hubungan pada populasi yang lebih luas (440 responden) sekaligus menguji efektivitas intervensi pada suatu kelompok (14 partisipan), sehingga desain korelasional dan pra-eksperimental dianggap lebih sesuai dibanding eksplorasi kasus tunggal.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 132,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q36",
+    "question": "Mengapa penelitian ini tidak menggunakan pendekatan grounded theory untuk membangun teori baru dari data yang diperoleh?",
+    "answer": "Charmaz (2014) menjelaskan bahwa grounded theory bertujuan membangun teori baru secara induktif langsung dari data. Penelitian ini tidak bertujuan membangun teori baru, melainkan menguji hubungan antarvariabel berdasarkan teori yang telah ada, yaitu Big-Five dan mindfulness, serta mengevaluasi efektivitas intervensi, sehingga pendekatan deduktif-konfirmatori dianggap lebih sesuai dibanding pendekatan induktif-eksploratif grounded theory.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 133,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q37",
+    "question": "Mengapa penelitian ini memilih kuesioner daring dibanding wawancara terstruktur untuk tahap skrining 440 responden?",
+    "answer": "Wright (2005) menjelaskan bahwa kuesioner daring unggul dalam efisiensi menjangkau jumlah responden besar dalam waktu terbatas, serta memungkinkan anonimitas yang mendorong kejujuran pengisian pada topik sensitif seperti ketergantungan emosional terhadap AI. Wawancara terstruktur pada 440 responden dinilai kurang efisien dari segi waktu dan sumber daya dibanding survei daring.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 134,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q38",
+    "question": "Mengapa penelitian ini tidak menggunakan desain quasi-experimental dengan kelompok pembanding non-random?",
+    "answer": "Shadish, Cook, dan Campbell (2002) menjelaskan bahwa desain quasi-experimental dengan kelompok pembanding non-random tetap memerlukan kelompok kedua yang sebanding karakteristiknya. Mengingat jumlah partisipan berisiko tinggi hasil skrining sangat terbatas (14 orang), membagi kelompok tersebut lebih lanjut akan semakin mengecilkan daya statistik program intervensi, sehingga peneliti memilih desain within-subject tanpa kelompok pembanding.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 135,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q39",
+    "question": "Mengapa penelitian ini tidak menggunakan desain eksperimen murni (true experimental design) dengan randomisasi penuh?",
+    "answer": "Shadish, Cook, dan Campbell (2002) menjelaskan bahwa desain eksperimen murni mensyaratkan random assignment partisipan ke kelompok eksperimen dan kontrol untuk mengontrol variabel luar secara maksimal. Penelitian ini tidak dapat memenuhi syarat tersebut karena jumlah partisipan berisiko tinggi hasil skrining sangat terbatas (14 orang) dan pelaksanaannya terikat jadwal program PKM yang singkat, sehingga randomisasi ke lebih dari satu kelompok akan mengurangi daya statistik secara signifikan. Peneliti mengakui hal ini sebagai keterbatasan dan merekomendasikan desain eksperimen murni pada replikasi dengan sumber daya yang lebih besar.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 136,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q40",
+    "question": "Mengapa penelitian ini tidak menggunakan desain single-subject (misalnya ABAB atau multiple baseline) untuk mengevaluasi efektivitas MBPP?",
+    "answer": "Kazdin (2011) menjelaskan bahwa desain single-subject seperti ABAB atau multiple baseline mensyaratkan pengukuran berulang secara intensif pada level individu sepanjang fase baseline dan intervensi yang bergantian, sehingga memerlukan waktu pengamatan yang lebih panjang serta kontrol ketat atas jadwal pengukuran. Format psikoedukasi kelompok MBPP dengan empat pertemuan yang relatif singkat tidak memungkinkan penerapan fase baseline dan penarikan intervensi berulang secara etis maupun praktis, sehingga desain within-subject pretest-posttest kelompok dianggap lebih sesuai dengan konteks program PKM.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 137,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q41",
+    "question": "Mengapa penelitian ini tidak menggunakan desain ex post facto untuk melihat hubungan kepribadian dan ketergantungan curhat pada AI?",
+    "answer": "Kerlinger dan Lee (2000) menjelaskan bahwa desain ex post facto meneliti hubungan antarvariabel yang telah terjadi secara alami tanpa manipulasi peneliti, cocok digunakan untuk variabel yang tidak dapat atau tidak etis dimanipulasi seperti kepribadian. Penelitian ini pada dasarnya menerapkan logika serupa pada tahap skrining korelasional, namun dilanjutkan dengan tahap intervensi pra-eksperimental pada partisipan berisiko, sehingga desain ex post facto saja dianggap kurang memadai untuk menjawab tujuan menguji efektivitas MBPP.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 138,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q42",
+    "question": "Mengapa penelitian ini menggunakan wawancara individual semi-terstruktur, bukan focus group discussion (FGD), pada tahap kualitatif?",
+    "answer": "Krueger dan Casey (2014) menjelaskan bahwa FGD unggul untuk menggali persepsi bersama dalam dinamika kelompok, namun berisiko menimbulkan tekanan sosial bagi partisipan untuk mengungkap pengalaman pribadi yang sensitif seperti ketergantungan emosional terhadap AI. Wawancara individual semi-terstruktur dipilih agar partisipan dapat mengungkapkan pengalaman personalnya secara lebih terbuka dan rahasia tanpa pengaruh kehadiran partisipan lain.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 139,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q43",
+    "question": "Mengapa teknik purposive sampling dipilih dibanding stratified random sampling pada tahap skrining 440 responden?",
+    "answer": "Etikan, Musa, dan Alkassim (2016) menjelaskan bahwa purposive sampling tepat digunakan ketika peneliti menargetkan karakteristik populasi yang spesifik, dalam hal ini Generasi Z yang aktif menggunakan AI, tanpa memerlukan kerangka sampel populasi lengkap yang dibutuhkan oleh stratified random sampling. Keterbatasan akses terhadap kerangka sampel populasi Generasi Z pengguna AI secara nasional membuat purposive sampling lebih memungkinkan dilaksanakan dalam batasan waktu dan sumber daya program PKM.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 140,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q44",
+    "question": "Mengapa desain penelitian tidak menggunakan pengukuran berulang (time-series) pada beberapa titik waktu sebelum dan sesudah intervensi?",
+    "answer": "Fitzmaurice, Laird, dan Ware (2011) menjelaskan bahwa desain time-series memerlukan pengukuran berulang pada banyak titik waktu untuk memodelkan tren perubahan secara lebih presisi. Penambahan titik pengukuran tersebut berisiko meningkatkan beban partisipasi pada kelompok intervensi yang jumlahnya sudah terbatas (14 orang) serta memerlukan durasi program yang lebih panjang daripada yang tersedia dalam program PKM, sehingga peneliti memilih desain pretest-posttest tunggal sebagai kompromi yang paling realistis.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 141,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q45",
+    "question": "Mengapa dipilih desain mixed methods sequential explanatory, bukan desain concurrent triangulation atau sequential exploratory?",
+    "answer": "Creswell dan Plano Clark (2018) menjelaskan bahwa desain sequential explanatory diawali dengan data kuantitatif untuk mengidentifikasi pola umum, kemudian dilanjutkan data kualitatif untuk memperdalam pemahaman atas pola tersebut, sesuai dengan alur penelitian ini yang dimulai dari skrining kuantitatif menuju intervensi dan wawancara. Desain concurrent triangulation mengumpulkan data kuantitatif dan kualitatif secara bersamaan untuk saling membandingkan, sementara sequential exploratory dimulai dari data kualitatif untuk membangun instrumen kuantitatif; keduanya kurang sesuai karena penelitian ini bertujuan memperdalam temuan kuantitatif yang telah ada, bukan membangun instrumen baru atau membandingkan dua sumber data secara paralel.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 142,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q46",
+    "question": "Mengapa penelitian ini tidak menggunakan desain eksperimen faktorial untuk menguji interaksi antara kepribadian dan intervensi MBPP?",
+    "answer": "Field (2013) menjelaskan bahwa desain faktorial memerlukan pembagian partisipan ke dalam beberapa sel berdasarkan kombinasi level variabel bebas, misalnya tinggi-rendah kepribadian dikombinasikan dengan ada-tidaknya intervensi. Jumlah partisipan intervensi yang hanya 14 orang tidak mencukupi untuk dibagi ke dalam beberapa sel faktorial tanpa mengorbankan daya statistik secara drastis, sehingga peneliti memilih menganalisis kepribadian dan efektivitas intervensi sebagai dua tahap studi yang terpisah namun saling melengkapi.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 143,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q47",
+    "question": "Mengapa penelitian ini tidak menggunakan desain crossover, di mana partisipan menjalani kondisi kontrol dan intervensi secara bergantian?",
+    "answer": "Wellek dan Blettner (2012) menjelaskan bahwa desain crossover mensyaratkan periode washout yang cukup di antara kondisi agar efek satu kondisi tidak terbawa ke kondisi berikutnya. Efek intervensi mindfulness berupa peningkatan kesadaran diri berpotensi menetap (carryover) dan sulit dihilangkan sepenuhnya dalam periode washout yang singkat, sehingga desain crossover dianggap kurang tepat dibanding desain within-subject pretest-posttest yang lebih sederhana untuk konteks program psikoedukasi jangka pendek ini.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 144,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q48",
+    "question": "Mengapa penelitian ini tidak menggunakan pendekatan action research, mengingat sifat program yang berupa intervensi psikoedukasi?",
+    "answer": "Reason dan Bradbury (2001) menjelaskan bahwa action research menekankan siklus berulang antara tindakan dan refleksi kolaboratif antara peneliti dan partisipan untuk memperbaiki suatu praktik secara berkelanjutan. Penelitian ini bertujuan menguji efektivitas program MBPP yang telah dirancang berdasarkan teori sebelumnya secara terstruktur dalam kerangka waktu program PKM, bukan mengembangkan dan merevisi program secara siklikal bersama partisipan, sehingga desain pra-eksperimental dianggap lebih sesuai dibanding pendekatan action research yang bersifat iteratif dan berkelanjutan.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 145,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q49",
+    "question": "Mengapa penelitian ini tidak menggunakan desain Solomon four-group untuk mengontrol efek pretest terhadap posttest?",
+    "answer": "Solomon four-group design menambahkan kelompok tanpa pretest untuk mengisolasi efek testing dari efek intervensi (Braver & Braver, 1988). Desain ini memerlukan minimal empat kelompok partisipan dengan jumlah memadai pada tiap sel, sementara jumlah partisipan berisiko tinggi hasil skrining hanya 14 orang, sehingga pembagian ke dalam empat kelompok akan membuat setiap sel terlalu kecil untuk dianalisis secara bermakna.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 146,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q50",
+    "question": "Mengapa tidak digunakan snowball sampling untuk menjangkau lebih banyak partisipan berisiko tinggi ketergantungan AI?",
+    "answer": "Snowball sampling mengandalkan rujukan antarpartisipan dan berisiko menghasilkan sampel yang homogen karena partisipan cenderung merujuk individu dengan karakteristik serupa (Biernacki & Waldorf, 1981). Purposive sampling melalui kuesioner daring dipilih karena memungkinkan penjangkauan populasi Generasi Z pengguna AI yang lebih luas dan bervariasi dalam waktu terbatas program PKM, tanpa bergantung pada jaringan sosial partisipan awal.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 147,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q51",
+    "question": "Mengapa penelitian ini tidak menganalisis rekaman percakapan aktual partisipan dengan AI (chat log analysis) sebagai data tambahan?",
+    "answer": "Analisis rekaman percakapan aktual berpotensi menimbulkan persoalan etis terkait privasi konten personal yang sangat sensitif, di samping kendala teknis akses lintas platform AI yang berbeda-beda. Penelitian ini karenanya mengandalkan laporan reflektif partisipan melalui logbook dan wawancara sebagai sumber data yang lebih memungkinkan dikontrol secara etis, meski diakui data chat log dapat memperkaya penelitian lanjutan dengan persetujuan eksplisit terkait privasi.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 148,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q52",
+    "question": "Mengapa penelitian ini tidak menggunakan narrative inquiry untuk mengeksplorasi kisah personal partisipan dalam berinteraksi dengan AI?",
+    "answer": "Clandinin dan Connelly (2000) menjelaskan bahwa narrative inquiry berfokus pada penyusunan kisah hidup individu secara utuh dan kronologis untuk memahami makna pengalaman. Penelitian ini bertujuan mengidentifikasi pola perubahan perilaku dan strategi regulasi emosi yang dapat dibandingkan lintas partisipan, sehingga analisis tematik yang menekankan tema bersama dianggap lebih sesuai dibanding narrative inquiry yang menonjolkan keunikan kisah tiap individu.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 149,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q53",
+    "question": "Mengapa tidak dilakukan member checking untuk memvalidasi interpretasi tema kualitatif kepada partisipan?",
+    "answer": "Member checking mengharuskan peneliti mengembalikan hasil interpretasi kepada partisipan untuk dikonfirmasi kesesuaiannya (Lincoln & Guba, 1985). Keterbatasan waktu pelaksanaan program PKM setelah seluruh sesi intervensi selesai membuat tahapan ini belum dapat dilaksanakan secara sistematis, sehingga triangulasi antara wawancara dan logbook digunakan sebagai strategi utama menjaga kredibilitas temuan, dan member checking direkomendasikan pada penelitian lanjutan.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 150,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q54",
+    "question": "Mengapa penelitian ini tidak menggunakan desain matched-control group, misalnya mencocokkan partisipan intervensi dengan kelompok non-intervensi berdasarkan karakteristik serupa?",
+    "answer": "Matched-control group memerlukan tersedianya calon kontrol dengan karakteristik skor CAIDS-20 sedang-tinggi yang setara namun tidak mengikuti intervensi, sementara jumlah responden berisiko tinggi hasil skrining sangat terbatas dan sebagian besar direkrut langsung ke kelompok intervensi. Keterbatasan populasi berisiko tinggi ini membuat pembentukan kelompok kontrol yang tercocokkan secara memadai menjadi tidak feasible dalam kerangka waktu program PKM.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 151,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q55",
+    "question": "Mengapa penelitian ini tidak menggunakan meta-analisis atau kajian sistematis sebagai pendekatan utama, mengingat topik ketergantungan AI relatif baru?",
+    "answer": "Meta-analisis mensyaratkan tersedianya kumpulan studi primer dengan metodologi sebanding dalam jumlah memadai untuk disintesis (Borenstein dkk., 2021), sementara penelitian mengenai ketergantungan curhat pada AI pada Generasi Z Indonesia masih sangat terbatas. Penelitian ini karenanya memilih menghasilkan data primer melalui pendekatan mixed methods untuk mengisi kekosongan literatur, bukan mensintesis temuan yang belum banyak tersedia.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 152,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q56",
+    "question": "Mengapa instrumen kualitatif tidak dikembangkan melalui pendekatan Delphi dengan panel ahli, melainkan menggunakan pedoman wawancara semi-terstruktur biasa?",
+    "answer": "Teknik Delphi umumnya digunakan untuk membangun konsensus ahli mengenai suatu konstruk atau prediksi melalui putaran bertahap (Hsu & Sandford, 2007), yang membutuhkan waktu pelaksanaan lebih panjang dibanding jadwal program PKM. Pedoman wawancara semi-terstruktur disusun berdasarkan kerangka teori yang sudah mapan (Big-Five, mindfulness, self-disclosure) dan divalidasi secara internal oleh tim peneliti, sehingga dianggap cukup memadai untuk menjawab tujuan eksplorasi mekanisme perubahan pada penelitian ini.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 153,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q57",
+    "question": "Mengapa penelitian ini tidak menggunakan pendekatan etnografi digital untuk memahami budaya interaksi Generasi Z dengan AI secara lebih kontekstual?",
+    "answer": "Etnografi digital menuntut keterlibatan (immersion) peneliti dalam jangka waktu panjang untuk mengamati praktik dan makna budaya penggunaan teknologi secara mendalam (Pink dkk., 2016). Keterbatasan waktu program PKM tidak memungkinkan observasi partisipatif berkelanjutan, sehingga penelitian ini memilih desain mixed methods yang lebih terstruktur dan dapat diselesaikan dalam kerangka waktu yang tersedia.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 154,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q58",
+    "question": "Mengapa uji beda pretest-posttest tidak turut dilengkapi dengan uji nonparametrik Wilcoxon signed-rank sebagai pembanding, mengingat jumlah sampel yang kecil?",
+    "answer": "Field (2013) menjelaskan bahwa pemilihan uji parametrik atau non-parametrik idealnya didasarkan pada hasil uji asumsi normalitas data, bukan semata ukuran sampel. Karena data eksperimen pada penelitian ini terbukti memenuhi asumsi normalitas melalui uji yang dilakukan, paired-samples t-test dianggap sudah tepat digunakan, sehingga uji Wilcoxon sebagai alternatif non-parametrik tidak diperlukan sebagai pembanding utama.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 155,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q59",
+    "question": "Mengapa penelitian ini tidak menggunakan pendekatan Q-methodology untuk mengeksplorasi variasi sudut pandang subjektif partisipan terhadap penggunaan AI?",
+    "answer": "Q-methodology dirancang khusus untuk memetakan pola pandangan subjektif yang berbeda-beda antarindividu melalui proses pengurutan (sorting) pernyataan (Watts & Stenner, 2012), yang memerlukan tahap pengembangan set pernyataan tersendiri di luar cakupan penelitian ini. Analisis tematik dipilih karena lebih sesuai untuk mengidentifikasi pola perubahan perilaku bersama pascaintervensi, bukan memetakan tipologi sudut pandang subjektif secara spesifik.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 156,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q60",
+    "question": "Mengapa platform Google Form digunakan untuk penyebaran kuesioner skrining, bukan platform survei berbayar lain?",
+    "answer": "Google Form dipilih karena mudah diakses melalui perangkat mobile yang lazim digunakan Generasi Z, tidak berbayar sehingga sesuai dengan keterbatasan dana program PKM, serta memungkinkan integrasi otomatis data respons ke dalam spreadsheet untuk mempercepat proses pengolahan data skrining terhadap 440 responden (Fowler, 2013).",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 157,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q61",
+    "question": "Bagaimana kerahasiaan data pribadi partisipan dijaga secara teknis selama proses penelitian?",
+    "answer": "Data pribadi partisipan disimpan menggunakan kode identitas (anonymized ID) dan hanya dapat diakses oleh tim peneliti utama, sejalan dengan prinsip kerahasiaan data pribadi yang diatur dalam Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi. Nama asli partisipan tidak dicantumkan dalam berkas analisis, melainkan digantikan dengan kode partisipan.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 158,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q62",
+    "question": "Siapa yang bertindak sebagai fasilitator pelaksanaan intervensi MBPP, dan bagaimana kesiapan mereka dipastikan?",
+    "answer": "Fasilitator merupakan anggota tim peneliti yang telah mendapatkan pembekalan mengenai teknik dasar mindfulness dan psikoedukasi sebelum pelaksanaan program, dengan supervisi dari dosen pendamping untuk memastikan penyampaian materi konsisten dengan modul yang telah dirancang pada setiap pertemuan.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 159,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q63",
+    "question": "Berapa lama durasi masing-masing sesi pertemuan MBPP, dan mengapa durasi tersebut dipilih?",
+    "answer": "Setiap sesi berlangsung sekitar 60-90 menit, durasi ini dipilih agar cukup untuk menyampaikan materi psikoedukasi sekaligus praktik mindfulness tanpa membebani partisipan secara berlebihan, mengingat keikutsertaan bersifat sukarela dan dilaksanakan di luar jadwal akademik partisipan.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 160,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q64",
+    "question": "Bagaimana skor CAIDS-20 dikategorikan ke dalam tingkat rendah, sedang, dan tinggi?",
+    "answer": "Skor total CAIDS-20 dikategorikan ke dalam tiga kelompok (rendah, sedang, tinggi) berdasarkan pembagian rentang skor pada data skrining, mengikuti pendekatan pengkategorian yang umum digunakan pada instrumen skrining psikologis, sehingga partisipan pada kategori sedang-tinggi dapat diidentifikasi sebagai kelompok sasaran intervensi MBPP.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 161,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q65",
+    "question": "Mengapa SPSS versi 26 dipilih sebagai perangkat lunak analisis data, bukan R atau Jamovi?",
+    "answer": "SPSS versi 26 dipilih karena familiar digunakan oleh tim peneliti dan tersedia melalui lisensi kampus, serta mencakup seluruh prosedur analisis inferensial yang dibutuhkan penelitian ini (uji normalitas, korelasi Spearman, paired-samples t-test) tanpa memerlukan proses   tambahan sebagaimana pada R.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 162,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q66",
+    "question": "Apakah dilakukan uji coba (pilot test) terhadap modul MBPP sebelum diterapkan pada 14 partisipan?",
+    "answer": "Pilot test secara khusus dilakukan pada tahap pretesting instrumen CAIDS-20 terhadap 210 responden, namun modul MBPP itu sendiri belum diujicobakan secara terpisah sebelum diterapkan pada 14 partisipan intervensi, mengingat keterbatasan waktu program PKM. Peneliti mengakui hal ini sebagai keterbatasan dan merekomendasikan uji coba modul secara khusus pada penelitian lanjutan.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 163,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q67",
+    "question": "Bagaimana potensi dual role peneliti sebagai fasilitator sekaligus evaluator intervensi diantisipasi agar tidak menimbulkan bias?",
+    "answer": "Potensi dual role diantisipasi dengan mendasarkan evaluasi kuantitatif pada instrumen terstandar (CAIDS-20) yang independen dari proses fasilitasi, serta melibatkan lebih dari satu anggota tim dalam proses wawancara dan interpretasi tema kualitatif, sehingga interpretasi hasil tidak semata bergantung pada penilaian subjektif fasilitator yang terlibat langsung dalam pemberian intervensi.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 164,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q68",
+    "question": "Apa itu desain sequential exploratory dalam mixed methods, dan mengapa desain ini tidak digunakan pada penelitian ini?",
+    "answer": "Creswell dan Plano Clark (2018) menjelaskan bahwa desain sequential exploratory mengumpulkan dan menganalisis data kualitatif terlebih dahulu, yang hasilnya kemudian digunakan untuk mengembangkan instrumen kuantitatif baru atau mengidentifikasi variabel yang akan diuji pada tahap berikutnya, sehingga desain ini paling sesuai ketika konstruk yang diteliti belum memiliki instrumen baku. Penelitian ini tidak menggunakan desain tersebut karena instrumen kuantitatif yang dibutuhkan, yaitu CAIDS-20 (Chen dkk., 2025) dan IPIP-BFM-50 (Akhtar & Azwar, 2019), sudah tersedia dan tervalidasi sebelumnya, sehingga tidak diperlukan tahap eksploratif kualitatif untuk membangun instrumen baru.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 165,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q69",
+    "question": "Apa itu desain convergent parallel (concurrent) dalam metode campuran, dan apa bedanya dengan desain sequential explanatory yang digunakan penelitian ini?",
+    "answer": "Creswell dan Creswell (2018) mendeskripsikan desain convergent parallel sebagai pengumpulan data kuantitatif dan kualitatif secara bersamaan dan saling independen, yang kemudian dibandingkan pada tahap interpretasi untuk melihat apakah kedua jenis data saling menguatkan atau justru bertentangan. Penelitian ini tidak menggunakan desain tersebut karena data kualitatif baru dikumpulkan setelah temuan kuantitatif skrining diperoleh dan intervensi MBPP dilaksanakan, dengan tujuan menjelaskan mekanisme di balik temuan tersebut secara berurutan, bukan membandingkan dua rangkaian data yang dikumpulkan pada periode waktu yang sama.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 166,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q70",
+    "question": "Apa itu desain embedded (nested) dalam metode campuran, dan mengapa desain ini tidak dipilih?",
+    "answer": "Creswell dan Plano Clark (2011) menjelaskan bahwa desain embedded menempatkan salah satu jenis data, kuantitatif atau kualitatif, sebagai data pendukung sekunder yang disisipkan di dalam desain utama yang didominasi oleh jenis data lain, misalnya wawancara singkat yang disisipkan dalam sebuah randomized controlled trial. Penelitian ini tidak menggunakan desain embedded karena kedua fase data pada penelitian ini, kuantitatif dan kualitatif, memiliki kedudukan yang setara penting dalam menjawab tujuan penelitian secara berurutan, bukan salah satu berperan sekadar sebagai pelengkap minor terhadap yang lain.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 167,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q71",
+    "question": "Apa itu desain nonequivalent control group dalam penelitian kuasi-eksperimental, dan mengapa penelitian ini tidak menggunakannya?",
+    "answer": "Campbell dan Stanley (1963) mendeskripsikan desain nonequivalent control group sebagai desain kuasi-eksperimental yang membandingkan kelompok eksperimen dengan kelompok kontrol yang sudah terbentuk secara alami (intact groups) tanpa randomisasi penuh. Penelitian ini tidak menggunakan desain tersebut karena jumlah partisipan berisiko tinggi hasil skrining sangat terbatas (14 orang), sehingga membentuk kelompok pembanding yang sebanding karakteristiknya sekaligus mempertahankan daya statistik yang memadai pada kelompok intervensi menjadi tidak feasible dalam kerangka waktu program PKM.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 168,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q72",
+    "question": "Apa itu desain interrupted time-series, dan mengapa penelitian ini tidak menerapkannya untuk mengevaluasi efek MBPP?",
+    "answer": "Shadish, Cook, dan Campbell (2002) menjelaskan bahwa desain interrupted time-series mengukur variabel dependen secara berulang pada banyak titik waktu, baik sebelum maupun sesudah pemberian intervensi, untuk mendeteksi perubahan tren yang terjadi tepat pada titik pemberian intervensi tersebut. Penelitian ini tidak menerapkan desain tersebut karena keterbatasan waktu pelaksanaan program PKM tidak memungkinkan pengukuran berulang dalam jumlah titik waktu yang cukup untuk memodelkan tren secara statistik, sehingga desain pretest-posttest sederhana dipilih sebagai pendekatan yang lebih realistis.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 169,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q73",
+    "question": "Apa itu pendekatan fenomenologi dalam penelitian kualitatif, dan mengapa pendekatan ini tidak dipilih dibanding analisis tematik?",
+    "answer": "Moustakas (1994) menjelaskan bahwa fenomenologi bertujuan mengungkap esensi (essence) dari suatu pengalaman hidup sebagaimana dimaknai secara langsung oleh individu yang mengalaminya, umumnya melalui wawancara mendalam pada sejumlah kecil partisipan dengan pengalaman serupa. Penelitian ini tidak memilih fenomenologi karena tujuan analisis kualitatif adalah mengidentifikasi pola perubahan perilaku dan strategi regulasi emosi yang dapat dibandingkan lintas partisipan untuk mengevaluasi program secara kolektif, bukan menggali esensi mendalam pengalaman subjektif tiap individu mengenai fenomena curhat ke AI itu sendiri.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 170,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q74",
+    "question": "Apa itu desain static-group comparison dalam penelitian pra-eksperimental, dan mengapa desain within-subject pretest-posttest lebih dipilih dibanding desain ini?",
+    "answer": "Campbell dan Stanley (1963) mengategorikan static-group comparison sebagai desain pra-eksperimental yang membandingkan satu kelompok yang menerima perlakuan dengan kelompok lain yang tidak menerima perlakuan, tanpa pengukuran awal (pretest) maupun randomisasi, sehingga rentan terhadap ancaman validitas internal berupa bias seleksi. Penelitian ini memilih desain within-subject pretest-posttest karena adanya pengukuran awal memungkinkan perbandingan langsung perubahan skor pada individu yang sama, yang dianggap memberikan bukti perubahan lebih kuat dibanding sekadar membandingkan dua kelompok berbeda tanpa data awal.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 171,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q75",
+    "question": "Apa itu penelitian historis (historical research), dan mengapa pendekatan ini tidak relevan digunakan dalam penelitian ini?",
+    "answer": "Gay, Mills, dan Airasian (2012) menjelaskan bahwa penelitian historis bertujuan merekonstruksi dan menginterpretasi peristiwa masa lalu secara sistematis berdasarkan sumber dokumen dan artefak, guna memahami pola atau tren yang telah terjadi pada suatu periode waktu tertentu. Pendekatan ini tidak relevan digunakan dalam penelitian ini karena fokus penelitian adalah mengukur fenomena psikologis yang sedang berlangsung saat ini, yaitu ketergantungan curhat pada AI, serta menguji efektivitas intervensi baru, bukan merekonstruksi peristiwa masa lampau.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 172,
+    "sheet": "Metopel",
+    "category": "Metode Penelitian",
+    "pic": "Fadli, alwa dan riswandi",
+    "code": "Q76",
+    "question": "Apa perbedaan antara desain kuasi-eksperimental time-series dengan desain pretest-posttest satu kelompok yang digunakan penelitian ini?",
+    "answer": "Shadish, Cook, dan Campbell (2002) menekankan bahwa desain kuasi-eksperimental time-series memerlukan banyak titik pengukuran berulang untuk mengontrol ancaman validitas internal seperti maturasi dan regression to the mean secara lebih baik dibanding desain pretest-posttest satu kelompok yang hanya mengandalkan dua titik pengukuran. Penelitian ini menggunakan desain pretest-posttest satu kelompok karena keterbatasan waktu program tidak memungkinkan pengukuran berulang dalam banyak titik waktu, sehingga peneliti mengakui ancaman validitas internal tersebut sebagai keterbatasan metodologis yang melekat pada desain yang dipilih.",
+    "badge_color": {
+      "bg": "rgba(245, 158, 11, 0.15)",
+      "border": "#f59e0b",
+      "text": "#fbbf24"
+    }
+  },
+  {
+    "id": 173,
+    "sheet": "Lupel",
+    "category": "Luaran Penelitian",
+    "pic": "Rafli & alfa",
+    "code": "Q1",
+    "question": "Apa saja luaran wajib dari penelitian ini?",
+    "answer": "Luaran wajib terdiri dari laporan kemajuan (100%, telah diunggah di Simbelmawa), laporan akhir (90%, target Oktober 2026), artikel ilmiah (100%, telah diunggah di Simbelmawa), dan akun media sosial (100%, 3 postingan wajib telah diunggah), dengan capaian keseluruhan 97,5%.",
+    "badge_color": {
+      "bg": "rgba(236, 72, 153, 0.15)",
+      "border": "#ec4899",
+      "text": "#f472b6"
+    }
+  },
+  {
+    "id": 174,
+    "sheet": "Lupel",
+    "category": "Luaran Penelitian",
+    "pic": "Rafli & alfa",
+    "code": "Q2",
+    "question": "Apa saja luaran tambahan dari penelitian ini?",
+    "answer": "Luaran tambahan meliputi laman MBPP (100%, telah dipublikasikan), artikel terunggah (50%, dalam penyusunan), dan Hak Cipta (100%, dalam proses pendaftaran), dengan capaian keseluruhan 83,33%.",
+    "badge_color": {
+      "bg": "rgba(236, 72, 153, 0.15)",
+      "border": "#ec4899",
+      "text": "#f472b6"
+    }
+  },
+  {
+    "id": 175,
+    "sheet": "Lupel",
+    "category": "Luaran Penelitian",
+    "pic": "Rafli & alfa",
+    "code": "Q3",
+    "question": "Apa itu laman MBPP dan apa fungsinya?",
+    "answer": "Laman MBPP adalah platform yang dikembangkan sebagai media edukasi dan panduan mindfulness bagi Generasi Z, guna meningkatkan kesadaran, regulasi emosi, serta mendorong penggunaan AI yang lebih sehat dan bijak.",
+    "badge_color": {
+      "bg": "rgba(236, 72, 153, 0.15)",
+      "border": "#ec4899",
+      "text": "#f472b6"
+    }
+  },
+  {
+    "id": 176,
+    "sheet": "Lupel",
+    "category": "Luaran Penelitian",
+    "pic": "Rafli & alfa",
+    "code": "Q4",
+    "question": "Apa yang di-HKI-kan (Hak Cipta) dari penelitian ini?",
+    "answer": "Yang diajukan Hak Cipta adalah materi atau panduan Mindfulness-Based Psychoeducation Programme (MBPP) yang dikembangkan tim, sehingga dapat menjadi produk edukasi yang dimanfaatkan lebih luas oleh masyarakat, terutama Generasi Z.",
+    "badge_color": {
+      "bg": "rgba(236, 72, 153, 0.15)",
+      "border": "#ec4899",
+      "text": "#f472b6"
+    }
+  },
+  {
+    "id": 177,
+    "sheet": "Lupel",
+    "category": "Luaran Penelitian",
+    "pic": "Rafli & alfa",
+    "code": "Q5",
+    "question": "Bagaimana progres keseluruhan luaran penelitian ini?",
+    "answer": "Progres keseluruhan luaran penelitian saat ini mencapai 90,41%, dengan luaran wajib 97,5% dan luaran tambahan 83,33%.",
+    "badge_color": {
+      "bg": "rgba(236, 72, 153, 0.15)",
+      "border": "#ec4899",
+      "text": "#f472b6"
+    }
+  },
+  {
+    "id": 178,
+    "sheet": "Lupel",
+    "category": "Luaran Penelitian",
+    "pic": "Rafli & alfa",
+    "code": "Q6",
+    "question": "Apa rencana tahapan berikutnya untuk mencapai target 100%?",
+    "answer": "Tahapan berikutnya adalah penyusunan laporan akhir penelitian dan laporan keuangan.",
+    "badge_color": {
+      "bg": "rgba(236, 72, 153, 0.15)",
+      "border": "#ec4899",
+      "text": "#f472b6"
+    }
+  },
+  {
+    "id": 179,
+    "sheet": "Lupel",
+    "category": "Luaran Penelitian",
+    "pic": "Rafli & alfa",
+    "code": "Q7",
+    "question": "Apa potensi hasil (manfaat) dari penelitian ini bagi masyarakat?",
+    "answer": "Temuan penelitian berpotensi menjadi dasar pengembangan pendekatan preventif berbasis MBPP untuk menurunkan ketergantungan penggunaan AI sebagai media curhat pada Generasi Z, serta platform edukasi mindfulness yang dapat meningkatkan kesadaran dan regulasi emosi masyarakat.",
+    "badge_color": {
+      "bg": "rgba(236, 72, 153, 0.15)",
+      "border": "#ec4899",
+      "text": "#f472b6"
+    }
+  },
+  {
+    "id": 180,
+    "sheet": "Lupel",
+    "category": "Luaran Penelitian",
+    "pic": "Rafli & alfa",
+    "code": "Q8",
+    "question": "Bagaimana rencana publikasi artikel ilmiah dari penelitian ini?",
+    "answer": "Artikel ilmiah yang disusun berdasarkan hasil penelitian berpotensi dipublikasikan pada jurnal nasional atau internasional yang relevan, sekaligus menjadi referensi bagi penelitian selanjutnya mengenai kepribadian, ketergantungan AI, dan penggunaan AI sebagai media curhat.",
+    "badge_color": {
+      "bg": "rgba(236, 72, 153, 0.15)",
+      "border": "#ec4899",
+      "text": "#f472b6"
+    }
+  },
+  {
+    "id": 181,
+    "sheet": "Lupel",
+    "category": "Luaran Penelitian",
+    "pic": "Rafli & alfa",
+    "code": "Q9",
+    "question": "Siapa target penerima manfaat dari laman MBPP dan panduan mindfulness yang dikembangkan?",
+    "answer": "Target utama adalah Generasi Z yang rentan mengalami ketergantungan curhat pada AI, termasuk mahasiswa dan masyarakat umum yang membutuhkan panduan praktis untuk meningkatkan kesadaran diri dan regulasi emosi dalam penggunaan AI.",
+    "badge_color": {
+      "bg": "rgba(236, 72, 153, 0.15)",
+      "border": "#ec4899",
+      "text": "#f472b6"
+    }
+  },
+  {
+    "id": 182,
+    "sheet": "Lupel",
+    "category": "Luaran Penelitian",
+    "pic": "Rafli & alfa",
+    "code": "Q10",
+    "question": "Bagaimana keberlanjutan program MBPP setelah penelitian PKM ini selesai?",
+    "answer": "Keberlanjutan dapat dilakukan melalui pengembangan laman MBPP menjadi modul edukasi yang lebih luas, kerja sama dengan lembaga pendidikan atau kesehatan mental, serta pemanfaatan luaran Hak Cipta sebagai dasar produk edukasi yang dapat direplikasi pada kelompok Generasi Z lainnya.",
+    "badge_color": {
+      "bg": "rgba(236, 72, 153, 0.15)",
+      "border": "#ec4899",
+      "text": "#f472b6"
+    }
+  },
+  {
+    "id": 183,
+    "sheet": "Lupel",
+    "category": "Luaran Penelitian",
+    "pic": "Rafli & alfa",
+    "code": "Q11",
+    "question": "Bagaimana rencana pendanaan keberlanjutan laman MBPP setelah program PKM ini selesai, mengingat pendanaan PKM bersifat terbatas dan sementara?",
+    "answer": "Keberlanjutan pendanaan direncanakan melalui skema kerja sama dengan lembaga pendidikan atau institusi kesehatan mental yang dapat mengintegrasikan laman MBPP ke dalam program layanan mereka, serta pemanfaatan luaran Hak Cipta sebagai dasar legal untuk membuka peluang kolaborasi atau hibah lanjutan, sehingga keberlangsungan tidak sepenuhnya bergantung pada pendanaan PKM.",
+    "badge_color": {
+      "bg": "rgba(236, 72, 153, 0.15)",
+      "border": "#ec4899",
+      "text": "#f472b6"
+    }
+  },
+  {
+    "id": 184,
+    "sheet": "Lupel",
+    "category": "Luaran Penelitian",
+    "pic": "Rafli & alfa",
+    "code": "Q12",
+    "question": "Apa indikator keberhasilan (KPI) yang digunakan untuk mengukur dampak nyata laman MBPP terhadap masyarakat luas, bukan hanya terhadap 14 partisipan penelitian?",
+    "answer": "Indikator keberhasilan pada tahap penelitian ini masih berfokus pada capaian luaran administratif seperti publikasi dan aktivitas media sosial. Untuk dampak yang lebih luas, indikator yang direncanakan meliputi jumlah pengunjung dan pengguna aktif laman MBPP, tingkat keterlibatan (engagement) pada materi edukasi, serta umpan balik pengguna terkait perubahan kesadaran dan perilaku regulasi emosi, yang akan menjadi fokus evaluasi pada tahap pengembangan lanjutan.",
+    "badge_color": {
+      "bg": "rgba(236, 72, 153, 0.15)",
+      "border": "#ec4899",
+      "text": "#f472b6"
+    }
+  },
+  {
+    "id": 185,
+    "sheet": "Lupel",
+    "category": "Luaran Penelitian",
+    "pic": "Rafli & alfa",
+    "code": "Q13",
+    "question": "Mengapa luaran tambahan berupa artikel terunggah baru mencapai 50%? Apa kendala utamanya dan bagaimana strategi penyelesaiannya?",
+    "answer": "Kendala utama terletak pada proses penyusunan dan penyempurnaan artikel yang memerlukan finalisasi analisis data secara menyeluruh, termasuk integrasi temuan kuantitatif dan kualitatif ke dalam narasi ilmiah yang koheren. Strategi penyelesaiannya adalah menargetkan penyelesaian artikel setelah laporan akhir penelitian rampung, dengan pembagian tugas penulisan di antara anggota tim agar dapat memenuhi tenggat sebelum submisi ke jurnal yang dituju.",
+    "badge_color": {
+      "bg": "rgba(236, 72, 153, 0.15)",
+      "border": "#ec4899",
+      "text": "#f472b6"
+    }
+  },
+  {
+    "id": 186,
+    "sheet": "Lupel",
+    "category": "Luaran Penelitian",
+    "pic": "Rafli & alfa",
+    "code": "Q14",
+    "question": "Bagaimana mekanisme evaluasi atau monitoring efektivitas laman MBPP dilakukan setelah dipublikasikan kepada masyarakat umum, agar tidak sekadar menjadi luaran administratif?",
+    "answer": "Mekanisme evaluasi yang direncanakan mencakup pemantauan statistik kunjungan dan interaksi pengguna pada laman, serta pengumpulan umpan balik melalui survei singkat bagi pengguna yang mengakses materi mindfulness. Evaluasi ini penting agar laman MBPP tidak berhenti sebagai luaran administratif semata, melainkan benar-benar berfungsi sebagai media edukasi yang berdampak dan dapat diperbarui berdasarkan kebutuhan pengguna.",
+    "badge_color": {
+      "bg": "rgba(236, 72, 153, 0.15)",
+      "border": "#ec4899",
+      "text": "#f472b6"
+    }
+  },
+  {
+    "id": 187,
+    "sheet": "Lupel",
+    "category": "Luaran Penelitian",
+    "pic": "Rafli & alfa",
+    "code": "Q15",
+    "question": "Apa potensi hilirisasi atau bahkan komersialisasi dari luaran Hak Cipta panduan MBPP ini, dan apakah hal tersebut sejalan dengan tujuan penelitian yang bersifat sosial-preventif?",
+    "answer": "Potensi hilirisasi diarahkan pada kerja sama non-komersial dengan institusi pendidikan atau lembaga kesehatan mental untuk memperluas jangkauan program, sejalan dengan tujuan preventif penelitian. Apabila di masa depan terdapat peluang pengembangan menjadi produk edukasi berbayar (misalnya modul pelatihan bagi lembaga), Hak Cipta yang telah diajukan memberikan landasan legal, namun prioritas utama tetap pada aksesibilitas luas bagi Generasi Z yang membutuhkan, bukan orientasi komersial semata.",
+    "badge_color": {
+      "bg": "rgba(236, 72, 153, 0.15)",
+      "border": "#ec4899",
+      "text": "#f472b6"
+    }
+  },
+  {
+    "id": 188,
+    "sheet": "Lupel",
+    "category": "Luaran Penelitian",
+    "pic": "Rafli & alfa",
+    "code": "Q16",
+    "question": "Bagaimana kalian memastikan konten pada laman MBPP tetap berbasis bukti (evidence-based) dan tidak berisiko disalahgunakan sebagai pengganti layanan profesional kesehatan mental?",
+    "answer": "Materi pada laman MBPP disusun berdasarkan hasil penelitian dan modul intervensi yang telah diuji efektivitasnya secara empiris, bukan sekadar konten motivasi umum. Laman ini juga akan mencantumkan disclaimer yang menegaskan bahwa materi bersifat psikoedukasi preventif, bukan pengganti terapi atau konsultasi profesional, serta menyertakan rujukan ke layanan kesehatan mental resmi bagi pengguna yang membutuhkan bantuan lebih lanjut.",
+    "badge_color": {
+      "bg": "rgba(236, 72, 153, 0.15)",
+      "border": "#ec4899",
+      "text": "#f472b6"
+    }
+  },
+  {
+    "id": 189,
+    "sheet": "Lupel",
+    "category": "Luaran Penelitian",
+    "pic": "Rafli & alfa",
+    "code": "Q17",
+    "question": "Apa rencana diseminasi hasil penelitian ini kepada pemangku kepentingan yang lebih luas, seperti institusi pendidikan atau pembuat kebijakan?",
+    "answer": "Diseminasi direncanakan melalui publikasi artikel ilmiah pada jurnal nasional maupun internasional yang relevan, presentasi hasil penelitian di forum akademik seperti PIMNAS, serta penyebarluasan laman MBPP kepada komunitas mahasiswa dan lembaga pendidikan sebagai mitra potensial, sehingga temuan dan produk penelitian tidak berhenti pada laporan administratif semata.",
+    "badge_color": {
+      "bg": "rgba(236, 72, 153, 0.15)",
+      "border": "#ec4899",
+      "text": "#f472b6"
+    }
+  },
+  {
+    "id": 190,
+    "sheet": "Lupel",
+    "category": "Luaran Penelitian",
+    "pic": "Rafli & alfa",
+    "code": "Q18",
+    "question": "Bagaimana kalian mengantisipasi risiko bahwa laman MBPP hanya ramai diakses di awal peluncuran namun ditinggalkan penggunanya dalam jangka panjang (masalah retensi pengguna)?",
+    "answer": "Risiko tersebut diantisipasi dengan merencanakan pembaruan konten secara berkala serta pengembangan fitur interaktif yang mendorong keterlibatan berulang, seperti latihan mindfulness terpandu atau jurnal refleksi digital. Kerja sama dengan institusi pendidikan juga diharapkan menciptakan jalur pemanfaatan yang lebih terstruktur dan berkelanjutan, alih-alih hanya mengandalkan kunjungan spontan pengguna individu.",
+    "badge_color": {
+      "bg": "rgba(236, 72, 153, 0.15)",
+      "border": "#ec4899",
+      "text": "#f472b6"
+    }
+  },
+  {
+    "id": 191,
+    "sheet": "Lupel",
+    "category": "Luaran Penelitian",
+    "pic": "Rafli & alfa",
+    "code": "Q19",
+    "question": "Apa dasar teori yang mendukung strategi diseminasi luaran penelitian melalui platform digital seperti laman MBPP?",
+    "answer": "Rogers (2003) dalam Diffusion of Innovation Theory menjelaskan bahwa penyebaran suatu inovasi, termasuk inovasi berbasis edukasi digital, dipengaruhi oleh faktor seperti kemudahan akses, kesesuaian dengan kebutuhan pengguna, dan kemudahan diamati manfaatnya. Kerangka ini mendasari strategi menjadikan laman MBPP sebagai saluran diseminasi utama luaran penelitian kepada Generasi Z.",
+    "badge_color": {
+      "bg": "rgba(236, 72, 153, 0.15)",
+      "border": "#ec4899",
+      "text": "#f472b6"
+    }
+  },
+  {
+    "id": 192,
+    "sheet": "Lupel",
+    "category": "Luaran Penelitian",
+    "pic": "Rafli & alfa",
+    "code": "Q20",
+    "question": "Bagaimana kerangka Knowledge-to-Action relevan dengan pengembangan laman MBPP sebagai luaran penelitian?",
+    "answer": "Graham dkk. (2006) melalui Knowledge-to-Action Framework menjelaskan proses mengubah temuan penelitian menjadi produk atau praktik yang dapat diaplikasikan secara nyata di masyarakat. Laman MBPP dikembangkan sebagai representasi tahap aplikasi pengetahuan (knowledge application) dalam kerangka tersebut, yang mengubah hasil intervensi psikoedukasi menjadi materi yang dapat diakses publik secara luas.",
+    "badge_color": {
+      "bg": "rgba(236, 72, 153, 0.15)",
+      "border": "#ec4899",
+      "text": "#f472b6"
+    }
+  },
+  {
+    "id": 193,
+    "sheet": "Lupel",
+    "category": "Luaran Penelitian",
+    "pic": "Rafli & alfa",
+    "code": "Q21",
+    "question": "Apa dasar teori keberlanjutan program yang mendasari rencana keberlangsungan laman MBPP pascapendanaan PKM?",
+    "answer": "Scheirer dan Dearing (2011) mengidentifikasi faktor-faktor yang memengaruhi keberlanjutan program berbasis intervensi kesehatan, antara lain dukungan kelembagaan dan integrasi program ke dalam struktur organisasi yang sudah ada. Kerangka ini mendasari rencana kerja sama dengan institusi pendidikan atau kesehatan mental agar laman MBPP tidak berhenti seiring berakhirnya pendanaan program PKM.",
+    "badge_color": {
+      "bg": "rgba(236, 72, 153, 0.15)",
+      "border": "#ec4899",
+      "text": "#f472b6"
+    }
+  },
+  {
+    "id": 194,
+    "sheet": "Lupel",
+    "category": "Luaran Penelitian",
+    "pic": "Rafli & alfa",
+    "code": "Q22",
+    "question": "Bagaimana prinsip evidence-based practice mendasari penyusunan konten pada laman MBPP?",
+    "answer": "Sackett dkk. (1996) mendefinisikan evidence-based practice sebagai penggunaan bukti ilmiah terbaik yang tersedia secara eksplisit dan bijaksana dalam pengambilan keputusan praktis. Prinsip ini mendasari penyusunan materi laman MBPP agar bersumber dari hasil penelitian dan modul intervensi yang telah diuji efektivitasnya, bukan sekadar konten motivasi tanpa dasar empiris.",
+    "badge_color": {
+      "bg": "rgba(236, 72, 153, 0.15)",
+      "border": "#ec4899",
+      "text": "#f472b6"
+    }
+  },
+  {
+    "id": 195,
+    "sheet": "Lupel",
+    "category": "Luaran Penelitian",
+    "pic": "Rafli & alfa",
+    "code": "Q23",
+    "question": "Apa dasar hukum yang melandasi pengajuan Hak Cipta atas panduan MBPP sebagai luaran penelitian?",
+    "answer": "Pengajuan Hak Cipta mengacu pada Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta, yang memberikan perlindungan hukum bagi ciptaan di bidang ilmu pengetahuan, termasuk karya tulis dan modul edukasi seperti panduan MBPP, sehingga tim peneliti memiliki hak eksklusif atas pemanfaatan dan pengembangan luaran tersebut secara sah.",
+    "badge_color": {
+      "bg": "rgba(236, 72, 153, 0.15)",
+      "border": "#ec4899",
+      "text": "#f472b6"
+    }
+  },
+  {
+    "id": 196,
+    "sheet": "Lupel",
+    "category": "Luaran Penelitian",
+    "pic": "Rafli & alfa",
+    "code": "Q24",
+    "question": "Bagaimana rencana hilirisasi laman dan panduan MBPP dapat dikaitkan dengan teori difusi inovasi?",
+    "answer": "Rogers (2003) dalam Diffusion of Innovation Theory menjelaskan bahwa adopsi sebuah inovasi oleh masyarakat dipengaruhi oleh sifat inovasi tersebut (keunggulan relatif, kompatibilitas, kompleksitas, kemudahan dicoba, dan keterlihatan hasilnya) serta saluran komunikasi dan sistem sosial penggunanya. Strategi diseminasi laman MBPP melalui kerja sama dengan institusi pendidikan dan kesehatan mental sejalan dengan prinsip ini, karena memanfaatkan saluran sosial yang sudah dipercaya (opinion leaders/institusi) untuk mempercepat proses adopsi oleh Generasi Z sebagai target penerima manfaat.",
+    "badge_color": {
+      "bg": "rgba(236, 72, 153, 0.15)",
+      "border": "#ec4899",
+      "text": "#f472b6"
+    }
+  },
+  {
+    "id": 197,
+    "sheet": "Lupel",
+    "category": "Luaran Penelitian",
+    "pic": "Rafli & alfa",
+    "code": "Q25",
+    "question": "Apa dasar teoretis yang memastikan konten laman MBPP tetap bersifat evidence-based dan bukan sekadar konten motivasi umum?",
+    "answer": "Penyusunan konten laman MBPP merujuk pada prinsip evidence-based practice (Sackett dkk., 1996), yaitu pengintegrasian bukti penelitian terbaik yang tersedia dengan keahlian praktis dalam merancang intervensi atau materi edukasi. Karena materi MBPP diturunkan langsung dari modul intervensi yang telah diuji efektivitasnya secara empiris melalui penelitian ini, penyusunannya konsisten dengan prinsip evidence-based practice, bukan sekadar konten motivasi tanpa dasar ilmiah.",
+    "badge_color": {
+      "bg": "rgba(236, 72, 153, 0.15)",
+      "border": "#ec4899",
+      "text": "#f472b6"
+    }
+  },
+  {
+    "id": 198,
+    "sheet": "Lupel",
+    "category": "Luaran Penelitian",
+    "pic": "Rafli & alfa",
+    "code": "Q26",
+    "question": "Apa dasar teori evaluasi program yang mendasari rencana pengukuran dampak laman MBPP terhadap penggunanya di masa depan?",
+    "answer": "Kirkpatrick (1994) mengembangkan model evaluasi pelatihan empat level, yaitu reaksi, pembelajaran, perubahan perilaku, dan hasil akhir. Kerangka ini relevan digunakan untuk merancang indikator keberhasilan laman MBPP secara bertahap, mulai dari respons awal pengguna terhadap konten hingga perubahan perilaku regulasi emosi yang diharapkan muncul dalam jangka panjang.",
+    "badge_color": {
+      "bg": "rgba(236, 72, 153, 0.15)",
+      "border": "#ec4899",
+      "text": "#f472b6"
+    }
+  },
+  {
+    "id": 199,
+    "sheet": "Lupel",
+    "category": "Luaran Penelitian",
+    "pic": "Rafli & alfa",
+    "code": "Q27",
+    "question": "Apa dasar teori yang mendukung strategi integrasi laman MBPP dengan institusi pendidikan sebagai bagian dari rencana keberlanjutan?",
+    "answer": "Bronfenbrenner (1979) dalam ecological systems theory menjelaskan bahwa perkembangan individu dipengaruhi oleh berbagai lapisan lingkungan yang saling berinteraksi, termasuk mesosystem berupa hubungan antarlembaga seperti sekolah dan komunitas. Integrasi laman MBPP ke dalam institusi pendidikan sejalan dengan prinsip ini, karena memanfaatkan lingkungan yang secara langsung berinteraksi dengan Generasi Z untuk memperkuat keberlanjutan dampak program.",
+    "badge_color": {
+      "bg": "rgba(236, 72, 153, 0.15)",
+      "border": "#ec4899",
+      "text": "#f472b6"
+    }
+  },
+  {
+    "id": 200,
+    "sheet": "Lupel",
+    "category": "Luaran Penelitian",
+    "pic": "Rafli & alfa",
+    "code": "Q28",
+    "question": "Apa dasar etika penelitian yang melandasi kehati-hatian dalam mempublikasikan luaran yang memuat data sensitif kesehatan mental partisipan?",
+    "answer": "Deklarasi Helsinki (World Medical Association, 2013) menegaskan prinsip kerahasiaan dan perlindungan data partisipan sebagai bagian dari etika penelitian yang melibatkan manusia, yang di Indonesia turut diperkuat oleh Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi. Publikasi luaran penelitian ini karenanya disusun dengan menyamarkan identitas partisipan dan hanya menyajikan data secara agregat atau anonim.",
+    "badge_color": {
+      "bg": "rgba(236, 72, 153, 0.15)",
+      "border": "#ec4899",
+      "text": "#f472b6"
+    }
+  }
+]
