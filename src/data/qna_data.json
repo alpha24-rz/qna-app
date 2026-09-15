@@ -2798,5 +2798,355 @@
       "border": "#ec4899",
       "text": "#f472b6"
     }
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-01",
+    "question": "Mengapa curhat ke AI dianggap masalah darurat yang harus diintervensi, bukan sekadar adaptasi wajar generasi digital (coping mechanism)?",
+    "answer": "Curhat ke AI menjadi masalah darurat ketika berkembang dari 'penggunaan fungsional' menjadi 'reliansi emosional maladaptif'. Berdasarkan data skrining kami pada 300 Gen Z di Makassar, partisipan dengan skor CAIDS tinggi menunjukkan disfungsi nyata: menarik diri dari dukungan sosial nyata, kecemasan tinggi saat server AI down, dan kehilangan kemampuan regulasi emosi mandiri. Intervensi MBPP tidak melarang penggunaan teknologi, melainkan menghentikan ketergantungan emosional yang melumpuhkan resiliensi psikologis internal.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 201
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-02",
+    "question": "Does it really happen? Adakah bukti kasus nyata disfungsi klinis atau sosial pada Gen Z di Makassar akibat ketergantungan curhat ke AI?",
+    "answer": "Ada, dan terekam jelas dalam data primer kami. Partisipan AHCR mengisolasi diri karena takut dihakimi keluarga dan sepenuhnya melimpahkan emosi ke AI; Partisipan IS mengaku tidak bisa tidur tanpa bercerita ke ChatGPT; dan Partisipan I mengalami kelumpuhan keputusan (decision paralysis) karena harus selalu memvalidasi perasaan overthinking-nya ke AI terlebih dahulu sebelum bertindak. Hal ini membuktikan ketergantungan emosional pada AI adalah fenomena empiris riil di lapangan, bukan sekadar asumsi teoritis.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 202
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-03",
+    "question": "What makes your MBPP special? Intervensi mindfulness sudah sangat banyak, apa perbedaan mendasar modul kalian dibanding mindfulness konvensional?",
+    "answer": "Kebaruan utama MBPP kami terletak pada integrasi profil Big Five Personality ke dalam modul psikoedukasi mindfulness (modifikasi dari Güldal, 2022). Mindfulness biasa bersifat seragam (one-size-fits-all), sedangkan MBPP kami terarah: pada trait kognitif (Intellect & Conscientiousness) melatih kesadaran metakognitif agar tidak tergantung pada pemecahan masalah instan AI; sedangkan pada trait afektif (Emotional Stability rendah & Agreeableness tinggi) melatih self-compassion dan regulasi mandiri agar tidak menjadikan empati sintetis AI sebagai pelarian konflik.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 203
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-04",
+    "question": "Mengapa menggunakan one-group pretest-posttest design tanpa kelompok kontrol? Bukankah desain ini sangat lemah terhadap validitas internal?",
+    "answer": "Penggunaan one-group pretest-posttest design didasarkan pada tujuan riset PKM-RSH sebagai studi kelayakan intervensi awal (proof of concept) dan eksplorasi kedalaman psikologis, sesuai Campbell & Stanley (1963). Kami menyadari keterbatasan internal validity desain ini, sehingga kelemahan tersebut kami mitigasi melalui pendekatan Mixed Methods Sequential Explanatory: penurunan kuantitatif dikonfirmasi silang dengan logbook pemantauan harian selama 4 minggu dan wawancara kualitatif mendalam untuk memastikan perubahan perilaku benar-benar bersumber dari teknik intervensi.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 204
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-05",
+    "question": "Bagaimana membuktikan penurunan skor CAIDS (72,29 ke 50,79) murni karena MBPP, bukan karena efek maturasi (waktu berjalan) atau testing effect?",
+    "answer": "Pertama, penurunan signifikan t(13) = 3,268 (p = 0,006, Cohen's d = 0,87 / effect size besar) terjadi dalam rentang intervensi terstruktur 4 sesi intensif. Kedua, data kualitatif membuktikan partisipan secara sadar mengaplikasikan teknik mindful breathing dan memberi jeda (pause) tepat saat dorongan impulsif membuka AI muncul. Ketiga, logbook harian menunjukkan penurunan menit penggunaan AI berkolerasi dengan kepatuhan latihan mandiri, membuktikan efek kausal keterampilan baru, bukan efek waktu semata.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 205
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-06",
+    "question": "Mengapa jumlah partisipan eksperimen hanya 14 orang? Apakah jumlah tersebut representatif untuk mengklaim efektivitas intervensi?",
+    "answer": "Sesuai kaidah eksperimen psikologi (Roscoe, 1975), ukuran sampel 10 hingga 20 orang sudah memadai untuk intervensi intensif tatap muka (small-group training). Desain 14 orang ini dipilih karena intervensi MBPP membutuhkan kedalaman fasilitasi, pemantauan logbook individual harian, serta observasi dinamika personal secara ketat. Representasi populasi makro sudah dipenuhi pada tahap kuantitatif pertama (N = 300 responden).",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 206
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-07",
+    "question": "Bagaimana prosedur skrining dan kriteria penentuan 14 partisipan tersebut sehingga dinyatakan mengalami ketergantungan tinggi?",
+    "answer": "Skrining dilakukan pada 300 responden menggunakan skala CAIDS-20 (skor 20–100). Partisipan yang dipilih mengikuti intervensi adalah responden yang memenuhi 3 kriteria ketat: (1) Skor CAIDS-20 masuk kategori tinggi (mean baseline awal 72,29); (2) Menggunakan AI sebagai media curhat minimal 3-5 kali seminggu; dan (3) Bersedia menandatangani informed consent serta berkomitmen penuh mengikuti 4 sesi intervensi tatap muka dan mengisi logbook harian.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 207
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-08",
+    "question": "Kalian mahasiswa S1, bukan psikolog klinis berlisensi. Atas dasar apa kalian memfasilitasi intervensi psikologis ini?",
+    "answer": "Intervensi kami adalah psikoedukasi preventif (MBPP), bukan psikoterapi klinis kuratif. Berdasarkan Pasal 10 Kode Etik Psikologi Indonesia, pemberian psikoedukasi dapat didelegasikan kepada mahasiswa psikologi yang telah mendapatkan pelatihan dan berada di bawah supervisi penuh. Fasilitator tim kami telah melalui pelatihan peran (role-play), penyusunan modul terstandarisasi yang lolos expert review, serta disupervisi langsung oleh Dosen Pendamping kami yang berlatar belakang Magister Psikologi.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 208
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-09",
+    "question": "Bagaimana penerapan Pasal 10 Kode Etik Psikologi Indonesia secara operasional dalam riset ini?",
+    "answer": "Penerapan Pasal 10 Kode Etik dilakukan melalui 3 lapis: (1) Kompetensi materi: tim mahasiswa hanya menyampaikan materi psikoedukasi dan panduan mindfulness yang telah tertera di modul teruji; (2) Batasan peran: fasilitator tidak melakukan diagnosis klinis maupun intervensi psikopatologi individual; (3) Sistem supervisi: setiap sesi dievaluasi oleh Dosen Pendamping dan tim memiliki jalur rujukan (referral system) ke psikolog jika ditemukan indikasi distres psikologis berat pada partisipan.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 209
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-10",
+    "question": "Kapan Surat Kelaikan Etik (Ethical Clearance) diterbitkan? Apakah sebelum atau sesudah intervensi dilakukan?",
+    "answer": "Surat Kelaikan Etik (Ethical Clearance) telah diajukan dan diterbitkan oleh Komisi Etik Penelitian resmi SEBELUM intervensi pada partisipan dimulai (tercantum lengkap pada Lampiran 8). Seluruh partisipan juga telah menandatangani informed consent secara sukarela sebelum pengambilan data tes awal (pre-test) dilakukan.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 210
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-11",
+    "question": "Bagaimana protokol mitigasi jika ada partisipan mengalami abreaksi emosional atau distres saat sesi latihan mindfulness?",
+    "answer": "Kami menerapkan protokol ground rules keselamatan psikologis: (1) Sesi mindfulness menggunakan grounding technique yang lembut (breath awareness & body scan dasar); (2) Partisipan berhak menghentikan latihan kapan saja (right to withdraw) tanpa konsekuensi; (3) Terdapat sesi debriefing di setiap akhir sesi untuk merilis emosi; dan (4) Tim standby menyediakan pendampingan one-on-one serta rujukan ke konselor jika muncul abreaksi.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 211
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-12",
+    "question": "Skala CAIDS-20 dari Chen dkk. (2025) baru terbit. Bagaimana proses adaptasi lintas budaya ke Bahasa Indonesia?",
+    "answer": "Adaptasi mengacu pada pedoman standar Beaton dkk. (2000): (1) Translasi awal oleh 2 penerjemah independen; (2) Sintesis hasil translasi; (3) Back-translation oleh penerjemah bilingual independen; (4) Expert committee review oleh pakar psikometri untuk validitas isi (Aiken's V); dan (5) Pre-testing (uji keterbacaan dan reliabilitas) pada 210 responden Gen Z sebelum instrumen digunakan pada riset utama.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 212
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-13",
+    "question": "Berapa nilai Cronbach's Alpha dan validitas psikometrik skala CAIDS-20 versi adaptasi Bahasa Indonesia kalian?",
+    "answer": "Hasil uji psikometrik pada 210 responden pre-test menunjukkan nilai Cronbach's Alpha sebesar 0,912, yang mengindikasikan reliabilitas sangat tinggi (excellent reliability). Seluruh 20 item memiliki koefisien korelasi item-total (corrected item-total correlation) di atas 0,30, membuktikan bahwa skala adaptasi memiliki validitas isi dan daya diskriminasi aitem yang sangat memuaskan.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 213
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-14",
+    "question": "Mengapa seluruh dimensi Big Five berkorelasi negatif dengan ketergantungan AI? Bukankah instabilitas emosi seharusnya berkorelasi positif?",
+    "answer": "Pada instrumen IPIP-BFM-50, skala yang diukur adalah 'Emotional Stability' (kestabilan emosi), BUKAN Neurotisisme (ketidakstabilan). Nilai korelasi r = -0,490 (negatif) artinya: semakin TINGGI stabilitas emosi, semakin RENDAH ketergantungan pada AI; sebaliknya semakin RENDAH stabilitas emosi (neurotisisme tinggi), maka ketergantungan curhat pada AI semakin TINGGI. Jadi arah korelasi negatif ini konsisten 100% secara teoritis.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 214
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-15",
+    "question": "Korelasi Spearman berada di kisaran r = -0,490 sampai -0,530 (kategori sedang, R^2 sekitar 25%). Jika 75% dipengaruhi faktor lain, mengapa kalian tetap fokus pada Big Five?",
+    "answer": "Koefisien determinasi R^2 ~ 25% justru menjadi temuan esensial riset kami yang sejalan dengan Fang & Bian (2026): kepribadian adalah faktor predisposisi internal (vulnerability factor), bukan determinan mutlak. Karena kepribadian stabil, MBPP dirancang bukan untuk mengubah kepribadian seseorang, melainkan memberikan strategi regulasi emosi mandiri yang disesuaikan dengan profil kelemahan masing-masing trait.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 215
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-16",
+    "question": "Faktor afektif apa saja yang berkontribusi pada sisa variansi 75% ketergantungan curhat pada AI?",
+    "answer": "Berdasarkan temuan kualitatif kami, faktor afektif terbesar meliputi: (1) Rasa kesepian situasional dan keterasingan sosial; (2) Ketiadaan pendengar suportif tanpa prasangka di lingkungan keluarga/sebaya; (3) Fear of being judged (takut dihakimi); serta (4) Karakteristik AI yang selalu tersedia 24/7, anonim, cepat, dan memberi ilusi empati yang nyaman tanpa risiko penolakan sosial.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 216
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-17",
+    "question": "Mengapa wawancara mendalam kualitatif hanya dilakukan pada 5 orang? Dari mana kalian tahu data sudah jenuh (data saturation)?",
+    "answer": "Kajian kualitatif dalam sequential explanatory berfungsi memperdalam dan mengilustrasikan mekanisme di balik angka kuantitatif (Creswell & Creswell, 2018). Saturasi data tercapai pada partisipan kelima karena pola tema yang muncul (faktor pendorong kesepian, pemanfaatan mindful breathing, jeda sebelum bertindak, dan penurunan frekuensi AI) telah berulang secara konsisten dan tidak memunculkan kode tema baru (Braun & Clarke, 2006).",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 217
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-18",
+    "question": "Bagaimana kalian mengontrol social desirability bias pada pengisian logbook harian mandiri di rumah?",
+    "answer": "Kami menerapkan 3 teknik kontrol: (1) Anonimitas kode partisipan dan jaminan bahwa isian logbook tidak mempengaruhi penilaian evaluasi; (2) Logbook tidak hanya menanyakan skor kepatuhan, melainkan deskripsi verbatim situasi pemicu dan apa yang mereka rasakan saat dorongan muncul; (3) Melakukan cross-check triangulasi antara logbook tertulis dengan pernyataan spontan saat wawancara mendalam.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 218
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-19",
+    "question": "Bagaimana integrasi kuantitatif dan kualitatif dalam Sequential Explanatory ini bekerja secara nyata?",
+    "answer": "Integrasi bekerja berurutan: Data kuantitatif fase 1 memetakan bahwa seluruh trait Big Five berkorelasi negatif sedang dan membuktikan intervensi MBPP signifikan (p=0,006). Namun angka statistik tidak bisa menjelaskan 'mengapa dan bagaimana' perubahan itu terjadi. Fase kualitatif masuk menjelaskan mekanismenya: mengungkap bahwa trait Intellect menggunakan AI untuk dialektika kognitif, sedangkan Emotional Stability rendah menjadikannya pelarian afektif, dan MBPP bekerja melalui mindful breathing sebagai pemutus rantai impulsivitas.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 219
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-20",
+    "question": "Mengapa Emotional Stability memiliki korelasi paling kuat (meski sedang) di antara dimensi kepribadian?",
+    "answer": "Karena ketergantungan curhat pada AI pada dasarnya adalah kompensasi atas regulasi emosi yang rapuh. Individu dengan kestabilan emosi rendah sering mengalami overthinking, kecemasan, dan distres afektif intens. AI hadir sebagai spons emosional yang selalu menyetujui dan menenangkan tanpa risiko konflik, sehingga individu dengan instabilitas emosi paling rentan terikat secara psikologis dibanding trait lainnya.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 220
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-21",
+    "question": "Laporan mencantumkan draf artikel Scopus Q3 di Hellenic Journal of Psychology. Apakah ada dana Belmawa yang dipakai untuk biaya publikasi (APC)?",
+    "answer": "Sama sekali tidak ada. Kami mematuhi penuh Pedoman PKM bahwa dana Belmawa tidak boleh digunakan untuk APC atau publikasi artikel ilmiah berbayar. Seluruh dana Belmawa kami serap untuk operasional riset, konsumsi sesi intervensi, modul MBPP, dan alat pengumpul data. Target publikasi Scopus didanai murni dari skema insentif perguruan tinggi (Universitas Negeri Makassar) secara terpisah.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 221
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-22",
+    "question": "Mengapa progres artikel ilmiah baru 80%? Jangan jadikan artikel ilmiah sebagai alasan keterlambatan tahapan PKM!",
+    "answer": "Kami memahami bahwa luaran wajib PKM-RSH di Simbelmawa adalah draf artikel ilmiah yang telah disesuaikan dengan format pedoman Belmawa, dan luaran tersebut telah 100% selesai dan siap diunggah. Adapun progres 80% yang kami cantumkan merujuk pada manuskrip lengkap yang sedang dalam tahap review akhir bersama Dosen Pendamping sebelum submit ke jurnal eksternal.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 222
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-23",
+    "question": "Apa status perlindungan Hak Cipta (HKI) laman dan modul MBPP? Apakah sudah terbit surat pencatatan resmi Kemenkumham?",
+    "answer": "Sudah resmi terdaftar dan telah memperoleh Surat Pencatatan Ciptaan dari Kemenkumham RI melalui Sentra HKI LPPM Universitas Negeri Makassar (bukti nomor pencatatan dan sertifikat terlampir di Lampiran 11). Karya cipta mencakup modul panduan psikoedukasi MBPP serta arsitektur konten laman web edukasi.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 223
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-24",
+    "question": "Berapa sisa dana Belmawa kalian saat ini dan akan digunakan untuk apa pada tahapan berikutnya?",
+    "answer": "Serapan dana Belmawa saat ini telah mencapai lebih dari 90%, dan sisa dana yang ada dialokasikan secara sah untuk penyusunan serta penjilidan laporan akhir riset, penggandaan modul evaluasi akhir, serta biaya pemeliharaan domain/hosting laman MBPP agar tetap dapat diakses publik.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 224
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-25",
+    "question": "Apa bukti konkret keberlanjutan (sustainability) dari intervensi MBPP setelah pendanaan PKM berakhir?",
+    "answer": "Keberlanjutan diwujudkan melalui 3 pilar: (1) Laman Web MBPP yang telah online dan ber-HKI sebagai platform mandiri edukasi mindfulness dan self-screening ketergantungan AI bagi mahasiswa; (2) Modul MBPP terstandarisasi yang diserahkan ke Pusat Layanan Konseling Mahasiswa UNM sebagai program konseling kelompok preventif; dan (3) Publikasi artikel ilmiah sebagai referensi akademik intervensi AI intimacy di Indonesia.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 225
   }
 ]

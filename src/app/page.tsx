@@ -35,7 +35,8 @@ interface QnAItem {
 }
 
 const CATEGORIES = [
-  { id: "all", name: "Semua", count: 200, color: "border-blue-500 text-blue-400 bg-blue-500/10" },
+  { id: "all", name: "Semua", count: 225, color: "border-blue-500 text-blue-400 bg-blue-500/10" },
+  { id: "Juri", name: "🔥 Prediksi Juri Room 1", count: 25, color: "border-red-500 text-red-400 bg-red-500/10" },
   { id: "Dapel", name: "Dasar Penelitian", count: 31, color: "border-indigo-500 text-indigo-400 bg-indigo-500/10" },
   { id: "Hapel", name: "Hasil Penelitian", count: 64, color: "border-emerald-500 text-emerald-400 bg-emerald-500/10" },
   { id: "Metopel", name: "Metode Penelitian", count: 77, color: "border-amber-500 text-amber-400 bg-amber-500/10" },
@@ -43,8 +44,11 @@ const CATEGORIES = [
 ];
 
 const QUICK_TAGS = [
-  "urgensi",
-  "novelty",
+  "maturasi",
+  "kontrol grup",
+  "pasal 10",
+  "ethical clearance",
+  "Scopus",
   "CAIDS-20",
   "IPIP-BFM-50",
   "Spearman",
@@ -56,6 +60,7 @@ const QUICK_TAGS = [
 ];
 
 const CATEGORY_TAG_STYLES: Record<string, string> = {
+  Juri: "bg-red-500/20 border-red-500/50 text-red-300 font-bold",
   Dapel: "bg-indigo-500/15 border-indigo-500/40 text-indigo-300",
   Hapel: "bg-emerald-500/15 border-emerald-500/40 text-emerald-300",
   Metopel: "bg-amber-500/15 border-amber-500/40 text-amber-300",
@@ -311,7 +316,7 @@ export default function HomePage() {
           <div className="flex items-center gap-3">
             <div className="flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3 py-1.5 backdrop-blur-md">
               <BookOpen className="h-4 w-4 text-emerald-400" />
-              <span className="font-mono font-bold text-emerald-400">200</span>
+              <span className="font-mono font-bold text-emerald-400">225</span>
               <span className="text-xs text-slate-400">Database Q&amp;A</span>
             </div>
 
