@@ -174,7 +174,7 @@
     "pic": "Rafli & Alfa",
     "code": "Q13",
     "question": "Mengapa penelitian ini hanya menggunakan kerangka Big-Five, padahal literatur juga menunjukkan faktor lain seperti kesepian dan self-esteem berperan penting?",
-    "answer": "Izin menjawab Bapak/Ibu Dewan Juri. Pemilihan Big-Five Personality didasarkan pada posisinya sebagai fondasi disposisional yang stabil dalam psikologi kepribadian (Costa & McCrae, 1992). Kami sangat menyadari faktor afektif situasional seperti kesepian (loneliness) dan harga diri (self-esteem) sangat penting. Justru temuan korelasi kami yang berada pada kategori sedang (rs = -0,490 hingga -0,509) mengonfirmasi premis teoritis Fang & Bian (2026) dan Oh dkk. (2026): bahwa kepribadian adalah faktor predisposisi internal, sementara dorongan terbesar curhat ke AI bersifat multifaktorial yang dipicu oleh kesepian dan kebutuhan rasa aman.",
+    "answer": "Izin menjawab Bapak/Ibu Dewan Juri. Pemilihan Big-Five Personality didasarkan pada posisinya sebagai fondasi disposisional yang stabil dalam psikologi kepribadian (Costa & McCrae, 1992). Kami sangat menyadari faktor afektif situasional seperti kesepian (loneliness) dan harga diri (self-esteem) sangat penting. Justru temuan korelasi kami yang berada pada kategori sedang (rs = -0,490 hingga -0,530; p < 0,001) mengonfirmasi premis teoritis Fang & Bian (2026) dan Oh dkk. (2026): bahwa kepribadian adalah faktor predisposisi internal, sementara dorongan terbesar curhat ke AI bersifat multifaktorial yang dipicu oleh kesepian dan kebutuhan rasa aman.",
     "badge_color": {
       "bg": "rgba(99, 102, 241, 0.15)",
       "border": "#6366f1",
@@ -258,7 +258,7 @@
     "pic": "Rafli & Alfa",
     "code": "Q19",
     "question": "Jika hasil akhir menunjukkan korelasi kepribadian-ketergantungan AI hanya lemah, apakah premis dasar penelitian di bab pendahuluan masih relevan?",
-    "answer": "Izin menanggapi, Dewan Juri yang kami hormati. Premis dasar kami justru semakin kuat dan terkonfirmasi secara elegan. Nilai korelasi Spearman yang berada pada kategori sedang (rs = -0,490 hingga -0,509; p < 0,001) membuktikan bahwa kepribadian memang berkontribusi nyata, namun bukan penjelas tunggal. Sebagaimana ditegaskan dalam Five-Factor Theory (McCrae & Costa, 2003) dan model Zhai dkk. (2025), kepribadian adalah faktor predisposisi internal yang berinteraksi dengan faktor situasional dan lingkungan. Fakta ini justru menjadi bukti ilmiah mengapa intervensi lingkungan berupa psikoedukasi MBPP sangat dibutuhkan untuk melatih keterampilan regulasi diri.",
+    "answer": "Izin menanggapi, Dewan Juri yang kami hormati. Premis dasar kami justru semakin kuat dan terkonfirmasi secara elegan. Nilai korelasi Spearman yang berada pada kategori sedang (rs = -0,490 hingga -0,530; p < 0,001) membuktikan bahwa kepribadian memang berkontribusi nyata, namun bukan penjelas tunggal. Sebagaimana ditegaskan dalam Five-Factor Theory (McCrae & Costa, 2003) dan model Zhai dkk. (2025), kepribadian adalah faktor predisposisi internal yang berinteraksi dengan faktor situasional dan lingkungan. Fakta ini justru menjadi bukti ilmiah mengapa intervensi lingkungan berupa psikoedukasi MBPP sangat dibutuhkan untuk melatih keterampilan regulasi diri.",
     "badge_color": {
       "bg": "rgba(99, 102, 241, 0.15)",
       "border": "#6366f1",
@@ -454,7 +454,7 @@
     "pic": "Fadli, alwa dan riswandi",
     "code": "Q2",
     "question": "Dimensi kepribadian mana yang memiliki hubungan paling kuat dengan ketergantungan curhat AI?",
-    "answer": "Baik, izin menjelaskan dimensi yang paling dominan, Dewan Juri. Di antara kelima dimensi, Emotional Stability (stabilitas emosi) memiliki hubungan paling kuat (rs = -0,490 hingga -0,509; p < 0,001). Secara teoritis dalam Five-Factor Theory (McCrae & Costa, 2003), individu dengan stabilitas emosi rendah (tinggi neurotisisme) mengalami kesulitan regulasi afek negatif dan rentan overthinking. Karena AI selalu ada dan tidak pernah menghakimi, individu dengan trait ini paling rentan menjadikan AI sebagai pelarian emosional kompensatoris dibanding trait lainnya.",
+    "answer": "Baik, izin menjelaskan temuan korelasi berdasarkan data resmi Tabel 2 Laporan kami, Dewan Juri. Berdasarkan uji korelasi Spearman, kelima dimensi Big Five memiliki hubungan negatif yang signifikan (p < 0,001) dalam kategori sedang menurut pedoman Sugiyono (2010), dengan rentang rs = -0,490 hingga -0,530. Hubungan paling kuat secara statistik ditemukan pada dimensi Agreeableness (rs = -0,530) dan Extraversion (rs = -0,522), disusul Conscientiousness (rs = -0,509), Intellect (rs = -0,504), dan Emotional Stability (rs = -0,490). Temuan ini menunjukkan bahwa individu dengan keramahan rendah (enggan berkonflik/kecewa dengan relasi manusia) serta ekstraversi rendah (introver) paling rentan mencari kenyamanan pada AI karena AI memberikan ruang interaksi privat yang aman tanpa risiko penghakiman atau penolakan interpersonal. Adapun Emotional Stability yang rendah menjadi jalur kerentanan afektif (overthinking dan distres) yang mendorong pencarian validasi instan pada AI.",
     "badge_color": {
       "bg": "rgba(16, 185, 129, 0.15)",
       "border": "#10b981",
@@ -677,8 +677,8 @@
     "category": "Hasil Penelitian",
     "pic": "Fadli, alwa dan riswandi",
     "code": "Q18",
-    "question": "Nilai korelasi Spearman untuk Emotional Stability hanya rs=-0,202. Apakah kekuatan hubungan yang lemah ini memiliki makna praktis meski signifikan secara statistik?",
-    "answer": "Izin menjawab Dewan Juri terkait kekuatan korelasi. Korelasi Spearman yang signifikan (rs = -0,490; p < 0,001) secara praktis membuktikan bahwa Emotional Stability adalah faktor disposisional yang penting: individu yang cemas dan impulsif memang lebih rentan lari ke AI. Namun secara teoritis, fakta bahwa hubungannya berada di kisaran sedang justru membuktikan bahwa kepribadian bukanlah vonis takdir. Ada ruang intervensi lingkungan yang sangat besar melalui pelatihan mindfulness untuk membantu mereka mengelola kerentanan emosional tersebut.",
+    "question": "Nilai korelasi Spearman untuk Emotional Stability berada pada rs = -0,490 (kategori sedang). Apakah hubungan ini memiliki makna praktis meski bukan faktor tunggal?",
+    "answer": "Izin menjawab Dewan Juri terkait kekuatan korelasi. Korelasi Spearman yang signifikan (rs = -0,490; p < 0,001) membuktikan bahwa Emotional Stability adalah faktor disposisional yang penting: individu yang cemas, overthinking, dan impulsif memang rentan lari ke AI sebagai sarana pelarian afektif. Namun secara teoritis, fakta bahwa hubungannya berada di kategori sedang (0,40–0,599, Sugiyono, 2010) justru membuktikan bahwa kepribadian bukanlah vonis takdir mutlak. Ada ruang intervensi lingkungan yang sangat luas melalui pelatihan mindfulness MBPP untuk membantu partisipan melatih regulasi emosi mandiri dan kesadaran diri.",
     "badge_color": {
       "bg": "rgba(16, 185, 129, 0.15)",
       "border": "#10b981",
@@ -761,8 +761,8 @@
     "category": "Hasil Penelitian",
     "pic": "Fadli, alwa dan riswandi",
     "code": "Q24",
-    "question": "Bagaimana temuan bahwa Emotional Stability memiliki korelasi paling kuat dapat dijelaskan melalui Five Factor Model?",
-    "answer": "Baik, izin menjelaskan melalui Five-Factor Model (Costa & McCrae, 1992). Emotional Stability mencerminkan ambang toleransi terhadap afek negatif. Individu dengan kestabilan rendah sering mengalami distres akut saat menghadapi ketidakpastian. AI hadir menawarkan ilusi penerimaan instan tanpa risiko penolakan. Oleh karena itu, individu dengan Emotional Stability rendah memiliki daya tarik psikologis tertinggi untuk menjadikan AI sebagai penenang instan dibanding dimensi kepribadian lainnya.",
+    "question": "Bagaimana temuan hubungan korelasi dimensi Big Five dengan ketergantungan curhat AI dijelaskan melalui Five Factor Model?",
+    "answer": "Baik, izin menjelaskan melalui Five-Factor Model (Costa & McCrae, 1992; Huang & Lan, 2025). Temuan korelasi negatif pada kelima dimensi (rs = -0,490 hingga -0,530; p < 0,001) mencerminkan dua jalur kerentanan utama: jalur relasional-sosial dan jalur afektif. Pada jalur relasional, korelasi tertinggi pada Agreeableness (rs = -0,530) dan Extraversion (rs = -0,522) menunjukkan bahwa individu yang curiga, memendam masalah, dan introver merasa jauh lebih aman berinteraksi dengan AI yang patuh tanpa risiko konflik interpersonal. Sementara pada jalur afektif, individu dengan Emotional Stability rendah (rs = -0,490) memiliki ambang toleransi afek negatif yang rentan, sehingga memanfaatkan respons cepat dan sifat non-judgmental AI sebagai penenang instan.",
     "badge_color": {
       "bg": "rgba(16, 185, 129, 0.15)",
       "border": "#10b981",
@@ -831,8 +831,8 @@
     "category": "Hasil Penelitian",
     "pic": "Fadli, alwa dan riswandi",
     "code": "Q30",
-    "question": "Bagaimana temuan bahwa Emotional Stability memiliki hubungan paling kuat dengan ketergantungan AI dijelaskan dari perspektif teori kepribadian?",
-    "answer": "Izin menjawab Dewan Juri. Dalam Five-Factor Theory (McCrae & Costa, 2003), trait kepribadian adalah kecenderungan dasar (basic tendencies). Individu dengan Emotional Stability rendah memiliki kecenderungan biologis merespons stres secara intens. Temuan korelasi negatif kami mengonfirmasi bahwa kepribadian ini menjadi pemicu kerentanan utama, yang kemudian dikompensasi dengan mencari ruang curhat AI yang serba aman dan menenangkan.",
+    "question": "Bagaimana hubungan kelima dimensi kepribadian dengan ketergantungan AI dijelaskan dari perspektif teori kepribadian?",
+    "answer": "Izin menjawab Dewan Juri. Dalam Five-Factor Theory (McCrae & Costa, 2003), trait kepribadian adalah kecenderungan dasar (basic tendencies). Korelasi negatif yang konsisten pada seluruh dimensi Big Five (rs = -0,490 hingga -0,530; p < 0,001) membuktikan bahwa kepribadian menjadi faktor predisposisi internal yang membentuk pola interaksi dengan teknologi. Trait Agreeableness rendah (-0,530) dan Extraversion rendah (-0,522) menjadi pendorong keterikatan tertinggi karena individu mencari ruang aman tanpa friksi sosial, sementara Emotional Stability rendah (-0,490) memicu kebutuhan pelarian emosional. Karakteristik AI yang selalu tersedia 24/7 dan empatik semu hadir mengompensasi kedua kebutuhan psikologis tersebut.",
     "badge_color": {
       "bg": "rgba(16, 185, 129, 0.15)",
       "border": "#10b981",
@@ -873,8 +873,8 @@
     "category": "Hasil Penelitian",
     "pic": "Fadli, alwa dan riswandi",
     "code": "Q33",
-    "question": "Bagaimana kekuatan korelasi Spearman rs=-0,202 pada Emotional Stability dimaknai berdasarkan pedoman interpretasi korelasi?",
-    "answer": "Izin menjelaskan pemaknaan koefisien korelasi, Dewan Juri. Berdasarkan pedoman Cohen (1988) dan Sugiyono (2010), koefisien korelasi r = 0,40 hingga 0,599 termasuk dalam kategori hubungan sedang. Nilai korelasi kelima dimensi Big-Five kami (rs = -0,490 s.d. -0,509) dengan p < 0,001 membuktikan adanya asosiasi yang konsisten dan bermakna: kepribadian adalah faktor predisposisi yang terbukti nyata berkontribusi terhadap kerentanan curhat pada AI.",
+    "question": "Bagaimana kekuatan korelasi Spearman pada kelima dimensi Big Five dimaknai berdasarkan pedoman interpretasi korelasi?",
+    "answer": "Izin menjelaskan pemaknaan koefisien korelasi, Dewan Juri. Berdasarkan pedoman interpretasi Sugiyono (2010), koefisien korelasi r = 0,40 hingga 0,599 termasuk dalam kategori hubungan sedang. Seluruh kelima dimensi Big-Five dalam Tabel 2 Laporan kami berada dalam rentang hubungan sedang yang konsisten dan signifikan (rs = -0,490 s.d. -0,530; p < 0,001), yakni Agreeableness (-0,530), Extraversion (-0,522), Conscientiousness (-0,509), Intellect (-0,504), dan Emotional Stability (-0,490). Hal ini membuktikan secara ilmiah adanya kontribusi disposisional yang nyata, sekaligus menegaskan bahwa ketergantungan AI bersifat multifaktorial sehingga sangat responsif terhadap intervensi psikoedukasi seperti MBPP.",
     "badge_color": {
       "bg": "rgba(16, 185, 129, 0.15)",
       "border": "#10b981",
@@ -1350,7 +1350,7 @@
     "pic": "Fadli, alwa dan riswandi",
     "code": "Q2",
     "question": "Apa itu CAIDS-20 dan mengapa digunakan?",
-    "answer": "Baik, izin menjelaskan instrumen CAIDS-20, Dewan Juri. CAIDS-20 (Conversational Artificial Intelligence Dependence Scale) dikembangkan oleh Chen dkk. (2025) khusus untuk mengukur reliansi psikologis dan ketergantungan pada chatbot AI. Kami memilih instrumen ini karena memiliki relevansi konstruk yang sangat presisi dengan fenomena curhat ke AI. Kami telah melakukan adaptasi lintas budaya ke Bahasa Indonesia mengacu pada protokol Beaton dkk. (2000), melalui translasi, back-translation, uji validitas isi ahli (Aiken's V), dan pre-testing pada 210 responden dengan reliabilitas Cronbach's Alpha mencapai 0,912.",
+    "answer": "Baik, izin menjelaskan instrumen CAIDS-20, Dewan Juri. CAIDS-20 (Conversational Artificial Intelligence Dependence Scale) dikembangkan oleh Chen dkk. (2025) khusus untuk mengukur reliansi psikologis dan ketergantungan pada conversational AI. Kami memilih instrumen ini karena memiliki relevansi konstruk yang sangat presisi dengan fenomena curhat ke AI. Kami telah melakukan adaptasi lintas budaya ke Bahasa Indonesia mengacu pada protokol Beaton dkk. (2000), melalui translasi, back-translation, uji validitas isi ahli (Aiken's V = 0,833–1,000, Lampiran 16 Hal 213), dan pre-testing pada 210 responden yang diuji secara psikometri menghasilkan muatan faktor CFA seluruh item λ = 0,734–0,911, AVE = 0,643, serta reliabilitas komposit McDonald's Omega (ω) mencapai 0,912 yang tergolong kategori Sangat Tinggi (Lampiran 16 Hal 220–221).",
     "badge_color": {
       "bg": "rgba(245, 158, 11, 0.15)",
       "border": "#f59e0b",
@@ -1504,7 +1504,7 @@
     "pic": "Fadli, alwa dan riswandi",
     "code": "Q13",
     "question": "Bagaimana validitas dan reliabilitas data dijaga dalam penelitian ini?",
-    "answer": "Izin menjawab Dewan Juri mengenai validitas dan reliabilitas. Pada data kuantitatif, kami menjamin reliabilitas instrumen dengan nilai Cronbach's Alpha 0,912 (CAIDS-20) dan validitas isi melalui Aiken's V oleh panel ahli. Pada data kualitatif, kami menerapkan kriteria 'trustworthiness' dari Lincoln & Guba (1985): kredibilitas dijaga melalui triangulasi metode (kuesioner, wawancara, logbook harian) dan audit trail bersama dosen pendamping untuk mengeliminasi bias subjektif.",
+    "answer": "Izin menjawab Dewan Juri mengenai validitas dan reliabilitas. Pada data kuantitatif, kami menjamin mutu psikometrik skala CAIDS-20 versi adaptasi Bahasa Indonesia melalui pengujian reliabilitas komposit McDonald's Omega (ω) sebesar 0,912 (kategori Sangat Tinggi, Lampiran 16 Hal 221), validitas konstruk melalui Confirmatory Factor Analysis (CFA) dengan nilai AVE = 0,643 (memenuhi syarat ≥ 0,50) dan muatan faktor seluruh item λ = 0,734–0,911, serta validitas isi panel ahli dengan Aiken's V = 0,833–1,000 (Lampiran 16 Hal 213). Pada data kualitatif, kami menerapkan kriteria 'trustworthiness' dari Lincoln & Guba (1985): kredibilitas dijaga melalui triangulasi teknik (kuesioner CAIDS-20, wawancara mendalam semi-terstruktur, dan self-report/logbook harian 28 hari) serta audit trail bersama dosen pendamping untuk memastikan objektivitas data.",
     "badge_color": {
       "bg": "rgba(245, 158, 11, 0.15)",
       "border": "#f59e0b",
@@ -1559,8 +1559,8 @@
     "category": "Metode Penelitian",
     "pic": "Fadli, alwa dan riswandi",
     "code": "Q17",
-    "question": "Bagaimana validitas dan reliabilitas psikometrik CAIDS-20 versi adaptasi Bahasa Indonesia dibuktikan secara kuantitatif, misalnya melalui nilai Cronbach's alpha atau uji validitas konstruk?",
-    "answer": "Izin memaparkan bukti psikometrik CAIDS-20 adaptasi kami, Dewan Juri yang terhormat. Pada tahap pre-testing terhadap 210 responden Gen Z, skala CAIDS-20 versi Bahasa Indonesia menghasilkan nilai Cronbach's Alpha sebesar 0,912, yang mengindikasikan reliabilitas sangat tinggi (Nunnally & Bernstein, 1994). Seluruh 20 item memiliki corrected item-total correlation di atas 0,30 (berkisar 0,412 hingga 0,724), membuktikan validitas diskriminasi aitem yang sangat memuaskan.",
+    "question": "Bagaimana validitas dan reliabilitas psikometrik CAIDS-20 versi adaptasi Bahasa Indonesia dibuktikan secara kuantitatif dalam laporan penelitian?",
+    "answer": "Izin memaparkan bukti psikometrik CAIDS-20 adaptasi kami sebagaimana tercantum pada Lampiran 16 Halaman 213–221 Laporan, Dewan Juri yang terhormat. Pada tahap pre-testing terhadap 210 responden Gen Z: Pertama, reliabilitas diuji menggunakan koefisien reliabilitas komposit mutakhir McDonald's Omega (ω) yang mencapai 0,912 untuk Skala Total CAIDS (kategori Sangat Tinggi, ω > 0,90; dimensi Uncontrollability 0,652; Withdrawal Symptoms 0,701; Mood Modification 0,827; Negative Impact 0,727). Kedua, validitas konstruk dibuktikan melalui Confirmatory Factor Analysis (CFA) di mana seluruh 20 aitem memenuhi syarat muatan faktor signifikan (λ berkisar 0,734 hingga 0,911) dengan nilai Average Variance Extracted (AVE) sebesar 0,643 (memenuhi ambang batas AVE ≥ 0,50). Ketiga, validitas isi dibuktikan melalui evaluasi 3 ahli dengan indeks kesepakatan Aiken's V berkisar antara 0,833 hingga 1,000 (kategori Memuaskan).",
     "badge_color": {
       "bg": "rgba(245, 158, 11, 0.15)",
       "border": "#f59e0b",
@@ -2972,8 +2972,8 @@
     "category": "Prediksi Juri Room 1",
     "pic": "Rafli & Tim",
     "code": "JURI-13",
-    "question": "Berapa nilai Cronbach's Alpha dan validitas psikometrik skala CAIDS-20 versi adaptasi Bahasa Indonesia kalian?",
-    "answer": "Izin melaporkan parameter psikometrik skala adaptasi CAIDS-20 kami, Dewan Juri. Berdasarkan uji coba lapangan terhadap 210 responden Gen Z: Nilai koefisien reliabilitas Cronbach's Alpha mencapai 0,912, yang menurut kaidah Nunnally & Bernstein (1994) tergolong 'Excellent Reliability'. Seluruh 20 item instrumen memiliki nilai corrected item-total correlation di atas 0,30 (berkisar antara 0,412 hingga 0,724), membuktikan validitas konstruk dan daya diskriminasi aitem yang sangat tinggi.",
+    "question": "Berapa nilai reliabilitas dan validitas psikometrik skala CAIDS-20 versi adaptasi Bahasa Indonesia kalian di laporan?",
+    "answer": "Izin melaporkan parameter psikometrik skala adaptasi CAIDS-20 kami sebagaimana tercatat resmi pada Lampiran 16 Laporan, Dewan Juri. Pada riset ini, kami menggunakan parameter reliabilitas komposit yang lebih presisi dan modern dibanding alpha konvensional, yaitu McDonald's Omega (ω) yang mencapai 0,912 untuk total skala (kategori Sangat Tinggi, ω > 0,90; dengan reliabilitas per dimensi berkisar 0,652 hingga 0,827, Lampiran 16 Hal 220–221). Validitas konstruk diuji melalui Confirmatory Factor Analysis (CFA) dengan muatan faktor (λ) seluruh 20 aitem berkisar 0,734 hingga 0,911 serta nilai Average Variance Extracted (AVE) sebesar 0,643 (memenuhi syarat AVE ≥ 0,50). Selain itu, validitas isi dinilai oleh 3 ahli dengan indeks Aiken's V antara 0,833 hingga 1,000 (Lampiran 16 Hal 213). Seluruh bukti psikometrik ini mengonfirmasi bahwa skala CAIDS-20 adaptasi kami sangat valid dan andal.",
     "badge_color": {
       "bg": "rgba(239, 68, 68, 0.15)",
       "border": "#ef4444",
@@ -3001,7 +3001,7 @@
     "pic": "Rafli & Tim",
     "code": "JURI-15",
     "question": "Korelasi Spearman berada di kisaran r = -0,490 sampai -0,530 (kategori sedang, R^2 sekitar 25%). Jika 75% dipengaruhi faktor lain, mengapa kalian tetap fokus pada Big Five?",
-    "answer": "Izin menjawab mengenai koefisien determinasi korelasi kepribadian, Dewan Juri. Korelasi sedang (rs = -0,490 sampai -0,509) dengan nilai R^2 sekitar 25% justru menjadi temuan esensial riset kami yang sejalan dengan Fang & Bian (2026). Temuan ini membuktikan secara ilmiah bahwa kepribadian adalah faktor kerentanan internal (predisposing factor), bukan penentu takdir mutlak. Fakta bahwa 75% dipengaruhi faktor lain justru menjadi justifikasi kuat mengapa intervensi lingkungan berupa psikoedukasi MBPP sangat dibutuhkan untuk melatih keterampilan regulasi emosi mandiri.",
+    "answer": "Izin menjawab mengenai koefisien determinasi korelasi kepribadian, Dewan Juri. Korelasi sedang (rs = -0,490 sampai -0,530; p < 0,001) dengan nilai R^2 sekitar 25% justru menjadi temuan esensial riset kami yang sejalan dengan Fang & Bian (2026). Temuan ini membuktikan secara ilmiah bahwa kepribadian adalah faktor kerentanan internal (predisposing factor), bukan penentu takdir mutlak. Fakta bahwa 75% dipengaruhi faktor afektif situasional lainnya justru menjadi justifikasi kuat mengapa intervensi lingkungan berupa psikoedukasi MBPP sangat dibutuhkan untuk melatih keterampilan regulasi emosi mandiri.",
     "badge_color": {
       "bg": "rgba(239, 68, 68, 0.15)",
       "border": "#ef4444",
@@ -3070,8 +3070,8 @@
     "category": "Prediksi Juri Room 1",
     "pic": "Rafli & Tim",
     "code": "JURI-20",
-    "question": "Mengapa Emotional Stability memiliki korelasi paling kuat (meski sedang) di antara dimensi kepribadian?",
-    "answer": "Izin menjelaskan mengapa Emotional Stability memiliki korelasi terkuat dibanding dimensi lain. Karena ketergantungan curhat pada AI pada hakikatnya adalah 'kompensasi atas kerapuhan regulasi emosi' (Compensatory Internet Use Theory, Kardefelt-Winther, 2014). Individu dengan stabilitas emosi rendah sering mengalami distres akut, overthinking, dan kecemasan tinggi. Karakteristik AI yang selalu menenangkan dan non-judgmental hadir sebagai 'spons emosional' instan, sehingga individu dengan instabilitas emosi paling rentan terikat secara psikologis.",
+    "question": "Mengapa korelasi kelima dimensi Big Five berada pada kategori sedang, dan dimensi mana yang memiliki hubungan paling kuat?",
+    "answer": "Izin memaparkan rincian korelasi sesuai Tabel 2 Halaman 5 Laporan kami, Dewan Juri. Berdasarkan uji korelasi Spearman, kelima dimensi memiliki korelasi negatif dan signifikan (p < 0,001) dalam kategori sedang (Sugiyono, 2010). Korelasi tertinggi secara statistik berada pada dimensi Agreeableness (rs = -0,530) dan Extraversion (rs = -0,522), disusul Conscientiousness (rs = -0,509), Intellect (rs = -0,504), dan Emotional Stability (rs = -0,490). Secara psikologis, korelasi tertinggi pada Agreeableness dan Extraversion menunjukkan bahwa hambatan relasi sosial dengan sesama manusia menjadi pendorong utama seseorang berpaling ke AI yang selalu menerima tanpa konflik. Adapun Emotional Stability (stabilitas emosi rendah) menjadi pemicu kerentanan afektif (distres dan overthinking) yang mencari penenang instan pada AI.",
     "badge_color": {
       "bg": "rgba(239, 68, 68, 0.15)",
       "border": "#ef4444",
@@ -3210,8 +3210,8 @@
     "category": "Prediksi Juri Room 1",
     "pic": "Rafli & Tim",
     "code": "JURI-30",
-    "question": "Korelasi Big Five kalian di kisaran r = -0,49 sampai -0,50 dengan R^2 hanya sekitar 25%. Berarti 75% faktor lain tidak kalian teliti. Mengapa kalian tetap fokus pada Big Five jika mayoritas faktor dipengaruhi hal lain?",
-    "answer": "Izin menjawab pertanyaan tajam Dewan Juri mengenai koefisien determinasi. Temuan bahwa R^2 berada di kisaran 25% justru merupakan kontribusi teoretis terpenting dalam riset kami yang sejalan dengan Five-Factor Theory dari McCrae & Costa (2003) serta Fang & Bian (2026).\n\nDalam psikologi kepribadian, trait Big Five adalah 'Basic Tendencies' (faktor predisposisi internal yang stabil), bukan penentu takdir mutlak. Kepribadian menentukan ambang kerentanan individu: individu dengan Emotional Stability rendah dan Agreeableness tinggi memiliki kerentanan afektif lebih tinggi untuk lari ke AI saat menghadapi stresor.\n\nAdapun 75% variansi lainnya adalah 'Characteristic Adaptations' dan faktor afektif situasional—seperti kesepian, tekanan akademik, dan ketakutan dihakimi orang terdekat. Karena kepribadian bersifat stabil dan sulit diubah, intervensi MBPP kami justru dirancang untuk menyasar 75% faktor situasional tersebut: melatih regulasi emosi dan kesadaran diri agar individu dengan trait rentan memiliki mekanisme koping yang adaptif di dunia nyata.",
+    "question": "Korelasi Big Five kalian di kisaran r = -0,490 sampai -0,530 dengan R^2 sekitar 25%. Berarti 75% faktor lain tidak kalian teliti. Mengapa kalian tetap fokus pada Big Five jika mayoritas faktor dipengaruhi hal lain?",
+    "answer": "Izin menjawab pertanyaan tajam Dewan Juri mengenai koefisien determinasi. Temuan bahwa korelasi berada di rentang rs = -0,490 hingga -0,530 dengan R^2 di kisaran 25% justru merupakan kontribusi teoretis terpenting dalam riset kami yang sejalan dengan Five-Factor Theory dari McCrae & Costa (2003) serta Fang & Bian (2026).\n\nDalam psikologi kepribadian, trait Big Five adalah 'Basic Tendencies' (faktor predisposisi internal yang stabil), bukan penentu takdir mutlak. Kepribadian menentukan ambang kerentanan individu: individu dengan Agreeableness rendah (-0,530), Extraversion rendah (-0,522), dan Emotional Stability rendah (-0,490) memiliki kerentanan relasional dan afektif lebih tinggi untuk lari ke AI saat menghadapi tekanan.\n\nAdapun 75% variansi lainnya adalah 'Characteristic Adaptations' dan faktor afektif situasional—seperti kesepian, tekanan akademik, dan ketakutan dihakimi orang terdekat. Karena kepribadian bersifat stabil dan sulit diubah, intervensi MBPP kami justru dirancang untuk menyasar 75% faktor situasional tersebut: melatih regulasi emosi dan kesadaran diri agar individu dengan trait rentan memiliki mekanisme koping yang adaptif di dunia nyata.",
     "badge_color": {
       "bg": "rgba(239, 68, 68, 0.15)",
       "border": "#ef4444",
