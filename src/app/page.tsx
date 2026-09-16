@@ -35,15 +35,16 @@ interface QnAItem {
 }
 
 const CATEGORIES = [
-  { id: "all", name: "Semua", count: 225, color: "border-blue-500 text-blue-400 bg-blue-500/10" },
-  { id: "Juri", name: "🔥 Prediksi Juri Room 1", count: 25, color: "border-red-500 text-red-400 bg-red-500/10" },
-  { id: "Dapel", name: "Dasar Penelitian", count: 31, color: "border-indigo-500 text-indigo-400 bg-indigo-500/10" },
-  { id: "Hapel", name: "Hasil Penelitian", count: 64, color: "border-emerald-500 text-emerald-400 bg-emerald-500/10" },
-  { id: "Metopel", name: "Metode Penelitian", count: 77, color: "border-amber-500 text-amber-400 bg-amber-500/10" },
-  { id: "Lupel", name: "Luaran Penelitian", count: 28, color: "border-pink-500 text-pink-400 bg-pink-500/10" },
+  { id: "all", name: "Semua", color: "border-blue-500 text-blue-400 bg-blue-500/10" },
+  { id: "Juri", name: "🔥 Prediksi Juri Room 1", color: "border-red-500 text-red-400 bg-red-500/10" },
+  { id: "Dapel", name: "Dasar Penelitian", color: "border-indigo-500 text-indigo-400 bg-indigo-500/10" },
+  { id: "Hapel", name: "Hasil Penelitian", color: "border-emerald-500 text-emerald-400 bg-emerald-500/10" },
+  { id: "Metopel", name: "Metode Penelitian", color: "border-amber-500 text-amber-400 bg-amber-500/10" },
+  { id: "Lupel", name: "Luaran Penelitian", color: "border-pink-500 text-pink-400 bg-pink-500/10" },
 ];
 
 const QUICK_TAGS = [
+  "Big Five",
   "maturasi",
   "kontrol grup",
   "pasal 10",
@@ -91,6 +92,14 @@ export default function HomePage() {
     document.documentElement.setAttribute("data-theme", next);
     localStorage.setItem("pimnas_theme", next);
   };
+
+  const categoryCounts = useMemo(() => {
+    const counts: Record<string, number> = { all: (rawData as QnAItem[]).length };
+    (rawData as QnAItem[]).forEach((item) => {
+      counts[item.sheet] = (counts[item.sheet] || 0) + 1;
+    });
+    return counts;
+  }, []);
 
   // Instant Search Engine (< 2 ms)
   const { results, elapsed } = useMemo(() => {
@@ -316,7 +325,7 @@ export default function HomePage() {
           <div className="flex items-center gap-3">
             <div className="flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3 py-1.5 backdrop-blur-md">
               <BookOpen className="h-4 w-4 text-emerald-400" />
-              <span className="font-mono font-bold text-emerald-400">225</span>
+              <span className="font-mono font-bold text-emerald-400">{rawData.length}</span>
               <span className="text-xs text-slate-400">Database Q&amp;A</span>
             </div>
 
@@ -431,7 +440,7 @@ export default function HomePage() {
                       isActive ? "bg-white/20 text-white" : "bg-white/10 text-slate-400"
                     }`}
                   >
-                    {cat.count}
+                    {categoryCounts[cat.id] || 0}
                   </span>
                 </button>
               );

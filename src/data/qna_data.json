@@ -3246,5 +3246,103 @@
       "text": "#f87171"
     },
     "id": 232
+  },
+  {
+    "id": 233,
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-33",
+    "question": "Judul riset Anda adalah 'MBPP Berbasis Big Five Personality', tetapi mengapa seluruh 14 partisipan mendapatkan modul yang sama? Di mana letak spesifik 'berbasis Big Five'-nya dalam intervensi?",
+    "answer": "Izin meluruskan catatan kritis Dewan Juri. Konsep 'berbasis Big Five Personality' dalam riset kami terintegrasi secara substantif dalam tiga tingkatan operasional: Pertama, pada Fase Skrining & Profiling, instrumen IPIP-BFM-50 (Akhtar & Azwar, 2019) digunakan pada 300 responden Gen Z untuk memetakan kepribadian dominan dan menyaring 14 partisipan intervensi yang memiliki skor ketergantungan CAIDS sedang-tinggi (Bab 3.4 & Lampiran Modul Halaman 101, 104). Kedua, pada Materi Psikoedukasi Pertemuan 1 MBPP ('Menyapa Diri dan Menyadari Saat Ini', Halaman 4 & 104), materi dirancang khusus mengenalkan profil lima dimensi Big Five, mindfulness, dan automatic pilot agar tiap peserta mengenali disposisi bawaannya saat menghadapi tekanan emosional. Ketiga, pada Diferensiasi Mekanisme Terapeutik (Bab 4.3.2 Halaman 6), latihan mindfulness MBPP bekerja adaptif menyasar kerentanan tiap trait: menumbuhkan kesadaran kritis metakognitif pada Intellect, mengembalikan energi sosial ke dunia nyata pada Extraversion, melatih kontrol impuls (prudence) pada Conscientiousness, serta melatih regulasi afektif mandiri (mindful breathing & self-compassion) pada individu dengan Emotional Stability rendah dan Agreeableness tinggi. Jadi, diferensiasi terletak pada psikoedukasi profil diri dan resonansi mekanisme terapeutik yang menyasar kelemahan unik tiap dimensi.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    }
+  },
+  {
+    "id": 234,
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-34",
+    "question": "Di tinjauan modul tertulis dimensi Openness to Experience dan Neuroticism (OCEAN), tetapi pada tabel hasil korelasi dan pembahasan Bab 4 ditulis Intellect dan Emotional Stability. Mengapa terdapat perbedaan istilah ini dan apakah ada inkonsistensi konstruk?",
+    "answer": "Izin meluruskan Dewan Juri yang terhormat. Sama sekali tidak ada inkonsistensi konstruk, melainkan kepatuhan metodologis kami terhadap instrumen psikometri baku yang digunakan. Pada tinjauan konseptual modul (Halaman 108–114), kami menguraikan model makro Five-Factor Model (Costa & McCrae, 1992) yang lazim disingkat OCEAN/CANOE untuk pengantar teoretis. Namun, pada operasionalisasi empiris di Bab 3.3 dan Tabel 2 Bab 4.1 (Halaman 5), kami menggunakan instrumen International Personality Item Pool - Big Five Markers-50 (IPIP-BFM-50) yang diadaptasi ke Bahasa Indonesia oleh Akhtar dan Azwar (2019). Dalam taksonomi leksikal Goldberg (1990) yang menjadi basis IPIP, dimensi ke-5 dibakukan dengan istilah 'Intellect' (fokus pada rasa ingin tahu intelektual dan ide abstrak), sedangkan dimensi kestabilan emosi diukur pada kutub adaptifnya, yaitu 'Emotional Stability' (kebalikan dari Neuroticism). Skor rendah pada Emotional Stability mencerminkan tingginya instabilitas emosi/Neuroticism. Dengan demikian, tata nama pada bab hasil penelitian konsisten sepenuhnya dengan alat ukur psikometri yang digunakan.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    }
+  },
+  {
+    "id": 235,
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-35",
+    "question": "Bagaimana temuan kualitatif menjelaskan perbedaan dinamika curhat ke AI antara jalur kebutuhan kognitif dan jalur kebutuhan afektif pada masing-masing dimensi Big Five?",
+    "answer": "Izin memaparkan temuan kualitatif kami sebagaimana dirangkum pada Sub-bab 4.3.2 Halaman 6 Laporan, Dewan Juri. Keterikatan Gen Z pada AI digerakkan oleh dua jalur psikologis yang berbeda (Huang & Lan, 2025): 1) Jalur Kognitif: Partisipan dengan trait Intellect (Openness) menjadikan AI sebagai mitra dialektika untuk menguji argumentasi dan mencari sudut pandang baru yang menantang pemikirannya (seperti partisipan JT pada Transkrip 186–192 yang sengaja meminta ChatGPT membantah argumennya), sementara partisipan dengan trait Conscientiousness menggunakan AI untuk mencari pemecahan masalah hidup yang terstruktur, informatif, dan terencana (partisipan G pada Transkrip 251–260). Keduanya rentan memicu ketergantungan berpikir instan. 2) Jalur Afektif: Partisipan dengan Extraversion beralih ke AI untuk mengekspresikan dinamika relasi secara objektif tanpa risiko kelelahan sosial (emotional fatigue), sedangkan partisipan dengan instabilitas emosi (Emotional Stability rendah) serta Agreeableness tinggi menggunakan AI sebagai pelarian emosional untuk meredakan kecemasan masa depan, overthinking menjelang tidur (partisipan T pada Transkrip 391–398 dan IS pada Transkrip 279–284), serta menghindari konflik keluarga/teman akibat kebiasaan memendam perasaan dan takut membebani orang lain (partisipan AHCR pada Transkrip 236–244).",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    }
+  },
+  {
+    "id": 236,
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-36",
+    "question": "Mengapa analisis korelasi dimensi Big Five dengan CAIDS-20 menggunakan uji non-parametrik Spearman Rank (rs), bukan Pearson Product Moment?",
+    "answer": "Izin menjelaskan dasar pertimbangan uji statistik kami, Bapak/Ibu Dewan Juri. Berdasarkan prosedur metodologi pada Bab 3.5.1 Halaman 4 dan bukti lampiran pengolahan SPSS (Lampiran 16.B Halaman 217–218), tim telah melakukan uji prasyarat normalitas menggunakan One-Sample Kolmogorov-Smirnov Test terhadap data skrining 300 responden (dari total 440 data masuk). Hasil uji menunjukkan bahwa seluruh variabel—baik kelima dimensi Big Five (Extraversion, Agreeableness, Conscientiousness, Emotional Stability, Intellect) maupun skor ketergantungan CAIDS-20—memiliki nilai Asymp. Sig. (2-tailed) < 0,05 (p = 0,000 s.d. 0,008). Karena sebaran data skrining terbukti tidak berdistribusi normal, asumsi parametrik terlanggar, sehingga sesuai kaidah statistik behavioral (Gravetter et al., 2021), analisis korelasi yang valid dan sah secara metodologis adalah statistik non-parametrik Korelasi Spearman Rank (rs). Sebaliknya, pada data tahap eksperimen (N=14), uji normalitas Shapiro-Wilk menunjukkan data berdistribusi normal (p = 0,101 > 0,05), sehingga digunakan uji parametrik paired-samples t-test.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    }
+  },
+  {
+    "id": 237,
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-37",
+    "question": "Berdasarkan Tabel 2 Hasil Penelitian, dimensi Agreeableness memiliki korelasi negatif tertinggi (rs = -0,530; p < 0,001). Mengapa Agreeableness memiliki hubungan terkuat dengan ketergantungan curhat AI?",
+    "answer": "Izin menjelaskan signifikansi dimensi Agreeableness, Dewan Juri yang terhormat. Berdasarkan Tabel 2 Halaman 5, Agreeableness berkorelasi negatif tertinggi (rs = -0,530; p < 0,001), disusul Extraversion (rs = -0,522). Secara teoretis (Costa & McCrae, 1992; Ozer & Benet-Martínez, 2006), individu dengan skor Agreeableness tinggi memiliki kehangatan sosial, kepedulian prososial, dan kualitas jejaring interpersonal yang kuat di dunia nyata, sehingga kebutuhan dukungan emosional mereka telah terpenuhi secara wajar tanpa perlu mencari kompensasi ke AI. Namun secara terbalik, individu dengan Agreeableness tinggi yang mengalami distres sering memiliki kecenderungan memendam perasaan karena takut membebani teman (fear of burdening others) atau takut dihakimi dan dimarahi (fear of negative evaluation), sebagaimana diakui partisipan AHCR (Transkrip 236–244) dan partisipan T (Transkrip 285–297). Kondisi ini membuat mereka rentan beralih ke AI sebagai ruang pengungkapan diri yang aman dan non-judgmental. Korelasi negatif yang kuat ini membuktikan bahwa penguatan dukungan sosial dan regulasi afektif melalui MBPP sangat efektif menurunkan reliansi mereka terhadap AI.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    }
+  },
+  {
+    "id": 238,
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-38",
+    "question": "Bagaimana intervensi MBPP secara spesifik mengatasi kecenderungan ketergantungan pada partisipan dengan trait Conscientiousness dan Intellect yang berorientasi kognitif?",
+    "answer": "Izin menjawab Dewan Juri. Pada partisipan dengan trait kognitif dominan (Intellect dan Conscientiousness), ketergantungan bukan didorong oleh kebutuhan validasi afektif, melainkan dorongan mencari pemecahan masalah dan efisiensi berpikir instan yang mengikis daya kritis (critical thinking), sebagaimana diakui partisipan G pada Transkrip baris 554–570. Intervensi MBPP mengintervensi dinamika ini secara spesifik: 1) Pada Conscientiousness, melalui Pertemuan 2 diperkenalkan kekuatan karakter Kehati-hatian (Prudence) dengan slogan 'Berhenti, Pikirkan, Bertindak'. Latihan ini membangun jeda kesadaran sebelum bereaksi (impulse control), menghentikan perilaku otomatis (automatic pilot) langsung membuka gawai saat ada masalah, sehingga partisipan belajar menganalisis masalah secara mandiri (sebagaimana dinyatakan partisipan IS pada self-report: 'berpikir sejenak dulu untuk memahami sendiri, setelah buntu baru buka AI'). 2) Pada Intellect, latihan kesadaran napas (mindful breathing) dan refleksi metakognitif melatih partisipan keluar dari overthinking analitis dan menumbuhkan kesadaran kritis metakognitif (Bab 4.3.2 Halaman 6), sehingga mereka tidak lagi terburu-buru mendelegasikan proses berpikir kepada AI.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    }
+  },
+  {
+    "id": 239,
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-39",
+    "question": "Bagaimana teori Media Equivalence, Uses and Gratifications, dan Attachment Theory dalam laporan Anda menjelaskan keterikatan kepribadian Big Five dengan AI?",
+    "answer": "Izin menjelaskan integrasi teoretis dalam riset kami, Dewan Juri (tertera pada Modul Halaman 111–113): 1) Media Equivalence Theory (Ho, Hancock, & Miner, 2018): Menguraikan bahwa manusia secara psikologis memperlakukan komputer/AI layaknya aktor sosial manusia. Pada trait Openness/Intellect tinggi, hal ini dipicu oleh motif eksplorasi interaksi baru sesuai Uses and Gratifications Theory (Katz dkk., 1973). 2) Compensatory Internet Use Theory (Kardefelt-Winther, 2014): Menjelaskan bahwa individu dengan Extraversion rendah (introvert) dan Emotional Stability rendah menggunakan conversational AI sebagai kompensasi atas kebutuhan psikologis yang tidak terpenuhi di dunia sosial nyata karena hambatan kecemasan sosial. 3) Attachment Theory (Xie & Pentina, 2022; Huang & Lan, 2025): Menjelaskan bahwa respons AI yang empatik, selalu tersedia 24/7, dan tidak menghakimi membentuk figur kelekatan semu (synthetic attachment) bagi individu yang rentan distres emosional (Emotional Stability rendah), yang jika tidak diintervensi dengan kesadaran penuh (MBPP) akan berkembang menjadi ketergantungan relasional maladaptif.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    }
   }
 ]
