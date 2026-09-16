@@ -1377,8 +1377,8 @@
     "category": "Metode Penelitian",
     "pic": "Fadli, alwa dan riswandi",
     "code": "Q4",
-    "question": "Berapa jumlah responden tahap skrining dan apakah jumlah tersebut representatif?",
-    "answer": "Izin menjawab mengenai keterwakilan sampel skrining, Dewan Juri. Tahap skrining kami menjaring 300 responden Generasi Z di Kota Makassar menggunakan teknik purposive sampling (Cohen & Swerdlik, 2018). Merujuk pada kaidah psikometri Comrey & Lee (1992), ukuran sampel 300 tergolong dalam kategori 'baik' (good sample size) untuk analisis korelasi dan penentuan norma kelompok. Sampel ini mencakup representasi seimbang dari berbagai perguruan tinggi dan program studi di Makassar yang aktif berinteraksi dengan conversational AI.",
+    "question": "Berapa jumlah responden tahap skrining, bagaimana proses seleksi dari 440 ke 300, dan apakah representatif?",
+    "answer": "Izin menjawab Bapak/Ibu Dewan Juri. Pada tahap skrining awal, terdapat 440 formulir daring yang masuk. Melalui prosedur pembersihan data (data cleaning) dan verifikasi kriteria inklusi yang ketat (Gen Z usia 18–25 tahun di Makassar yang aktif curhat ke AI), kami mengeliminasi data yang tidak lengkap, pengisian asal-asalan, atau data ganda, sehingga diperoleh 300 responden valid murni. Merujuk pada kaidah psikometri Comrey & Lee (1992), ukuran sampel N = 300 tergolong dalam kategori 'Good' (Baik) untuk analisis korelasi bivariat Spearman dan pemetaan norma kelompok.",
     "badge_color": {
       "bg": "rgba(245, 158, 11, 0.15)",
       "border": "#f59e0b",
@@ -1433,8 +1433,8 @@
     "category": "Metode Penelitian",
     "pic": "Fadli, alwa dan riswandi",
     "code": "Q8",
-    "question": "Berapa jumlah partisipan wawancara dan mengapa jumlah tersebut dianggap cukup?",
-    "answer": "Izin menjawab mengenai jumlah partisipan kualitatif, Dewan Juri. Wawancara mendalam dilakukan pada 5 partisipan terpilih yang mewakili variasi trait Big-Five dan tingkat perubahan skor. Sesuai prinsip metodologi kualitatif Creswell & Creswell (2018), pengumpulan data kualitatif dihentikan saat mencapai 'saturasi data' (data saturation). Pada partisipan kelima, tema-tema kunci mengenai dinamika pelarian ke AI dan efektivitas mindful breathing telah berulang secara konsisten tanpa memunculkan wawasan baru.",
+    "question": "Berapa jumlah partisipan wawancara kualitatif, mengapa 5 orang dianggap cukup, dan apakah mewakili Big-Five?",
+    "answer": "Izin menjawab mengenai jumlah partisipan kualitatif, Dewan Juri. Wawancara mendalam dilakukan terhadap 5 partisipan terpilih (AHCR, IS, JT, G, dan T). Jumlah 5 orang ini ditentukan berdasarkan prinsip 'Data Saturation' (Creswell & Creswell, 2018; Braun & Clarke, 2006), di mana tema pemicu isolasi dan efektivitas mindful breathing telah mencapai titik jenuh informasi pada partisipan kelima. Kelima partisipan ini dipilih secara Maximum Variation Purposive Sampling untuk mewakili spektrum Big-Five: jalur kognitif (Intellect & Conscientiousness) dan jalur afektif (Emotional Stability rendah & Agreeableness tinggi). Hal ini tertulis eksplisit di Laporan Kemajuan kami pada Sub-bab 4.3.2 halaman 6–7 dan Lampiran 19.",
     "badge_color": {
       "bg": "rgba(245, 158, 11, 0.15)",
       "border": "#f59e0b",
@@ -1601,8 +1601,8 @@
     "category": "Metode Penelitian",
     "pic": "Fadli, alwa dan riswandi",
     "code": "Q20",
-    "question": "Dari 440 responden skrining hanya 14 yang mengikuti intervensi. Bagaimana penelitian menangani kemungkinan attrition bias atau karakteristik khusus dari mereka yang bersedia berpartisipasi?",
-    "answer": "Izin menjawab mengenai penurunan jumlah responden dari 300 ke 14 partisipan. Penurunan ini bukan disebabkan oleh attrition bias (peserta gugur), melainkan merupakan desain penyaringan bertingkat (screening funnel). Dari 300 responden, hanya subkelompok yang memenuhi kriteria skor ketergantungan sedang-tinggi yang kami undang untuk intervensi. Dari kelompok tersebut, 14 orang menyatakan kesediaan penuh dan mengikuti seluruh sesi tanpa ada satupun yang drop-out (retensi 100%).",
+    "question": "Dari 440 formulir yang masuk mengapa menjadi 300 responden dan hanya 14 yang mengikuti intervensi? Bagaimana menangani attrition bias?",
+    "answer": "Izin menjawab mengenai alur penyaringan sampel, Dewan Juri. Penurunan dari 440 ke 300 adalah hasil seleksi data cleaning kriteria inklusi, sedangkan penurunan dari 300 responden ke 14 partisipan adalah desain penyaringan pencegahan sekunder (secondary prevention, Caplan, 1964). Kami hanya mengundang responden dengan skor CAIDS kategori tertinggi (rata-rata 72,29) yang curhat 3–5 kali seminggu. Dari kelompok berisiko tinggi tersebut, 14 orang menandatangani informed consent dan berkomitmen penuh mengikuti 4 sesi tatap muka serta mengisi logbook 28 hari. Seluruh 14 partisipan hadir lengkap tanpa ada yang gugur (retensi 100%), sehingga attrition bias selama proses intervensi adalah nol.",
     "badge_color": {
       "bg": "rgba(245, 158, 11, 0.15)",
       "border": "#f59e0b",
@@ -2875,7 +2875,7 @@
     "pic": "Rafli & Tim",
     "code": "JURI-06",
     "question": "Mengapa jumlah partisipan eksperimen hanya 14 orang? Apakah jumlah tersebut representatif untuk mengklaim efektivitas intervensi?",
-    "answer": "Izin menjelaskan justifikasi ukuran sampel 14 orang pada tahap eksperimen, Dewan Juri. Merujuk pada kaidah eksperimen psikologi behavioral (Roscoe, 1975), ukuran sampel 10 hingga 20 orang sudah sangat memadai untuk intervensi psikoedukasi kelompok kecil (small-group training). Format 14 orang ini dipilih secara sengaja agar fasilitator dapat memastikan kehadiran penuh 100%, memeriksa catatan harian setiap partisipan, dan melakukan observasi mendalam secara aman. Keterwakilan populasi makro telah kami penuhi pada tahap kuantitatif pertama dengan 300 responden skrining.",
+    "answer": "Izin menjelaskan justifikasi ukuran sampel 14 orang pada tahap eksperimen, Dewan Juri. Merujuk pada kaidah eksperimen psikologi behavioral (Roscoe, 1975) dan Campbell & Stanley (1963), ukuran sampel 10 hingga 20 orang sudah sangat memadai dan ideal untuk intervensi psikoedukasi kelompok kecil (small-group training). Format 14 orang ini dipilih secara sengaja agar fasilitator dapat memastikan kehadiran penuh 100%, memeriksa catatan logbook harian 28 hari setiap malam, dan mengamati dinamika afektif setiap partisipan secara mendalam dan aman. Keterwakilan populasi makro telah kami penuhi pada tahap kuantitatif pertama dengan 300 responden skrining.",
     "badge_color": {
       "bg": "rgba(239, 68, 68, 0.15)",
       "border": "#ef4444",
@@ -3029,7 +3029,7 @@
     "pic": "Rafli & Tim",
     "code": "JURI-17",
     "question": "Mengapa wawancara mendalam kualitatif hanya dilakukan pada 5 orang? Dari mana kalian tahu data sudah jenuh (data saturation)?",
-    "answer": "Izin menjelaskan rasionalisasi sampel 5 orang wawancara kualitatif, Dewan Juri. Dalam metodologi kualitatif Sequential Explanatory (Creswell & Creswell, 2018), tujuan wawancara bukanlah generalisasi statistik, melainkan 'kedalaman pemaknaan' (depth of inquiry). Ukuran 5 partisipan dipandu oleh prinsip 'Data Saturation' (Braun & Clarke, 2006). Pada wawancara partisipan kelima, informasi mengenai mekanisme mindful breathing dan pergeseran perilaku telah mencapai titik jenuh (tidak memunculkan tema baru), sehingga pengumpulan data kualitatif dinyatakan tuntas.",
+    "answer": "Izin menjelaskan rasionalisasi sampel 5 orang wawancara kualitatif, Dewan Juri. Dalam metodologi kualitatif Sequential Explanatory (Creswell & Creswell, 2018), efektivitas intervensi telah dibuktikan secara statistik pada seluruh 14 partisipan (t = 3,268; p = 0,006; Cohen's d = 0,87). Tujuan wawancara mendalam bukanlah generalisasi angka, melainkan kedalaman pemaknaan batin (depth of inquiry). Ukuran 5 partisipan dipandu oleh prinsip 'Data Saturation' (Braun & Clarke, 2006). Pada wawancara partisipan kelima, informasi telah mencapai titik jenuh tanpa memunculkan tema baru. Selain itu, kelima partisipan sengaja dipilih untuk mewakili variasi trait Big-Five jalur kognitif dan afektif sebagaimana dilaporkan pada Sub-bab 4.3.2 dan Lampiran 19.",
     "badge_color": {
       "bg": "rgba(239, 68, 68, 0.15)",
       "border": "#ef4444",
@@ -3148,5 +3148,33 @@
       "text": "#f87171"
     },
     "id": 225
+  },
+  {
+    "id": 226,
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-26",
+    "question": "Apakah 5 orang yang diwawancarai ini mewakili kelima dimensi Big Five? Dan apakah hal tersebut tertulis di proposal/laporan kemajuan?",
+    "answer": "Izin menjawab pertanyaan kritis Dewan Juri. Pertama, hal ini telah TERTULIS EKSPLISIT dalam Laporan Kemajuan kami pada Sub-bab 4.3.2 halaman 6–7 dengan judul resmi 'Profil Karakteristik Big Five dalam Pola Curhat ke AI dan Respons Intervensi', serta bukti matriks koding transkrip pada Lampiran 19 (halaman 425–509).\n\nKedua, secara metodologis (Creswell & Creswell, 2018), penentuan 5 partisipan wawancara ini menerapkan teknik Maximum Variation Purposive Sampling. Kami tidak mencari generalisasi persentase statistik—karena keterwakilan populasi makro sudah dibuktikan secara kuantitatif pada 300 responden tahap skrining.\n\nMerujuk pada Five-Factor Model (Costa & McCrae, 1992), kepribadian bukanlah tipe tunggal yang terkotak-kotak, melainkan spektrum kontinum di mana setiap individu memiliki skor pada kelima dimensi. Kelima partisipan yang kami wawancarai (AHCR, IS, JT, G, dan T) telah diukur skor IPIP-BFM-50-nya saat skrining dan sengaja dipilih dari 14 peserta intervensi untuk mewakili dua kutub besar:\n1) Jalur Kognitif: Partisipan dengan skor dominan pada Intellect dan Conscientiousness yang menggunakan AI sebagai mitra dialektika adu argumen dan pemecahan masalah terstruktur;\n2) Jalur Afektif: Partisipan dengan Emotional Stability rendah dan Agreeableness tinggi yang menggunakan AI sebagai pelarian emosional akibat overthinking dan ketakutan membebani orang terdekat (perceived burdensomeness, Joiner, 2005).\n\nPada partisipan kelima, seluruh dinamika kelima dimensi Big Five ini telah berulang secara konsisten dan mencapai saturasi data (data saturation, Braun & Clarke, 2006), sehingga kelima partisipan tersebut secara kualitatif sudah sangat utuh merepresentasikan dinamika Big Five dalam riset kami.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    }
+  },
+  {
+    "id": 227,
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-27",
+    "question": "Bagaimana rincian alur dan proses penyaringan sampel dari 440 formulir masuk menjadi 300 responden valid, lalu 14 partisipan intervensi, hingga 5 partisipan wawancara?",
+    "answer": "Izin memaparkan alur piramida penyaringan sampel (sampling funnel) riset kami, Dewan Juri yang terhormat:\n\n1. Dari 440 ke 300 Responden (Tahap Skrining Kuantitatif):\nTotal kuesioner daring yang masuk di awal berjumlah 440 formulir. Kami melakukan prosedur pembersihan data (data cleaning) dan verifikasi kriteria inklusi yang ketat: memastikan responden adalah Gen Z (18–25 tahun) di Makassar yang aktif melakukan self-disclosure masalah pribadi ke AI (bukan sekadar tugas teknis), serta mengeliminasi respons tidak lengkap, pengisian asal-asalan (straight-lining), dan data ganda. Diperoleh 300 responden valid yang menurut kaidah psikometri Comrey & Lee (1992) tergolong kategori 'Good' untuk uji korelasi Spearman.\n\n2. Dari 300 ke 14 Partisipan (Tahap Intervensi MBPP):\nIntervensi MBPP dirancang sebagai pencegahan sekunder (secondary prevention, Caplan, 1964) yang menyasar kelompok berisiko tinggi. Kami menyaring responden yang memiliki skor CAIDS-20 kategori sedang-tinggi (rata-rata baseline awal 72,29) dan curhat ke AI 3–5 kali seminggu. Sebanyak 14 partisipan berkomitmen penuh dan menandatangani informed consent sukarela. Berdasarkan kaidah eksperimen psikologi behavioral Roscoe (1975) dan Campbell & Stanley (1963), sampel 10–20 orang adalah ukuran ideal untuk intervensi psikoedukasi kelompok kecil intensif agar fasilitator dapat mengawasi latihan mindfulness dan logbook harian 28 hari secara presisi.\n\n3. Dari 14 ke 5 Partisipan (Tahap Wawancara Mendalam):\nEfektivitas intervensi telah terbukti secara kuantitatif pada seluruh 14 partisipan (paired t-test t = 3,268; p = 0,006; Cohen's d = 0,87). Sesuai desain Sequential Explanatory (Creswell & Creswell, 2018), wawancara mendalam pada 5 partisipan dilakukan untuk membedah proses psikologis batinnya. Jumlah 5 orang ini ditentukan berdasarkan prinsip Saturasi Data (Braun & Clarke, 2006)—di mana tema pemicu isolasi dan efektivitas mindful breathing telah mencapai titik jenuh informasi—serta mewakili variasi trait Big Five (jalur kognitif dan jalur afektif).",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    }
   }
 ]
