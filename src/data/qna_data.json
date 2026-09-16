@@ -3176,5 +3176,75 @@
       "border": "#ef4444",
       "text": "#f87171"
     }
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-28",
+    "question": "Generasi muda sekarang wajar akrab dengan teknologi. Curhat ke AI kan hak privat, cepat, dan gratis. Kenapa dianggap masalah darurat yang harus diintervensi? Bukankah kalian terlalu melebih-lebihkannya?",
+    "answer": "Izin menjawab catatan kritis Dewan Juri. Kami tegaskan bahwa kami sama sekali tidak anti-teknologi ataupun melebih-lebihkan fenomena ini. Curhat ke AI memang wajar jika sebatas pelampiasan ventilasi kognitif sesaat. Namun, fenomena ini bergeser menjadi 'kondisi darurat psikologis' ketika berkembang menjadi ketergantungan emosional maladaptif (Compensatory Internet Use Theory, Kardefelt-Winther, 2014; Synthetic Attachment, Zhang dkk., 2025).\n\nData empiris primer kami membuktikan tiga disfungsi nyata di lapangan: Pertama, Replacement—AI menggantikan sistem dukungan sosial manusia, di mana partisipan AHCR mengisolasi diri dari keluarga karena merasa AI adalah satu-satunya ruang aman. Kedua, Emotional Paralysis—partisipan IS mengalami insomnia akut dan kecemasan tinggi saat server ChatGPT down karena tidak mampu menenangkan diri sendiri. Ketiga, Decision Paralysis—partisipan I kehilangan kepercayaan diri untuk mengambil keputusan hidup tanpa validasi AI terlebih dahulu.\n\nJika dibiarkan, Generasi Z berisiko mengalami atrofi keterampilan sosial dan kehilangan kapasitas regulasi emosi mandiri di dunia nyata. Oleh karena itu, intervensi MBPP kami bukan untuk melarang AI, melainkan memberdayakan resiliensi internal generasi muda agar tetap berdaya di era kecerdasan buatan.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 228
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-29",
+    "question": "Kalian mengklaim skor CAIDS turun drastis (72,29 ke 50,79, d = 0,87) tanpa kelompok kontrol. Bagaimana membuktikan secara kausal bahwa penurunan ini murni karena MBPP, bukan karena partisipan jenuh/bosan curhat ke AI atau efek waktu?",
+    "answer": "Izin menanggapi catatan metodologis Dewan Juri. Kami sangat menyadari keterbatasan internal validity dari One-Group Pretest-Posttest Design sebagaimana diuraikan Campbell & Stanley (1963). Namun, tuduhan bahwa penurunan skor disebabkan oleh 'faktor waktu' atau 'kejenuhan alami terhadap AI' berhasil kami patahkan secara mutlak melalui triangulasi proses longitudinal mikro pada logbook harian 28 hari:\n\nPertama, penurunan menit interaksi AI pada data harian partisipan TIDAK terjadi secara linear atau gradual seiring berjalannya hari (yang mencirikan efek bosan atau waktu). Penurunan drastis terjadi secara bertahap tepat setelah Sesi 2 (latihan jeda/pausing) dan Sesi 3 (mindful breathing), di mana partisipan mencatat secara verbatim bahwa mereka berhasil menahan dorongan membuka AI saat overthinking muncul dengan melakukan teknik pernapasan sadar.\n\nKedua, nilai effect size Cohen's d = 0,87 tergolong sangat besar (large effect size; Cohen, 1988), yang secara statistik mustahil hanya dihasilkan oleh fluktuasi suasana hati atau rasa bosan sesaat. Ketiga, pengakuan kualitatif pada wawancara mendalam membuktikan adanya keterampilan regulasi baru yang dikuasai secara sadar, bukan karena mereka tidak ingin memakai AI lagi.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 229
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-30",
+    "question": "Korelasi Big Five kalian di kisaran r = -0,49 sampai -0,50 dengan R^2 hanya sekitar 25%. Berarti 75% faktor lain tidak kalian teliti. Mengapa kalian tetap fokus pada Big Five jika mayoritas faktor dipengaruhi hal lain?",
+    "answer": "Izin menjawab pertanyaan tajam Dewan Juri mengenai koefisien determinasi. Temuan bahwa R^2 berada di kisaran 25% justru merupakan kontribusi teoretis terpenting dalam riset kami yang sejalan dengan Five-Factor Theory dari McCrae & Costa (2003) serta Fang & Bian (2026).\n\nDalam psikologi kepribadian, trait Big Five adalah 'Basic Tendencies' (faktor predisposisi internal yang stabil), bukan penentu takdir mutlak. Kepribadian menentukan ambang kerentanan individu: individu dengan Emotional Stability rendah dan Agreeableness tinggi memiliki kerentanan afektif lebih tinggi untuk lari ke AI saat menghadapi stresor.\n\nAdapun 75% variansi lainnya adalah 'Characteristic Adaptations' dan faktor afektif situasional—seperti kesepian, tekanan akademik, dan ketakutan dihakimi orang terdekat. Karena kepribadian bersifat stabil dan sulit diubah, intervensi MBPP kami justru dirancang untuk menyasar 75% faktor situasional tersebut: melatih regulasi emosi dan kesadaran diri agar individu dengan trait rentan memiliki mekanisme koping yang adaptif di dunia nyata.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 230
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-31",
+    "question": "Kalian mahasiswa S1, belum psikolog klinis berlisensi. Bagaimana kalian mempertanggungjawabkan secara legal dan etis jika ada partisipan mengalami abreaksi emosional akut atau reaktivasi trauma saat sesi mindfulness?",
+    "answer": "Izin menjawab mengenai akuntabilitas etika dan hukum riset kami, Dewan Juri yang kami hormati. Riset kami beroperasi ketat di bawah koridor hukum dan etika resmi melalui 4 lapis perlindungan (safeguards):\n\n1. Landasan Hukum & Etika (Pasal 10 Kode Etik HIMPSI 2010): MBPP berstatus Psikoedukasi Preventif, BUKAN psikoterapi klinis kuratif. Berdasarkan Pasal 10 Kode Etik Psikologi Indonesia, mahasiswa psikologi berwenang memfasilitasi psikoedukasi terstandarisasi di bawah supervisi penuh Dosen Pendamping yang berlatar belakang Magister Psikologi.\n\n2. Protokol Kelaikan Etik (Ethical Clearance): Seluruh instrumen dan modul telah lolos kaji etik resmi universitas sebelum intervensi dimulai (Lampiran 8), dilengkapi informed consent sukarela dan hak undur diri (right to withdraw).\n\n3. Teknik Mindfulness Aman (Low-Risk Grounding): Latihan dalam modul MBPP kami batasi murni pada latihan kesadaran napas dasar (breath awareness) dan grounding sensori untuk relaksasi saat ini, BUKAN meditasi mendalam yang membongkar memori masa lalu atau trauma psikologis.\n\n4. Sistem Rujukan Klinis (Referral System): Kami memiliki Standar Operasional Prosedur (SOP) darurat: jika ditemukan indikasi distres emosional berat atau abreaksi, sesi segera dijeda untuk pendampingan individual (debriefing), dan partisipan langsung dirujuk ke psikolog profesional di Unit Pelayanan Bimbingan Konseling UNM.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 231
+  },
+  {
+    "sheet": "Juri",
+    "category": "Prediksi Juri Room 1",
+    "pic": "Rafli & Tim",
+    "code": "JURI-32",
+    "question": "Latihan mindfulness dan meditasi pernapasan sudah ribuan tersedia gratis di YouTube dan aplikasi gawai. Apa bedanya modul MBPP kalian, dan bagaimana menjamin Laman Web MBPP tidak berakhir menjadi bangkai digital pasca-PIMNAS?",
+    "answer": "Izin menjelaskan diferensiasi dan keberlanjutan produk riset kami, Dewan Juri yang terhormat.\n\n1. Diferensiasi Ilmiah Modul MBPP: Konten di YouTube atau aplikasi populer bersifat generik (one-size-fits-all) tanpa landasan diagnostik kepribadian. Kebaruan modul MBPP kami terletak pada 'Integrasi Profil Big Five': pada trait kognitif (Intellect & Conscientiousness), modul melatih kesadaran metakognitif agar tidak malas berpikir akibat jawaban instan AI; sedangkan pada trait afektif (Emotional Stability rendah & Agreeableness tinggi), modul melatih self-compassion dan regulasi rasa bersalah agar tidak bergantung pada empati sintetis AI. Modul ini telah teruji efektivitasnya secara empiris menurunkan skor ketergantungan CAIDS secara signifikan (t = 3,268; p = 0,006; d = 0,87).\n\n2. Jaminan Keberlanjutan Website (Anti-Bangkai Digital): Laman Web MBPP kami telah mengantongi Sertifikat Hak Cipta resmi dari Kemenkumham RI dan tidak berdiri sendiri sebagai proyek mahasiswa sesaat. Kami telah menjalin integrasi kelembagaan (Institutional Embedding, Meyer & Rowan, 1977) dengan menyerahkan modul dan platform ini ke UPT Layanan Bimbingan Konseling Universitas Negeri Makassar untuk dijadikan instrumen skrining mandiri dan panduan orientasi mahasiswa baru secara berkelanjutan.",
+    "badge_color": {
+      "bg": "rgba(239, 68, 68, 0.15)",
+      "border": "#ef4444",
+      "text": "#f87171"
+    },
+    "id": 232
   }
 ]
